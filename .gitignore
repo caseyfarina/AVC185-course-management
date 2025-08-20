@@ -1,0 +1,37 @@
+# IMSCC files (too large for GitHub)
+*.imscc
+*.zip
+
+# Large extracted course content
+extracted_course/web_resources/Uploaded Media/
+extracted_course/web_resources/*.mp4
+extracted_course/web_resources/*.mkv
+extracted_course/web_resources/*.c4d
+extracted_course/web_resources/*.zip
+extracted_course/web_resources/*.ai
+extracted_course/web_resources/*.pdf
+
+# Temporary files
+temp/
+*.pyc
+__pycache__/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python virtual environment
+venv/
+env/
+.env

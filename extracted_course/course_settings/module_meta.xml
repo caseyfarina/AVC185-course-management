@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <module identifier="gb676fa7254ad4f7dcea2460e0d796ad4">
+    <title>Modeling Fundamentals</title>
+    <workflow_state>active</workflow_state>
+    <position>1</position>
+    <locked>false</locked>
+    <items>
+      <item identifier="g4dd4bcad711f411ff49642805cb249d3">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 1: Syllabus Acknowledgement</title>
+        <identifierref>g9fee249027ee5ad4cf94cf890d5f56af</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g8175c2509001a784ddbf8cb964c2eeed">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 1: Technology Login Challenge (3⏳)</title>
+        <identifierref>gd948913ca32ac0d123c2119940756c91</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd40ba0474157eebc30aad4d84631c33f">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 1: Introduction to Blender </title>
+        <identifierref>g36450a0839599fd7909acf76c13b40b0</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5af71385f8e2586cefa5e7c288c51aa0">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 2: Bezier Curves: Creating 3D shapes from 2D Curves</title>
+        <identifierref>g8220ab6adee6ec8f84bf9f6012f57f26</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g9d20fe786399c0abc52d9dddc68b9f30">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Modifiers and Rendering: Constructing a scene from Multipart Objects</title>
+        <identifierref>g6b72bfaf2319de56b62847c8baf810f2</identifierref>
+        <position>11</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g351b79302c1f582b201853a129ee420b">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Rendering, Compositing and Basic Remesh Workflow</title>
+        <identifierref>g20f59e25f3fa3656d818e757af72613e</identifierref>
+        <position>12</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd606146d3d81035dea9c05f88659169a">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Materials, Hard Surface VS Sculpting workflow </title>
+        <identifierref>ged670864b6f6dbe659f5d703882cb069</identifierref>
+        <position>13</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd73cd98f3e5a02770760f9886a59dd5d">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Introduction to Substance Painter</title>
+        <identifierref>gf996147eab481787e5c4f5626a295d61</identifierref>
+        <position>14</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gff778e1029e1ad9ed99899c2b965016d">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Introduction to UV Unwrapping</title>
+        <identifierref>g17408bb11ac5ff71e18579d04bfb57d8</identifierref>
+        <position>15</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gadfff83570aa716a9dc8f0a39d399ef3">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Modeling Foliage, UV details, Playground Showcase Video</title>
+        <identifierref>g8407165939ff80ce73f7945689263009</identifierref>
+        <position>16</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gba953a29d395cb974301c8234a6a9659">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Modeling to Scale and UV Packing</title>
+        <identifierref>g189401cb9fa253cbe434a381802a6596</identifierref>
+        <position>18</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gfe9db1b2218fd0524f1d858056994064">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Substance Painter Techniques</title>
+        <identifierref>g410b9f6fbc39e616a90ed53576e640dd</identifierref>
+        <position>19</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g58de762390d00da020acda0f9713e6d4">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Lamp Revisions</title>
+        <identifierref>gdcd12c342fa682a3f61b3fe296bb137f</identifierref>
+        <position>20</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gbb349c7b9694f51781f3e4f9852f7fe4">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Kitchen: Modeling Silverware, and Antique Silverware</title>
+        <identifierref>gd9f812b003cb8f2a4c56a849d0a7f958</identifierref>
+        <position>25</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g2deb87e8e237964bd75bd96f9b55ee5e">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Final Portfolio Requirements 25% of the course grade</title>
+        <identifierref>ga45c0a38ed19157066c2b34c30e682af</identifierref>
+        <position>26</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g33dcff609b3590cae212bcd36434571b">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Kitchen: Plates and Napkins</title>
+        <identifierref>gaae5c0e89b19779012112987a61f4773</identifierref>
+        <position>27</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g8ca23ed8c83fa7a1bbe92fba491f46f7">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Kitchen Modeling: Kitchen Table and Chairs  </title>
+        <identifierref>g515785273d32271ea7c08468191b15c6</identifierref>
+        <position>29</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gf9f1b7b7dd79d4efcc8959fdf1ac0e34">
+        <content_type>WikiPage</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Gorilla Videos</title>
+        <identifierref>g129f5ae610ac1d50ec8112c3beff5801</identifierref>
+        <position>68</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="g095060020448a6d00a0b87f89d89024d">
+    <title>Isometric Island</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>2</position>
+    <locked>false</locked>
+    <items>
+    </items>
+  </module>
+  <module identifier="gcb11143dbb20dae6d64cac6b536f7d49">
+    <title>SpaceShip</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>3</position>
+    <locked>false</locked>
+    <items>
+    </items>
+  </module>
+  <module identifier="g1ac28d880d1357ee64b0f41dde886018">
+    <title>Interior Scene</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>4</position>
+    <locked>false</locked>
+    <items>
+    </items>
+  </module>
+  <module identifier="g0cc0d3921e159b16aaf8af6abc08f3c8">
+    <title>Vehicle Modeling</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>5</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+    </items>
+  </module>
+  <module identifier="gf3b96515a26cd907b306264e7b7bca9f">
+    <title>Participate in the Community</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>6</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+    </items>
+  </module>
+</modules>
