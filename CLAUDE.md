@@ -3,6 +3,8 @@
 ## Overview
 IMSCC (IMS Common Cartridge) is Canvas's course export format - essentially a ZIP file with XML metadata and HTML content files. This document outlines the complete workflow for editing Canvas courses via IMSCC files.
 
+**Preferred Workflow**: The IMSCC → parse → edit → rebuild IMSCC workflow is the recommended approach for course content management. Previous experiments with GitHub Pages hosting and iframe embedding were discontinued due to security and accessibility concerns.
+
 ## Key Technical Concepts
 
 ### IMSCC Structure

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course identifier="ga29a3c83964e67cc9eb8bcdb1f4f6d4a" xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <title>GC 2025 FALL-AVC185 19399</title>
+  <course_code>AVC185 19399</course_code>
+  <start_at>2025-08-23T07:00:00</start_at>
+  <conclude_at>2025-12-08T07:00:00</conclude_at>
+  <tab_configuration>[{"id":0},{"id":5},{"id":"context_external_tool_ga894800beee5bbc1fe86fe7ed699df95"},{"id":14},{"id":10},{"id":1,"hidden":true},{"id":18,"hidden":true},{"id":6,"hidden":true},{"id":"context_external_tool_g459fd10292564fa3d327a31c40fc044b","hidden":true},{"id":"context_external_tool_g6ff9b3248edb20c3bfa425f79970f4d5","hidden":true},{"id":"context_external_tool_g5305f7d7064991168f1c80e58711046a","hidden":true},{"id":"context_external_tool_g7a8ede2629a22f9ac4f145c96fb72850","hidden":true},{"id":"context_external_tool_g3c512905f0995387cab99568e662b0ee","hidden":true},{"id":8,"hidden":true},{"id":3,"hidden":true},{"id":2,"hidden":true},{"id":11,"hidden":true},{"id":15,"hidden":true},{"id":4,"hidden":true},{"id":16,"hidden":true},{"id":12,"hidden":true},{"id":"context_external_tool_ge95ff7a1b1062e36aef106d3729a552b","hidden":true},{"id":"context_external_tool_ga64e9d6bccd5026e8925088339f2e4e5","hidden":true},{"id":"context_external_tool_gf171ecd6eaa8d4d2217f983e5ec703b1","hidden":true},{"id":"context_external_tool_g19ccd778f9c0185fac7c1dd2b19c2247","hidden":true},{"id":"context_external_tool_g64457b0cdc3395b6b7a0e2244a1f2ac7","hidden":true},{"id":"context_external_tool_gaa78e663cb6441b26fb2f5bb773b31b7","hidden":true},{"id":"context_external_tool_ge307037243834fcaf34ab4537fb05352","hidden":true},{"id":"context_external_tool_g6368726defd415e39e788c75764cf85d","hidden":true},{"id":"context_external_tool_gaf48004e1e0d0342d22cc8d9b7fbcafc","hidden":true},{"id":"context_external_tool_g2e9a75d31f00082ccc6918c0ee105ae9","hidden":true},{"id":"context_external_tool_ga77730f8917f14ac8054b51c88e41b3d","hidden":true},{"id":"context_external_tool_g7a550284a790e8f9ec2bc566bb1b1dc5","hidden":true},{"id":"context_external_tool_gbd656ea5024f337218efe58b2db43675","hidden":true},{"id":"context_external_tool_g88f94b4294dd4f89792ea2d0db4a6b38","hidden":true},{"id":"context_external_tool_gbf5ba5c6cc772b38fa2fc98f0847d836","hidden":true},{"id":"context_external_tool_ge23a17b1e407c9b40736fce0989df0b7","hidden":true},{"id":"context_external_tool_g271dda28ec7e780f0b6059ec0e9902a6","hidden":true},{"id":"context_external_tool_gecd32da720b98046619837fa470c9005","hidden":true},{"id":"context_external_tool_g206a41f1c9028514d8d4e877b3139a6a","hidden":true},{"id":"context_external_tool_g8d375461d95bd04718b4bef004696899","hidden":true},{"id":"context_external_tool_g1e5f341d2fee535ecc2d948d017688eb","hidden":true},{"id":"context_external_tool_g3fa00eadac0580e91f34f502737b5988","hidden":true},{"id":"context_external_tool_g9b5707a79dd428fb0f1722ebe84f9445","hidden":true},{"id":"context_external_tool_g2902b4e3c052c5433f04969813fcaa5a","hidden":true},{"id":"context_external_tool_g40e1c0477f51ca4f0ff32d7970bbbd51","hidden":true},{"id":"context_external_tool_g7986680947c948ec5845e51f58d3d374","hidden":true},{"id":"context_external_tool_g2c2b921dc618713c0e9b838fc0dc8411","hidden":true},{"id":"context_external_tool_gd5512eced53acb6065d198dfaee6c267","hidden":true},{"id":"context_external_tool_g51c77e03498966111d3a01f4c91576ec","hidden":true},{"id":"context_external_tool_ge937fd37ff330f1c1857b25fa6fc8019","hidden":true},{"id":"context_external_tool_gc744082773a3693c3a0a791a699afc8a","hidden":true},{"id":"context_external_tool_gd9d470499214ef99f42596819b6e9710","hidden":true}]</tab_configuration>
+  <image_identifier_ref>g1389528bb65bff82836dc19873b8bd67</image_identifier_ref>
+  <group_weighting_scheme>percent</group_weighting_scheme>
+  <is_public>false</is_public>
+  <is_public_to_auth_users>false</is_public_to_auth_users>
+  <allow_student_wiki_edits>false</allow_student_wiki_edits>
+  <syllabus_course_summary>true</syllabus_course_summary>
+  <allow_student_forum_attachments>true</allow_student_forum_attachments>
+  <lock_all_announcements>false</lock_all_announcements>
+  <default_wiki_editing_roles>teachers</default_wiki_editing_roles>
+  <allow_student_organized_groups>true</allow_student_organized_groups>
+  <default_view>wiki</default_view>
+  <show_total_grade_as_points>false</show_total_grade_as_points>
+  <open_enrollment>false</open_enrollment>
+  <filter_speed_grader_by_student_group>false</filter_speed_grader_by_student_group>
+  <self_enrollment>false</self_enrollment>
+  <license>private</license>
+  <indexed>false</indexed>
+  <hide_final_grade>false</hide_final_grade>
+  <hide_distribution_graphs>false</hide_distribution_graphs>
+  <allow_student_discussion_topics>true</allow_student_discussion_topics>
+  <allow_student_discussion_editing>true</allow_student_discussion_editing>
+  <show_announcements_on_home_page>false</show_announcements_on_home_page>
+  <home_page_announcement_limit>3</home_page_announcement_limit>
+  <usage_rights_required>false</usage_rights_required>
+  <restrict_student_future_view>false</restrict_student_future_view>
+  <restrict_student_past_view>false</restrict_student_past_view>
+  <restrict_enrollments_to_course_dates>true</restrict_enrollments_to_course_dates>
+  <homeroom_course>false</homeroom_course>
+  <horizon_course>false</horizon_course>
+  <conditional_release>false</conditional_release>
+  <content_library>false</content_library>
+  <grading_standard_enabled>false</grading_standard_enabled>
+  <storage_quota>4294967296</storage_quota>
+  <overridden_course_visibility/>
+  <root_account_uuid>dA6P7n9KxG6piFzFBU9B6tIDyGGaFu2xidZ90AAj</root_account_uuid>
+  <default_post_policy>
+    <post_manually>false</post_manually>
+  </default_post_policy>
+  <enable_course_paces>false</enable_course_paces>
+</course>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1  http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imsdt_v1p1.xsd">
+  <title>Still can't log into Lynda from home.</title>
+  <text texttype="text/html">&lt;p&gt;Still doesn't work. Tried it yesterday and today and I'm getting the:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div id="breadcrumbs"&gt;
+&lt;a title="lynda.com" href="http://www.lynda.com/"&gt;lynda.com&lt;/a&gt;&amp;nbsp;» login error&lt;/div&gt;
+&lt;div class="grid_15 copy"&gt;
+ Permission denied 
+&lt;div&gt;
+&lt;p&gt;You are trying to log in from an IP address that is not associated with a lynda.com account.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Which makes pretty much no sense at this point. Anyone else have any luck?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</text>
+</topic>
