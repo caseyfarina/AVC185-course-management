@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <module identifier="gf85a775a92612f1fec997a81fe50c59e">
+    <title>hidden module</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>1</position>
+    <locked>false</locked>
+    <items>
+    </items>
+  </module>
+  <module identifier="gcc73714895708ff356bb5f80c39fbf14">
+    <title>Class Work</title>
+    <workflow_state>active</workflow_state>
+    <position>2</position>
+    <locked>false</locked>
+    <items>
+      <item identifier="g4e69be753ea30ba9740891ce0a601a20">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Syllabus Acknowledgement </title>
+        <identifierref>ga10663f2e5f2f234759ce859e1ab1a28</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g8f8eebbc4018d0f5939d5dcf0e13f228">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Technology Login Challenge</title>
+        <identifierref>g8a511888079816460c8b6310ea8c152b</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g796f172fe26e674f8e6861fd848cc4ab">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 1: Camera Theory: Focal Length and DOF</title>
+        <identifierref>g93e81e2f993646f0334195c321ff6dd1</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga8291f6ff0d58b020ae4addd853e002b">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 3: Camera Theory: Shutter Speed and Motion Blur</title>
+        <identifierref>gef73b90c7cdfc282fd9bfa06ab11af54</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g752f074067cc3a95e69507dfbe48f973">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 2: Camera Theory: Pulling Focus, Rendering with Motion Blur</title>
+        <identifierref>g835f8814110f37b1ae0aad240300325f</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gdfb3d4af4dd8090a86653c6d69a3ab7f">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 4: Aspect Ratio and Framerate</title>
+        <identifierref>ga8c01db86e9fe4ef7e83e9ac9bf7caf6</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g2445b57fbdc5167d02acbe26ebb4f794">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 5: Elements of Composition </title>
+        <identifierref>gca9c41e8972eb9b073e8a146abaa82bc</identifierref>
+        <position>13</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g828eaddf78290a1440df077ef12fc9ba">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 6: Elements of Composition  II</title>
+        <identifierref>g4f27d32f6839a4a175abd4f74151e193</identifierref>
+        <position>14</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g508079392b9428b1d4a6616fdcd1f280">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 7: Shot Sizes, Introduction to Non Photorealistic Rendering Techniques.</title>
+        <identifierref>gff4eae7f840bd782202cb263b080322a</identifierref>
+        <position>15</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g9888676502bcdfc771753f0a13468f0c">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 8: Lighting Theory</title>
+        <identifierref>g1eb61647bec2dd6f5a3b79f259247cbf</identifierref>
+        <position>16</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g725b013f34139e248b0d1871edd94713">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 9: Camera Motion and Substance Painter</title>
+        <identifierref>g471a0dc329ea8fccebbfc8bf6259dd4d</identifierref>
+        <position>17</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g9023e185b14a646f35f9580b5c64ec9b">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 10:  Camera Motion and Mixing Motion Capture Animation</title>
+        <identifierref>gfa6d915ca569e73c84ac84f1f75b1f03</identifierref>
+        <position>18</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge08addd4a4579e6d609cb25e68991652">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 11: Shot Sizes, the 180 degree rule</title>
+        <identifierref>g1aaa1eb2fef89d584acba4079d863ffe</identifierref>
+        <position>19</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4eb06949c06aa62094f74510ead1867d">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 12: Reverse Storyboard</title>
+        <identifierref>g09b378da2a850f8a2460a930b70811eb</identifierref>
+        <position>22</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g818957712d2c828f4d225834687daa33">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 13: Realtime Product Cinematography</title>
+        <identifierref>gab72fa84ce1e8feace85774d88c1333b</identifierref>
+        <position>24</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gb0b6b32d001a788937a45594a6a3b95a">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 14: Realtime Product Cinematography: REVISIONS</title>
+        <identifierref>g7b6bab0bf63fe39e94cff1efb22efcf1</identifierref>
+        <position>25</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g3677de6ea36befe66b675981f4d2b5fa">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 14: Animated Title Sequence: Design Brief</title>
+        <identifierref>g095c8105e002d8101704f363757c9a31</identifierref>
+        <position>26</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g40511722351ac3af1491afe70218f5f6">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 15: Animated Title Sequence: Final Submission</title>
+        <identifierref>g2bfbb950ef672ad00633a64cc3da50ef</identifierref>
+        <position>27</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="g479aa20ebd79ec68af33c681dea5a155">
+    <title>Participation</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>3</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+    </items>
+  </module>
+</modules>

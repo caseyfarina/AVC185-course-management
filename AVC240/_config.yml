@@ -1,0 +1,25 @@
+# GitHub Pages Configuration for AVC240 Course Management
+title: "AVC240 Course Content"
+description: "Canvas IMSCC course assignments for AVC240 - Advanced Cinematography"
+
+# GitHub Pages settings
+github:
+  repository_url: https://github.com/caseyfarina/AVC185-course-management
+  
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Include assignment files
+include:
+  - assignments/
+
+# Exclude unnecessary files from the site
+exclude:
+  - scripts/
+  - extracted_course/
+  - archive/
+  - temp/
+  - README.md
+  - .gitignore

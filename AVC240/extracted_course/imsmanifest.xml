@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="g048b207b60e36a68f35af49c5e4de20c" xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource" xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imscp_v1p2_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lomresource_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lommanifest_v1p0.xsd">
+  <metadata>
+    <schema>IMS Common Cartridge</schema>
+    <schemaversion>1.1.0</schemaversion>
+    <lomimscc:lom>
+      <lomimscc:general>
+        <lomimscc:title>
+          <lomimscc:string>GC 2025 FALL-AVC240 19435</lomimscc:string>
+        </lomimscc:title>
+      </lomimscc:general>
+      <lomimscc:lifeCycle>
+        <lomimscc:contribute>
+          <lomimscc:date>
+            <lomimscc:dateTime>2025-08-20</lomimscc:dateTime>
+          </lomimscc:date>
+        </lomimscc:contribute>
+      </lomimscc:lifeCycle>
+      <lomimscc:rights>
+        <lomimscc:copyrightAndOtherRestrictions>
+          <lomimscc:value>yes</lomimscc:value>
+        </lomimscc:copyrightAndOtherRestrictions>
+        <lomimscc:description>
+          <lomimscc:string>Private (Copyrighted) - http://en.wikipedia.org/wiki/Copyright</lomimscc:string>
+        </lomimscc:description>
+      </lomimscc:rights>
+    </lomimscc:lom>
+  </metadata>
+  <organizations>
+    <organization identifier="org_1" structure="rooted-hierarchy">
+      <item identifier="LearningModules">
+        <item identifier="gf85a775a92612f1fec997a81fe50c59e">
+          <title>hidden module</title>
+        </item>
+        <item identifier="gcc73714895708ff356bb5f80c39fbf14">
+          <title>Class Work</title>
+          <item identifier="g4e69be753ea30ba9740891ce0a601a20" identifierref="ga10663f2e5f2f234759ce859e1ab1a28">
+            <title>Syllabus Acknowledgement </title>
+          </item>
+          <item identifier="g8f8eebbc4018d0f5939d5dcf0e13f228" identifierref="g8a511888079816460c8b6310ea8c152b">
+            <title>Technology Login Challenge</title>
+          </item>
+          <item identifier="g796f172fe26e674f8e6861fd848cc4ab" identifierref="g93e81e2f993646f0334195c321ff6dd1">
+            <title>Week 1: Camera Theory: Focal Length and DOF</title>
+          </item>
+          <item identifier="ga8291f6ff0d58b020ae4addd853e002b" identifierref="gef73b90c7cdfc282fd9bfa06ab11af54">
+            <title>Week 3: Camera Theory: Shutter Speed and Motion Blur</title>
+          </item>
+          <item identifier="g752f074067cc3a95e69507dfbe48f973" identifierref="g835f8814110f37b1ae0aad240300325f">
+            <title>Week 2: Camera Theory: Pulling Focus, Rendering with Motion Blur</title>
+          </item>
+          <item identifier="gdfb3d4af4dd8090a86653c6d69a3ab7f" identifierref="ga8c01db86e9fe4ef7e83e9ac9bf7caf6">
+            <title>Week 4: Aspect Ratio and Framerate</title>
+          </item>
+          <item identifier="g2445b57fbdc5167d02acbe26ebb4f794" identifierref="gca9c41e8972eb9b073e8a146abaa82bc">
+            <title>Week 5: Elements of Composition </title>
+          </item>
+          <item identifier="g828eaddf78290a1440df077ef12fc9ba" identifierref="g4f27d32f6839a4a175abd4f74151e193">
+            <title>Week 6: Elements of Composition  II</title>
+          </item>
+          <item identifier="g508079392b9428b1d4a6616fdcd1f280" identifierref="gff4eae7f840bd782202cb263b080322a">
+            <title>Week 7: Shot Sizes, Introduction to Non Photorealistic Rendering Techniques.</title>
+          </item>
+          <item identifier="g9888676502bcdfc771753f0a13468f0c" identifierref="g1eb61647bec2dd6f5a3b79f259247cbf">
+            <title>Week 8: Lighting Theory</title>
+          </item>
+          <item identifier="g725b013f34139e248b0d1871edd94713" identifierref="g471a0dc329ea8fccebbfc8bf6259dd4d">
+            <title>Week 9: Camera Motion and Substance Painter</title>
+          </item>
+          <item identifier="g9023e185b14a646f35f9580b5c64ec9b" identifierref="gfa6d915ca569e73c84ac84f1f75b1f03">
+            <title>Week 10:  Camera Motion and Mixing Motion Capture Animation</title>
+          </item>
+          <item identifier="ge08addd4a4579e6d609cb25e68991652" identifierref="g1aaa1eb2fef89d584acba4079d863ffe">
+            <title>Week 11: Shot Sizes, the 180 degree rule</title>
+          </item>
+          <item identifier="g4eb06949c06aa62094f74510ead1867d" identifierref="g09b378da2a850f8a2460a930b70811eb">
+            <title>Week 12: Reverse Storyboard</title>
+          </item>
+          <item identifier="g818957712d2c828f4d225834687daa33" identifierref="gab72fa84ce1e8feace85774d88c1333b">
+            <title>Week 13: Realtime Product Cinematography</title>
+          </item>
+          <item identifier="gb0b6b32d001a788937a45594a6a3b95a" identifierref="g7b6bab0bf63fe39e94cff1efb22efcf1">
+            <title>Week 14: Realtime Product Cinematography: REVISIONS</title>
+          </item>
+          <item identifier="g3677de6ea36befe66b675981f4d2b5fa" identifierref="g095c8105e002d8101704f363757c9a31">
+            <title>Week 14: Animated Title Sequence: Design Brief</title>
+          </item>
+          <item identifier="g40511722351ac3af1491afe70218f5f6" identifierref="g2bfbb950ef672ad00633a64cc3da50ef">
+            <title>Week 15: Animated Title Sequence: Final Submission</title>
+          </item>
+        </item>
+        <item identifier="g479aa20ebd79ec68af33c681dea5a155">
+          <title>Participation</title>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="gebf8896b1b2c3d5a9b7e4eb93f95dc1f_syllabus" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/syllabus.html" intendeduse="syllabus">
+      <file href="course_settings/syllabus.html"/>
+    </resource>
+    <resource identifier="gebf8896b1b2c3d5a9b7e4eb93f95dc1f" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/canvas_export.txt">
+      <file href="course_settings/course_settings.xml"/>
+      <file href="course_settings/module_meta.xml"/>
+      <file href="course_settings/assignment_groups.xml"/>
+      <file href="course_settings/files_meta.xml"/>
+      <file href="course_settings/late_policy.xml"/>
+      <file href="course_settings/context.xml"/>
+      <file href="course_settings/media_tracks.xml"/>
+      <file href="course_settings/canvas_export.txt"/>
+    </resource>
+    <resource identifier="gdde6f4947e54071ff730ab09677b18c3" type="webcontent" href="wiki_content/resources.html">
+      <file href="wiki_content/resources.html"/>
+    </resource>
+    <resource identifier="g12c495bb09043334523dd2e9d9659170" type="webcontent" href="wiki_content/welcome-to-avc-240-cinematography-and-directing-for-animation.html">
+      <file href="wiki_content/welcome-to-avc-240-cinematography-and-directing-for-animation.html"/>
+    </resource>
+    <resource identifier="g0a2701704b0f7f7dd2acb8f215d2f828" type="webcontent" href="wiki_content/front-page-2.html">
+      <file href="wiki_content/front-page-2.html"/>
+    </resource>
+    <resource identifier="g8a511888079816460c8b6310ea8c152b" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g8a511888079816460c8b6310ea8c152b/technology-login-challenge.html">
+      <file href="g8a511888079816460c8b6310ea8c152b/technology-login-challenge.html"/>
+      <file href="g8a511888079816460c8b6310ea8c152b/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gfa6d915ca569e73c84ac84f1f75b1f03" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gfa6d915ca569e73c84ac84f1f75b1f03/week-10-camera-motion-and-mixing-motion-capture-animation.html">
+      <file href="gfa6d915ca569e73c84ac84f1f75b1f03/week-10-camera-motion-and-mixing-motion-capture-animation.html"/>
+      <file href="gfa6d915ca569e73c84ac84f1f75b1f03/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g1aaa1eb2fef89d584acba4079d863ffe" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g1aaa1eb2fef89d584acba4079d863ffe/week-11-shot-sizes-the-180-degree-rule.html">
+      <file href="g1aaa1eb2fef89d584acba4079d863ffe/week-11-shot-sizes-the-180-degree-rule.html"/>
+      <file href="g1aaa1eb2fef89d584acba4079d863ffe/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g09b378da2a850f8a2460a930b70811eb" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g09b378da2a850f8a2460a930b70811eb/week-12-reverse-storyboard.html">
+      <file href="g09b378da2a850f8a2460a930b70811eb/week-12-reverse-storyboard.html"/>
+      <file href="g09b378da2a850f8a2460a930b70811eb/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gab72fa84ce1e8feace85774d88c1333b" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gab72fa84ce1e8feace85774d88c1333b/week-13-realtime-product-cinematography.html">
+      <file href="gab72fa84ce1e8feace85774d88c1333b/week-13-realtime-product-cinematography.html"/>
+      <file href="gab72fa84ce1e8feace85774d88c1333b/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g095c8105e002d8101704f363757c9a31" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g095c8105e002d8101704f363757c9a31/week-14-animated-title-sequence-design-brief.html">
+      <file href="g095c8105e002d8101704f363757c9a31/week-14-animated-title-sequence-design-brief.html"/>
+      <file href="g095c8105e002d8101704f363757c9a31/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g7b6bab0bf63fe39e94cff1efb22efcf1" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g7b6bab0bf63fe39e94cff1efb22efcf1/week-14-realtime-product-cinematography-revisions.html">
+      <file href="g7b6bab0bf63fe39e94cff1efb22efcf1/week-14-realtime-product-cinematography-revisions.html"/>
+      <file href="g7b6bab0bf63fe39e94cff1efb22efcf1/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g2bfbb950ef672ad00633a64cc3da50ef" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g2bfbb950ef672ad00633a64cc3da50ef/week-15-animated-title-sequence-final-submission.html">
+      <file href="g2bfbb950ef672ad00633a64cc3da50ef/week-15-animated-title-sequence-final-submission.html"/>
+      <file href="g2bfbb950ef672ad00633a64cc3da50ef/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g93e81e2f993646f0334195c321ff6dd1" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g93e81e2f993646f0334195c321ff6dd1/week-1-camera-theory-focal-length-and-dof.html">
+      <file href="g93e81e2f993646f0334195c321ff6dd1/week-1-camera-theory-focal-length-and-dof.html"/>
+      <file href="g93e81e2f993646f0334195c321ff6dd1/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g835f8814110f37b1ae0aad240300325f" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g835f8814110f37b1ae0aad240300325f/week-2-camera-theory-pulling-focus-rendering-with-motion-blur.html">
+      <file href="g835f8814110f37b1ae0aad240300325f/week-2-camera-theory-pulling-focus-rendering-with-motion-blur.html"/>
+      <file href="g835f8814110f37b1ae0aad240300325f/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gef73b90c7cdfc282fd9bfa06ab11af54" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gef73b90c7cdfc282fd9bfa06ab11af54/week-3-camera-theory-shutter-speed-and-motion-blur.html">
+      <file href="gef73b90c7cdfc282fd9bfa06ab11af54/week-3-camera-theory-shutter-speed-and-motion-blur.html"/>
+      <file href="gef73b90c7cdfc282fd9bfa06ab11af54/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="ga8c01db86e9fe4ef7e83e9ac9bf7caf6" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ga8c01db86e9fe4ef7e83e9ac9bf7caf6/week-4-aspect-ratio-and-framerate.html">
+      <file href="ga8c01db86e9fe4ef7e83e9ac9bf7caf6/week-4-aspect-ratio-and-framerate.html"/>
+      <file href="ga8c01db86e9fe4ef7e83e9ac9bf7caf6/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gca9c41e8972eb9b073e8a146abaa82bc" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gca9c41e8972eb9b073e8a146abaa82bc/week-5-elements-of-composition.html">
+      <file href="gca9c41e8972eb9b073e8a146abaa82bc/week-5-elements-of-composition.html"/>
+      <file href="gca9c41e8972eb9b073e8a146abaa82bc/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g4f27d32f6839a4a175abd4f74151e193" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g4f27d32f6839a4a175abd4f74151e193/week-6-elements-of-composition-ii.html">
+      <file href="g4f27d32f6839a4a175abd4f74151e193/week-6-elements-of-composition-ii.html"/>
+      <file href="g4f27d32f6839a4a175abd4f74151e193/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gff4eae7f840bd782202cb263b080322a" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gff4eae7f840bd782202cb263b080322a/week-7-shot-sizes-introduction-to-non-photorealistic-rendering-techniques.html">
+      <file href="gff4eae7f840bd782202cb263b080322a/week-7-shot-sizes-introduction-to-non-photorealistic-rendering-techniques.html"/>
+      <file href="gff4eae7f840bd782202cb263b080322a/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g1eb61647bec2dd6f5a3b79f259247cbf" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g1eb61647bec2dd6f5a3b79f259247cbf/week-8-lighting-theory.html">
+      <file href="g1eb61647bec2dd6f5a3b79f259247cbf/week-8-lighting-theory.html"/>
+      <file href="g1eb61647bec2dd6f5a3b79f259247cbf/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g471a0dc329ea8fccebbfc8bf6259dd4d" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g471a0dc329ea8fccebbfc8bf6259dd4d/week-9-camera-motion-and-substance-painter.html">
+      <file href="g471a0dc329ea8fccebbfc8bf6259dd4d/week-9-camera-motion-and-substance-painter.html"/>
+      <file href="g471a0dc329ea8fccebbfc8bf6259dd4d/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g7242024b06e6be74dd55dbfb41eabb5a" type="imsdt_xmlv1p1">
+      <file href="g7242024b06e6be74dd55dbfb41eabb5a.xml"/>
+      <dependency identifierref="g1f4dbe318cb6dd8212a3b38bed8d616b"/>
+    </resource>
+    <resource identifier="g1f4dbe318cb6dd8212a3b38bed8d616b" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g1f4dbe318cb6dd8212a3b38bed8d616b.xml">
+      <file href="g1f4dbe318cb6dd8212a3b38bed8d616b.xml"/>
+    </resource>
+    <resource identifier="gd2989a27e8e27b40c92eea2d3f2f46a2" type="imsdt_xmlv1p1">
+      <file href="gd2989a27e8e27b40c92eea2d3f2f46a2.xml"/>
+      <dependency identifierref="g4abdba768fb5f940e802ec57f41a8288"/>
+    </resource>
+    <resource identifier="g4abdba768fb5f940e802ec57f41a8288" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g4abdba768fb5f940e802ec57f41a8288.xml">
+      <file href="g4abdba768fb5f940e802ec57f41a8288.xml"/>
+    </resource>
+    <resource identifier="gd229e933ca02436db0d65054acee12a2" type="imsdt_xmlv1p1">
+      <file href="gd229e933ca02436db0d65054acee12a2.xml"/>
+      <dependency identifierref="gc0d87759987caaeb6ad77840d2a7e108"/>
+    </resource>
+    <resource identifier="gc0d87759987caaeb6ad77840d2a7e108" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gc0d87759987caaeb6ad77840d2a7e108.xml">
+      <file href="gc0d87759987caaeb6ad77840d2a7e108.xml"/>
+    </resource>
+    <resource identifier="g548820d369f15537b6aa823ed041adfd" type="imsdt_xmlv1p1">
+      <file href="g548820d369f15537b6aa823ed041adfd.xml"/>
+      <dependency identifierref="gab40f38c6d4368a38e7b00b091bde0c6"/>
+    </resource>
+    <resource identifier="gab40f38c6d4368a38e7b00b091bde0c6" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gab40f38c6d4368a38e7b00b091bde0c6.xml">
+      <file href="gab40f38c6d4368a38e7b00b091bde0c6.xml"/>
+    </resource>
+    <resource identifier="g7817c29c612d36c4351965b2544457dc" type="imsdt_xmlv1p1">
+      <file href="g7817c29c612d36c4351965b2544457dc.xml"/>
+      <dependency identifierref="gdb128664596282ece7ef7e25248b86a4"/>
+    </resource>
+    <resource identifier="gdb128664596282ece7ef7e25248b86a4" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gdb128664596282ece7ef7e25248b86a4.xml">
+      <file href="gdb128664596282ece7ef7e25248b86a4.xml"/>
+    </resource>
+    <resource identifier="g4ad94c70e1ee71e4eab15bd70c6a7a21" type="imsdt_xmlv1p1">
+      <file href="g4ad94c70e1ee71e4eab15bd70c6a7a21.xml"/>
+      <dependency identifierref="gd820539e685eda5723c266fe98d8b224"/>
+    </resource>
+    <resource identifier="gd820539e685eda5723c266fe98d8b224" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gd820539e685eda5723c266fe98d8b224.xml">
+      <file href="gd820539e685eda5723c266fe98d8b224.xml"/>
+    </resource>
+    <resource identifier="gecc7cc90e39815cf7ec125c28896f120" type="imsdt_xmlv1p1">
+      <file href="gecc7cc90e39815cf7ec125c28896f120.xml"/>
+      <dependency identifierref="g5fb41b950c958f7ab72a4fc33a92fd7e"/>
+    </resource>
+    <resource identifier="g5fb41b950c958f7ab72a4fc33a92fd7e" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g5fb41b950c958f7ab72a4fc33a92fd7e.xml">
+      <file href="g5fb41b950c958f7ab72a4fc33a92fd7e.xml"/>
+    </resource>
+    <resource identifier="gb61f0c468c9b9cd5955113cd5c5764b1" type="imsdt_xmlv1p1">
+      <file href="gb61f0c468c9b9cd5955113cd5c5764b1.xml"/>
+      <dependency identifierref="g7efe7568d0199edda6205528eaeffe1c"/>
+    </resource>
+    <resource identifier="g7efe7568d0199edda6205528eaeffe1c" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g7efe7568d0199edda6205528eaeffe1c.xml">
+      <file href="g7efe7568d0199edda6205528eaeffe1c.xml"/>
+    </resource>
+    <resource identifier="ga10663f2e5f2f234759ce859e1ab1a28" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="ga10663f2e5f2f234759ce859e1ab1a28/assessment_qti.xml"/>
+      <dependency identifierref="gb637ea0ef7eb3941e195b65a74a03929"/>
+    </resource>
+    <resource identifier="gb637ea0ef7eb3941e195b65a74a03929" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ga10663f2e5f2f234759ce859e1ab1a28/assessment_meta.xml">
+      <file href="ga10663f2e5f2f234759ce859e1ab1a28/assessment_meta.xml"/>
+      <file href="non_cc_assessments/ga10663f2e5f2f234759ce859e1ab1a28.xml.qti"/>
+    </resource>
+    <resource identifier="g40db06683d39ab87dcb97a51cbbe674b" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g40db06683d39ab87dcb97a51cbbe674b.xml.qti">
+      <file href="non_cc_assessments/g40db06683d39ab87dcb97a51cbbe674b.xml.qti"/>
+    </resource>
+    <resource type="webcontent" identifier="g001ac7e6b883230caee8485c7699ffd5" href="web_resources/visual language.pdf">
+      <file href="web_resources/visual language.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g29e30bb8b5471e2f52f2727fb3457210" href="web_resources/visual language-1.pdf">
+      <file href="web_resources/visual language-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g193e10984e96e1e9264d9e55c05da70d" href="web_resources/screen_studio_22.jpeg">
+      <file href="web_resources/screen_studio_22.jpeg"/>
+    </resource>
+    <resource type="webcontent" identifier="gc89f450932a1b77b1ca22590a2c78522" href="web_resources/charcter.jpeg">
+      <file href="web_resources/charcter.jpeg"/>
+    </resource>
+    <resource type="webcontent" identifier="g542523b187f0dd8de403592fdbc3526f" href="web_resources/VPT_window.jpg">
+      <file href="web_resources/VPT_window.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g8f71af4573ec2f5df30e762433aa414f" href="web_resources/VPT_window-1.ai">
+      <file href="web_resources/VPT_window-1.ai"/>
+    </resource>
+    <resource type="webcontent" identifier="g195fbcec9249ab029a3c90f2c5842db1" href="web_resources/VPT_window.ai">
+      <file href="web_resources/VPT_window.ai"/>
+    </resource>
+    <resource type="webcontent" identifier="g8b37e6b35d14216f7fbdd4841339687a" href="web_resources/Screen shot 2012-10-31 at 6.57.14 PM.png">
+      <file href="web_resources/Screen shot 2012-10-31 at 6.57.14 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g48ecb1c03893a29694387c78c356be93" href="web_resources/Screen shot 2012-10-31 at 6.57.21 PM.png">
+      <file href="web_resources/Screen shot 2012-10-31 at 6.57.21 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gbfd4f8e9ea23326285b24bc943574521" href="web_resources/Physical Photography Template.aep">
+      <file href="web_resources/Physical Photography Template.aep"/>
+    </resource>
+    <resource type="webcontent" identifier="g44ded6fe93034771ff228ca4353773e6" href="web_resources/Foundations of Photography.pdf">
+      <file href="web_resources/Foundations of Photography.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g01c63a4e60c9acafa2d436d1815054bf" href="web_resources/shallow dof close1.tif">
+      <file href="web_resources/shallow dof close1.tif"/>
+    </resource>
+    <resource type="webcontent" identifier="g15e92d3a49045e4ba236ca03b157b1ed" href="web_resources/shallow dof close1.jpg">
+      <file href="web_resources/shallow dof close1.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g75b33e35aad904c968d3ef94cdda98d4" href="web_resources/dof _atomphysical.jpg">
+      <file href="web_resources/dof _atomphysical.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g8aaa92ea154bbed7ea83e8210c2d244e" href="web_resources/floating island1.jpg">
+      <file href="web_resources/floating island1.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gc9f5c1d34de5af26089cb17d8ce60bee" href="web_resources/floating island2.jpg">
+      <file href="web_resources/floating island2.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g277b29e33420dd988600457190acd111" href="web_resources/floating island3.jpg">
+      <file href="web_resources/floating island3.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g656a093f95982c7d708516e7474b7fc6" href="web_resources/Screen shot 2013-02-27 at 8.45.33 AM.png">
+      <file href="web_resources/Screen shot 2013-02-27 at 8.45.33 AM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g21775834cb4e030a8b69cc330aa6e687" href="web_resources/Archive 3.zip">
+      <file href="web_resources/Archive 3.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="gd5c7b61b2ce8c2c4bbf7a485f900c1dc" href="web_resources/mech_character_example_left leg and neck rigged.c4d">
+      <file href="web_resources/mech_character_example_left leg and neck rigged.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="g7093dfd06ba24b6d9ba4f2cae9463ac3" href="web_resources/Screen Shot 2013-04-03 at 12.42.20 PM.png">
+      <file href="web_resources/Screen Shot 2013-04-03 at 12.42.20 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g5bdf2fbaeb638795262b0d32fc4e001c" href="web_resources/Screen Shot 2014-01-29 at 1.39.26 PM.jpg">
+      <file href="web_resources/Screen Shot 2014-01-29 at 1.39.26 PM.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g4b60693507d03dba7472fb0f397c0c69" href="web_resources/Screen Shot 2014-02-04 at 11.34.16 PM.jpg">
+      <file href="web_resources/Screen Shot 2014-02-04 at 11.34.16 PM.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="ga877cc5608a7b7d6d1e4595c1de28efb" href="web_resources/Screen Shot 2014-02-04 at 11.47.44 PM.jpg">
+      <file href="web_resources/Screen Shot 2014-02-04 at 11.47.44 PM.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g18f9a698a94d290cfd82699b9cc61cba" href="web_resources/Screen Shot 2014-02-04 at 11.50.59 PM.jpg">
+      <file href="web_resources/Screen Shot 2014-02-04 at 11.50.59 PM.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gd05c217e5ac86763403abb43fd518d41" href="web_resources/Screen Shot 2014-03-03 at 8.56.25 AM.png">
+      <file href="web_resources/Screen Shot 2014-03-03 at 8.56.25 AM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g763e3ffddeb22a4eaf23eba51a0ea30c" href="web_resources/Screen Shot 2015-01-21 at 9.59.57 AM.png">
+      <file href="web_resources/Screen Shot 2015-01-21 at 9.59.57 AM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g5a9528c77a66616d21b8b5a0d69f2c72" href="web_resources/Screen Shot 2015-01-21 at 12.35.15 PM.png">
+      <file href="web_resources/Screen Shot 2015-01-21 at 12.35.15 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g12fe638b6e8ebb32b3ca58414464eb00" href="web_resources/Screenshot 2016-01-19 22.36.04.png">
+      <file href="web_resources/Screenshot 2016-01-19 22.36.04.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g3d39bf929ff1372ca4f6fd84283aa71c" href="web_resources/Screenshot 2016-01-19 23.29.50.png">
+      <file href="web_resources/Screenshot 2016-01-19 23.29.50.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g272a68e480d1827d547f4e223f5398c0" href="web_resources/B_and_W_rigs.zip">
+      <file href="web_resources/B_and_W_rigs.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g27b91be790d219853da90b3a330525e0" href="web_resources/art 240 spring 2016-4.pdf">
+      <file href="web_resources/art 240 spring 2016-4.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g5957fdeaecd055b5ac61be8df90512a8" href="web_resources/Screen Shot 2016-01-25 at 8.50.04 AM.png">
+      <file href="web_resources/Screen Shot 2016-01-25 at 8.50.04 AM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g588a9aa9cb2df764edbcc99ac8851f94" href="web_resources/Screen Shot 2016-01-27 at 2.48.06 PM.png">
+      <file href="web_resources/Screen Shot 2016-01-27 at 2.48.06 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g03af2bbf3a16480e800024ce1094af63" href="web_resources/Screen Shot 2016-02-08 at 8.50.43 AM.png">
+      <file href="web_resources/Screen Shot 2016-02-08 at 8.50.43 AM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g21eacb48ff643ef41f6049600d364b99" href="web_resources/Screenshot 2016-03-21 23.47.57.png">
+      <file href="web_resources/Screenshot 2016-03-21 23.47.57.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gae06ac9e7951e86e992556997463cda8" href="web_resources/Screenshot 2016-03-21 23.51.08.png">
+      <file href="web_resources/Screenshot 2016-03-21 23.51.08.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g07db65c5cab4f0abeaed718d6d0fc402" href="web_resources/art 240 spring 2017.pdf">
+      <file href="web_resources/art 240 spring 2017.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g4a3a244c29219290f38bc35b23595cb8" href="web_resources/dialogue audio.zip">
+      <file href="web_resources/dialogue audio.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g229a1414ef7dc2f9976147f3a152f617" href="web_resources/art 240 spring 2018.pdf">
+      <file href="web_resources/art 240 spring 2018.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g472f4a2a436fc05c3cade8b02af10b06" href="web_resources/establising shot.PNG">
+      <file href="web_resources/establising shot.PNG"/>
+    </resource>
+    <resource type="webcontent" identifier="g87d627176309a2cc56853cba82e66026" href="web_resources/shot_selection.png">
+      <file href="web_resources/shot_selection.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g2281238823d77aef2394fbdfc3dd4753" href="web_resources/eye head rig for alien.c4d">
+      <file href="web_resources/eye head rig for alien.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="g389db3f5cf7857956d1ff311f3d1914a" href="web_resources/leg template.c4d">
+      <file href="web_resources/leg template.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="g2f5ef802605bd95c7d4feb2fb1e32faf" href="web_resources/robot.zip">
+      <file href="web_resources/robot.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g3ff67d22f4df1fe369a3f65658e4658e" href="web_resources/alien.c4d">
+      <file href="web_resources/alien.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="g5205b68694856c4ab1f4c3a25a3d617e" href="web_resources/RH Character Tools v1.03_181025.zip">
+      <file href="web_resources/RH Character Tools v1.03_181025.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g0560c31ed84ca33aebe635c2d016ce67" href="web_resources/Digital.Modeling.pdf">
+      <file href="web_resources/Digital.Modeling.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="ge752699572b05ae6fbf4fe80fffb0e27" href="web_resources/Digital-1.Modeling.pdf">
+      <file href="web_resources/Digital-1.Modeling.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gadc96d4efd751f13e20b649347119733" href="web_resources/sheep hair.c4d">
+      <file href="web_resources/sheep hair.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="g042119c853f72616a99bd53400e40c4a" href="web_resources/modified AT ST.c4d">
+      <file href="web_resources/modified AT ST.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="g94545c3ae21c19efdf91c0280462852c" href="web_resources/RH Character Tools v1.05.zip">
+      <file href="web_resources/RH Character Tools v1.05.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g26bb6f6e2adc81e1b92832ffa3dd05ef" href="web_resources/Eyeball Monster_0004.c4d">
+      <file href="web_resources/Eyeball Monster_0004.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="gd5b2fb9547a64e487204dd7a46c5504b" href="web_resources/Uploaded Media/ART 240 Cinematography and Directing for Animation39920 Syllabus Spring 2021.pdf">
+      <file href="web_resources/Uploaded Media/ART 240 Cinematography and Directing for Animation39920 Syllabus Spring 2021.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="geb40d86826ee674146258c46933d9197" href="web_resources/Uploaded Media/after effects character.jpg">
+      <file href="web_resources/Uploaded Media/after effects character.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g0e4cf2c4238ac4135d390599903e1921" href="web_resources/Uploaded Media/ART 240 Cinematography and Directing for Animation39920 Syllabus Spring 2021 (1).pdf">
+      <file href="web_resources/Uploaded Media/ART 240 Cinematography and Directing for Animation39920 Syllabus Spring 2021 (1).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g4370bebb572e8f58711a747b83e32acb" href="web_resources/Uploaded Media/weekOneMontage.gif">
+      <file href="web_resources/Uploaded Media/weekOneMontage.gif"/>
+    </resource>
+    <resource type="webcontent" identifier="gbe41d0156ae85cba5120740d474001be" href="web_resources/Uploaded Media/character animation chapter 2.jpg">
+      <file href="web_resources/Uploaded Media/character animation chapter 2.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="ga4c43dedd736e8b689f1994aae2c3dab" href="web_resources/Uploaded Media/character animation screenshot.jpg">
+      <file href="web_resources/Uploaded Media/character animation screenshot.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gdb2abe4bd2d1c9665c3247715e95c84d" href="web_resources/Uploaded Media/Idonotlikethecomputer.mp4">
+      <file href="web_resources/Uploaded Media/Idonotlikethecomputer.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="gf0610fbdbe03479af828b87b9358f9db" href="web_resources/Uploaded Media/Credits Reel.jpg">
+      <file href="web_resources/Uploaded Media/Credits Reel.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g7aa4e74165107387b0799781cf3de084" href="web_resources/Uploaded Media/chapter four character animation multiplane environments.jpg">
+      <file href="web_resources/Uploaded Media/chapter four character animation multiplane environments.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g47ad1fd7aadd083887adf797d89ee0d3" href="web_resources/Uploaded Media/edit points.jpg">
+      <file href="web_resources/Uploaded Media/edit points.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gb4a27e5e9c2ddd1e46f8a4106b0931bd" href="web_resources/Uploaded Media/Camera moves in After Effects.mp4">
+      <file href="web_resources/Uploaded Media/Camera moves in After Effects.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g3ecc0e97725aa3b6a5ab92a6159363db" href="web_resources/Uploaded Media/brunswick.jpg">
+      <file href="web_resources/Uploaded Media/brunswick.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g58856a7e6169b63e131e9c36cda9d3a4" href="web_resources/Uploaded Media/moving camera project_1.mp4">
+      <file href="web_resources/Uploaded Media/moving camera project_1.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="gb9af54655189f299f869d58f9aca5852" href="web_resources/Uploaded Media/camera movement 240.jpg">
+      <file href="web_resources/Uploaded Media/camera movement 240.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="ga1adf33394c0e36da70bfa52afb6f314" href="web_resources/Uploaded Media/poses.mp4">
+      <file href="web_resources/Uploaded Media/poses.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g7221b58d71063c5f65d7a9e7b5bcba2e" href="web_resources/Uploaded Media/Fall 2022 ART 240 Cinematography and Directing for Animation 36160 Syllabus .pdf">
+      <file href="web_resources/Uploaded Media/Fall 2022 ART 240 Cinematography and Directing for Animation 36160 Syllabus .pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gd3f6604830d7e52d16b7b2eb123358d7" href="web_resources/Uploaded Media/Fall 2022 ART 240 Cinematography and Directing for Animation 36160 Syllabus -1.pdf">
+      <file href="web_resources/Uploaded Media/Fall 2022 ART 240 Cinematography and Directing for Animation 36160 Syllabus -1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g2adee357a49adcefed7715f0cd2ce095" href="web_resources/Uploaded Media/2022-09-01 09_07_37-Slack _ art240_farina _ GCC_Animation&amp;Motion_Graphics.png">
+      <file href="web_resources/Uploaded Media/2022-09-01 09_07_37-Slack _ art240_farina _ GCC_Animation&amp;Motion_Graphics.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g77a93ff3411903f22857ee49e9326924" href="web_resources/Uploaded Media/share a link.jpg">
+      <file href="web_resources/Uploaded Media/share a link.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g5f029e8118dcb0eb9ef1bbbbb236c381" href="web_resources/Uploaded Media/duplicate board.jpg">
+      <file href="web_resources/Uploaded Media/duplicate board.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g9f35ef08aecae41f60d60d675cf569fc" href="web_resources/Uploaded Media/image (2).png">
+      <file href="web_resources/Uploaded Media/image (2).png"/>
+    </resource>
+    <resource type="webcontent" identifier="gf5edcf967f07171736ab396adc1b53a9" href="web_resources/Uploaded Media/spider-verse.mp4">
+      <file href="web_resources/Uploaded Media/spider-verse.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g163bc8f81eaf46b56b3f7f837de171a7" href="web_resources/Uploaded Media/spider-verse-1.mp4">
+      <file href="web_resources/Uploaded Media/spider-verse-1.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="gbf9a906bb901f58ef1811413e6815aa7" href="web_resources/Uploaded Media/walle.mp4">
+      <file href="web_resources/Uploaded Media/walle.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g29b0c35d18ff019eb19adbd8ea289599" href="web_resources/Uploaded Media/walle-1.mp4">
+      <file href="web_resources/Uploaded Media/walle-1.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g71e92846547de8329de88d73140a94d0" href="web_resources/Uploaded Media/walle-2.mp4">
+      <file href="web_resources/Uploaded Media/walle-2.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g8f7ca9e70b8373a926c3d47c8c36126a" href="web_resources/Uploaded Media/180-degree-rule-700.bmp">
+      <file href="web_resources/Uploaded Media/180-degree-rule-700.bmp"/>
+    </resource>
+    <resource type="webcontent" identifier="g33621dc8479cab404fabe28c144a1978" href="web_resources/Uploaded Media/birdman first lines.jpg">
+      <file href="web_resources/Uploaded Media/birdman first lines.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g94c6d791e5b1abfa15513826fe9fcbd8" href="web_resources/Uploaded Media/birdman next lines.jpg">
+      <file href="web_resources/Uploaded Media/birdman next lines.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g664be145ce8067384a4d7c4a843b1fea" href="web_resources/Uploaded Media/birdman dialogue recording.wav">
+      <file href="web_resources/Uploaded Media/birdman dialogue recording.wav"/>
+    </resource>
+    <resource type="webcontent" identifier="gecb506a3ee7afe2e24dcfb0671acf910" href="web_resources/Uploaded Media/birdman audio.wav">
+      <file href="web_resources/Uploaded Media/birdman audio.wav"/>
+    </resource>
+    <resource type="webcontent" identifier="g8ef6620dd792c4855ce1e993054acef2" href="web_resources/Uploaded Media/3d animatic.png">
+      <file href="web_resources/Uploaded Media/3d animatic.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g04232c4d28bf32f307a719702f91c9a5" href="web_resources/Uploaded Media/AVC 240 Cinematography &amp; Directing for Animation 33472 33473 33474 Fall 2023.pdf">
+      <file href="web_resources/Uploaded Media/AVC 240 Cinematography &amp; Directing for Animation 33472 33473 33474 Fall 2023.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gaeb376c3831fbd12069c965a8b7a35fa" href="web_resources/Uploaded Media/camera theory week one AVC240.zip">
+      <file href="web_resources/Uploaded Media/camera theory week one AVC240.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g483832b86e9546de776204c4f4e2a2ad" href="web_resources/Uploaded Media/cinematography  telephoto  space 23 30 14.jpg">
+      <file href="web_resources/Uploaded Media/cinematography  telephoto  space 23 30 14.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g6944593190bf110960de3526b76d8780" href="web_resources/Uploaded Media/cinematography  telephoto  space 23 31 04.jpg">
+      <file href="web_resources/Uploaded Media/cinematography  telephoto  space 23 31 04.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gab44ac46b821a10903e0b4b96f31e8bc" href="web_resources/Uploaded Media/cinematography  wide angle space 23 28 35.jpg">
+      <file href="web_resources/Uploaded Media/cinematography  wide angle space 23 28 35.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g4ca11ec4adcc2bebff316d161822eee2" href="web_resources/Uploaded Media/cinematography  slow shutter 23 22 57_0006.jpg">
+      <file href="web_resources/Uploaded Media/cinematography  slow shutter 23 22 57_0006.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="ga8b745df748935d225fee0ec99083111" href="web_resources/Uploaded Media/cinematography  shallow dof 23 03 55.jpg">
+      <file href="web_resources/Uploaded Media/cinematography  shallow dof 23 03 55.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g4f6578a6376fd216a23b36753641eeec" href="web_resources/Uploaded Media/DoF-sketch.jpg">
+      <file href="web_resources/Uploaded Media/DoF-sketch.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gbbf15cd29f3807194adb8cd396a78fbf" href="web_resources/Uploaded Media/DoF-sketch-1.jpg">
+      <file href="web_resources/Uploaded Media/DoF-sketch-1.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g806cc3ef98237ddfda0f8a209540f712" href="web_resources/Uploaded Media/images.jfif">
+      <file href="web_resources/Uploaded Media/images.jfif"/>
+    </resource>
+    <resource type="webcontent" identifier="g5dfbcebf75a99845b46aeef8da8086ea" href="web_resources/Uploaded Media/aperture-diagram.jpg">
+      <file href="web_resources/Uploaded Media/aperture-diagram.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gf97cb061af7008d785a988b5e0f8adf5" href="web_resources/Uploaded Media/ShutterSpeed5.jpg">
+      <file href="web_resources/Uploaded Media/ShutterSpeed5.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gf7263ed03127801526057fdf7cb3ab1a" href="web_resources/Uploaded Media/aperture-shutter-CCD.jpg">
+      <file href="web_resources/Uploaded Media/aperture-shutter-CCD.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g174437f9a59e24e2432bffc4a437e65d" href="web_resources/Uploaded Media/image.png">
+      <file href="web_resources/Uploaded Media/image.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gee6566482a1d52f829f384c6405926bd" href="web_resources/Uploaded Media/l12_01.jpg">
+      <file href="web_resources/Uploaded Media/l12_01.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g68c2e77a6a5532dc8b58a57dd78a5f4a" href="web_resources/Uploaded Media/showcase for slack bruzzese.mp4">
+      <file href="web_resources/Uploaded Media/showcase for slack bruzzese.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g79fba4651cfd9819f3e484af80544dc5" href="web_resources/Uploaded Media/image-1.png">
+      <file href="web_resources/Uploaded Media/image-1.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gc4054a78dfa4a28d7824b681b5cda4db" href="web_resources/Uploaded Media/Elements-of-Composition-The-Complete-Guide-Ebook.pdf">
+      <file href="web_resources/Uploaded Media/Elements-of-Composition-The-Complete-Guide-Ebook.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g515695fbc45c9e0a993627339cecc1bd" href="web_resources/Uploaded Media/shape scene cinematography.jpg">
+      <file href="web_resources/Uploaded Media/shape scene cinematography.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g51d44a59a9ad58f51a6a95241dfa71dd" href="web_resources/Uploaded Media/shape scene cinematography-1.jpg">
+      <file href="web_resources/Uploaded Media/shape scene cinematography-1.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gefbe03835762267eb85b2f84ccae6485" href="web_resources/Uploaded Media/shape scene cinematography 2.jpg">
+      <file href="web_resources/Uploaded Media/shape scene cinematography 2.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g67786e531b92022b6806dfcee4c24b03" href="web_resources/Uploaded Media/image-2.png">
+      <file href="web_resources/Uploaded Media/image-2.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ge8a040eaa2187078be1741d75aad76e1" href="web_resources/Uploaded Media/image-3.png">
+      <file href="web_resources/Uploaded Media/image-3.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g895a7778dbfc95911496ec594672ad74" href="web_resources/Uploaded Media/image-4.png">
+      <file href="web_resources/Uploaded Media/image-4.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g0ef0ce7d79de795e2f08eb101125dc06" href="web_resources/Uploaded Media/image-5.png">
+      <file href="web_resources/Uploaded Media/image-5.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g9e1078d7cbeb95535dfe5d422056f465" href="web_resources/Uploaded Media/image-6.png">
+      <file href="web_resources/Uploaded Media/image-6.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g54227ec58b6371111d44614cdec86caf" href="web_resources/Uploaded Media/image-7.png">
+      <file href="web_resources/Uploaded Media/image-7.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gb0226628bdf5c5c581bc6f579f1ae41a" href="web_resources/Uploaded Media/image-dd171edc-92ba-453c-b83b-bdee9233de3c.png">
+      <file href="web_resources/Uploaded Media/image-dd171edc-92ba-453c-b83b-bdee9233de3c.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g1731953e021dc4af45993b9b2b4d2e25" href="web_resources/Uploaded Media/image-b2c027b0-85bf-4da2-9512-35dd9bae72be.png">
+      <file href="web_resources/Uploaded Media/image-b2c027b0-85bf-4da2-9512-35dd9bae72be.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g1dc1230d85176c4d7d2f333c5325fa76" href="web_resources/Uploaded Media/image-a480ac74-e1b3-43de-97d1-6b860e1330d8.png">
+      <file href="web_resources/Uploaded Media/image-a480ac74-e1b3-43de-97d1-6b860e1330d8.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g82cbaadf1b501e6918c462804a31ef55" href="web_resources/Uploaded Media/image-3b278c91-c8da-495d-ac0c-302b181758f9.png">
+      <file href="web_resources/Uploaded Media/image-3b278c91-c8da-495d-ac0c-302b181758f9.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g5e51884dbb2ff70751e8d2c19f381f2f" href="web_resources/Uploaded Media/image-eab70ae6-9eb8-4f64-80f4-c9cdce4f1567.png">
+      <file href="web_resources/Uploaded Media/image-eab70ae6-9eb8-4f64-80f4-c9cdce4f1567.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g50dafeb93e42fb136f2c7f0f76f26899" href="web_resources/Uploaded Media/image-d1cb9e0d-bb13-438d-b921-437aaa4f7dd9.png">
+      <file href="web_resources/Uploaded Media/image-d1cb9e0d-bb13-438d-b921-437aaa4f7dd9.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g29508a2719ad340dbe94cd5e5932c129" href="web_resources/Uploaded Media/image-d8ba7afc-bdf8-4e05-9906-f083f11a6215.png">
+      <file href="web_resources/Uploaded Media/image-d8ba7afc-bdf8-4e05-9906-f083f11a6215.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g3de719659b58f79494bd523f2689945d" href="web_resources/Uploaded Media/Camera Movement Main.mp4">
+      <file href="web_resources/Uploaded Media/Camera Movement Main.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g1f7c89a4ea7b8ac8dfd58305b22069de" href="web_resources/Uploaded Media/Camera Movement Main-1.mp4">
+      <file href="web_resources/Uploaded Media/Camera Movement Main-1.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="ga2036d380e7a5d1624141846dbb21952" href="web_resources/Uploaded Media/image-c6569be7-93fd-4cae-832d-dbd32b9d38f2.png">
+      <file href="web_resources/Uploaded Media/image-c6569be7-93fd-4cae-832d-dbd32b9d38f2.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g4a1c3e652aba9502bb3d71a9cbd14718" href="web_resources/Uploaded Media/image-d0df752b-fbb5-4cba-b030-5b8a81efc48f.png">
+      <file href="web_resources/Uploaded Media/image-d0df752b-fbb5-4cba-b030-5b8a81efc48f.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g472f98724e62d2baa7893deb87a78034" href="web_resources/Uploaded Media/Cinematic-Lighting-Cheatsheet.pdf">
+      <file href="web_resources/Uploaded Media/Cinematic-Lighting-Cheatsheet.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g975766323539f992371f06b46208c6ae" href="web_resources/Uploaded Media/Storyboard Templates - StudioBinder.zip">
+      <file href="web_resources/Uploaded Media/Storyboard Templates - StudioBinder.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="ge93f527a0b808f22626d49b650459571" href="web_resources/Uploaded Media/Storyboard Templates - StudioBinder-1.zip">
+      <file href="web_resources/Uploaded Media/Storyboard Templates - StudioBinder-1.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="gc6de1b4181564bec1c5f51bf2d03c549" href="web_resources/Uploaded Media/west world conversation.mp4">
+      <file href="web_resources/Uploaded Media/west world conversation.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="ga18bbc4b0219e41ecd67a57688afda89" href="web_resources/Uploaded Media/image-332f8549-0eed-430e-8350-7d46137f0372.png">
+      <file href="web_resources/Uploaded Media/image-332f8549-0eed-430e-8350-7d46137f0372.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gffbc32ac2eaf925a520a46068409b932" href="web_resources/Uploaded Media/image-2a7dd5f6-6913-4696-a8d2-f90e304ddafe.png">
+      <file href="web_resources/Uploaded Media/image-2a7dd5f6-6913-4696-a8d2-f90e304ddafe.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g178da9fd6e9d7f4676d44167fb24104c" href="web_resources/Uploaded Media/car commercial clips.mp4">
+      <file href="web_resources/Uploaded Media/car commercial clips.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g8a03f9d9420f48d1cefcff212a619319" href="web_resources/Uploaded Media/image-ca83644a-6920-4660-abe3-2a5b01fb5765.png">
+      <file href="web_resources/Uploaded Media/image-ca83644a-6920-4660-abe3-2a5b01fb5765.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gfb260ab892f994f5f8f7b5367f083e62" href="web_resources/Uploaded Media/image-adc868f3-987a-403e-a5da-1b8b4d8840d4.png">
+      <file href="web_resources/Uploaded Media/image-adc868f3-987a-403e-a5da-1b8b4d8840d4.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g2ec03aa67a35aff15b966ee7abb5dfb8" href="web_resources/Uploaded Media/image-c3632463-0694-4043-a2e7-4d3e8b8fc1de.png">
+      <file href="web_resources/Uploaded Media/image-c3632463-0694-4043-a2e7-4d3e8b8fc1de.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g100d1d5b0e203b6152a10f52aa828d83" href="web_resources/Uploaded Media/ww_storyboards_01.jpg">
+      <file href="web_resources/Uploaded Media/ww_storyboards_01.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gee1c16ae506eae4deb913973eacd2054" href="web_resources/Uploaded Media/image-1d012d3d-f4f4-4bf4-ba13-de3619580b90.png">
+      <file href="web_resources/Uploaded Media/image-1d012d3d-f4f4-4bf4-ba13-de3619580b90.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g45b47b446ad11e3f62dfb57c9a6a6952" href="web_resources/Uploaded Media/image-14137d05-248b-4be3-9079-7777f80e35de.png">
+      <file href="web_resources/Uploaded Media/image-14137d05-248b-4be3-9079-7777f80e35de.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g1061b99cfb59cb1be614b0ab4df624ff" href="web_resources/Uploaded Media/image-c6670cc8-431b-4496-8361-cae77ed9e430.png">
+      <file href="web_resources/Uploaded Media/image-c6670cc8-431b-4496-8361-cae77ed9e430.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g9a627d13edc58a897d2dbb74e6fea37f" href="web_resources/Uploaded Media/AVC 240 Cinematography &amp; Directing for Animation 24921 24922 24923 Fall 2024.pdf">
+      <file href="web_resources/Uploaded Media/AVC 240 Cinematography &amp; Directing for Animation 24921 24922 24923 Fall 2024.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g36a679c2ac491e1e987c81af15980463" href="web_resources/Uploaded Media/image-f389feaa-c5cd-4f7a-9588-d010172bff10.png">
+      <file href="web_resources/Uploaded Media/image-f389feaa-c5cd-4f7a-9588-d010172bff10.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gf0219c5ddc270441c4de573b7b82de87" href="web_resources/Uploaded Media/image-209162f3-9a4a-47e5-997b-2c69cad4d201.png">
+      <file href="web_resources/Uploaded Media/image-209162f3-9a4a-47e5-997b-2c69cad4d201.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gfd6d53cdbc3d6634d442a96bfcbdae25" href="web_resources/Uploaded Media/image-cd9a94f4-c3c9-4993-bb16-717a3e4b3a07.png">
+      <file href="web_resources/Uploaded Media/image-cd9a94f4-c3c9-4993-bb16-717a3e4b3a07.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gbf1460e66a80291be114c52d86927f42" href="web_resources/Uploaded Media/image-5566f95b-24a1-4570-9134-0acd5a953dc7.png">
+      <file href="web_resources/Uploaded Media/image-5566f95b-24a1-4570-9134-0acd5a953dc7.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g673fc66252532234b326af7f78fb31bb" href="web_resources/Uploaded Media/image-3719ec5e-7a57-4f64-9903-ef1cc5311e78.png">
+      <file href="web_resources/Uploaded Media/image-3719ec5e-7a57-4f64-9903-ef1cc5311e78.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g9919bce6eebbe4d3780e6055d6379266" href="web_resources/Uploaded Media/image-c0e65bb3-a0fa-4d53-ae13-0f486141c383.png">
+      <file href="web_resources/Uploaded Media/image-c0e65bb3-a0fa-4d53-ae13-0f486141c383.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gb3629d448ce8256d9582f663b1613b37" href="web_resources/Uploaded Media/image-11facd24-a24a-49ce-a254-13fcde6d95dd.png">
+      <file href="web_resources/Uploaded Media/image-11facd24-a24a-49ce-a254-13fcde6d95dd.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g4d7a7e120bac57a80044ddc3b016b731" href="web_resources/Uploaded Media/farina showcase video one.mp4">
+      <file href="web_resources/Uploaded Media/farina showcase video one.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g62fea37add0d1467187b5cdde61c6fcd" href="web_resources/Uploaded Media/character pull focus.mp4">
+      <file href="web_resources/Uploaded Media/character pull focus.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="ge16154a5c29f4d38ec01fcacf111223b" href="web_resources/Uploaded Media/flash renders.mp4">
+      <file href="web_resources/Uploaded Media/flash renders.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g6950d9b2298a163c811cfcc92791eeb4" href="web_resources/Uploaded Media/aspectRationFrameRateShowcase.mp4">
+      <file href="web_resources/Uploaded Media/aspectRationFrameRateShowcase.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g3ce5a9d0d7107a5bdca00cb3c6778e37" href="web_resources/Uploaded Media/image-56528810-3c9b-4bd9-b47f-2bc3df4a8804.png">
+      <file href="web_resources/Uploaded Media/image-56528810-3c9b-4bd9-b47f-2bc3df4a8804.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g44ad72b0fe01f3f4edf59603422efad7" href="web_resources/Uploaded Media/image-d1e78971-6b49-4763-88c8-129d22598212.png">
+      <file href="web_resources/Uploaded Media/image-d1e78971-6b49-4763-88c8-129d22598212.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g98455bbf617b4da9162cac07f4f30aed" href="web_resources/Uploaded Media/image-01e3468c-9fdb-4bb9-92de-0794ba80d6cc.png">
+      <file href="web_resources/Uploaded Media/image-01e3468c-9fdb-4bb9-92de-0794ba80d6cc.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ge0a6cd23c6d640c9ac3c4823e8935bb2" href="web_resources/Uploaded Media/image-7cc6bbfb-f0d8-4fe9-8844-d6705a032b3d.png">
+      <file href="web_resources/Uploaded Media/image-7cc6bbfb-f0d8-4fe9-8844-d6705a032b3d.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g541c94d889f3503cf77d0a56d14e643c" href="web_resources/Uploaded Media/image-fda167fb-f081-4cd5-a522-de8e62e27a11.png">
+      <file href="web_resources/Uploaded Media/image-fda167fb-f081-4cd5-a522-de8e62e27a11.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g630c23160bbfa01911fd3d7a23dbc782" href="web_resources/Uploaded Media/image-3c43fc77-1315-4f1c-a07a-5a552f85a2b2.png">
+      <file href="web_resources/Uploaded Media/image-3c43fc77-1315-4f1c-a07a-5a552f85a2b2.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g9fbf744fa386ed7e0dab4b0d2583a710" href="web_resources/Uploaded Media/image-5f390698-2a33-49e4-8c02-87359606e6eb.png">
+      <file href="web_resources/Uploaded Media/image-5f390698-2a33-49e4-8c02-87359606e6eb.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g7f6ad82df42770506c8ccbfc0b4d74ab" href="web_resources/Uploaded Media/image-7e59cafe-6428-498d-9244-05153797abae.png">
+      <file href="web_resources/Uploaded Media/image-7e59cafe-6428-498d-9244-05153797abae.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gd6f57ee5646e104e445ec68ad6c50476" href="web_resources/Uploaded Media/image-1dc2ee26-ec4f-4336-9658-ace5132d5e5a.png">
+      <file href="web_resources/Uploaded Media/image-1dc2ee26-ec4f-4336-9658-ace5132d5e5a.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g2be124dec05bbce11a6207ebea36a7b1" href="web_resources/Uploaded Media/image-b87e6430-76fa-4e5c-905b-5058b0499e3b.png">
+      <file href="web_resources/Uploaded Media/image-b87e6430-76fa-4e5c-905b-5058b0499e3b.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g40852ab966d1fdde10ed41371b9181cf" href="web_resources/Uploaded Media/image-b9469406-72a4-44d6-a309-df8168814b87.png">
+      <file href="web_resources/Uploaded Media/image-b9469406-72a4-44d6-a309-df8168814b87.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ga98fff07d798584f204c95a0e9c35c57" href="web_resources/Uploaded Media/image-3ff6165f-3cd8-4383-acdf-bb0cff6ec43e.png">
+      <file href="web_resources/Uploaded Media/image-3ff6165f-3cd8-4383-acdf-bb0cff6ec43e.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gfbc460ed70e6f225ef265730ad6ee797" href="web_resources/Uploaded Media/image-f344de06-7acf-46ab-8bbc-e8ff83aa495f.png">
+      <file href="web_resources/Uploaded Media/image-f344de06-7acf-46ab-8bbc-e8ff83aa495f.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g00764ca1948da1f21d5b84aa3c9e5c09" href="web_resources/Uploaded Media/image-bed32799-6fab-4779-b675-6083963e29ef.png">
+      <file href="web_resources/Uploaded Media/image-bed32799-6fab-4779-b675-6083963e29ef.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gd552e67a6770e66e7e5fe551cd2bd547" href="web_resources/Uploaded Media/image-68484cb8-bf0a-4aa1-a352-ce5d015e6b15.png">
+      <file href="web_resources/Uploaded Media/image-68484cb8-bf0a-4aa1-a352-ce5d015e6b15.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g136313630677ec583c1dcd0ba6655473" href="web_resources/Uploaded Media/image-d14dc364-5ea8-4e43-83df-e11c604ea1f1.png">
+      <file href="web_resources/Uploaded Media/image-d14dc364-5ea8-4e43-83df-e11c604ea1f1.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g4a27c7beee011d78842fa71094d112cc" href="web_resources/Uploaded Media/image-3730ad1f-9190-4430-86e5-0f7f9819d469.png">
+      <file href="web_resources/Uploaded Media/image-3730ad1f-9190-4430-86e5-0f7f9819d469.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g791115fc8779899098a3b43cdf504939" href="web_resources/Uploaded Media/image-b01b4518-4921-43f1-a888-c012838ffb6f.png">
+      <file href="web_resources/Uploaded Media/image-b01b4518-4921-43f1-a888-c012838ffb6f.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ga6ac7d7bd54d55b4cfba618527eac3a8" href="web_resources/Uploaded Media/image-4e0b84e8-d9b3-4d47-8bce-a09e43578db4.png">
+      <file href="web_resources/Uploaded Media/image-4e0b84e8-d9b3-4d47-8bce-a09e43578db4.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gcd932f75b6a47c20210010880180c9c4" href="web_resources/Uploaded Media/image-ffb88cf7-5bd1-4f15-b73b-ae2d50a3805d.png">
+      <file href="web_resources/Uploaded Media/image-ffb88cf7-5bd1-4f15-b73b-ae2d50a3805d.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gab4288a15d377a41f21e48bdbd407e80" href="web_resources/Uploaded Media/image-4fbf1a36-4cb5-47d4-a665-87fdf84b2b25.png">
+      <file href="web_resources/Uploaded Media/image-4fbf1a36-4cb5-47d4-a665-87fdf84b2b25.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gc21ed926b1e6b30d9abc2f968f8e73cf" href="web_resources/Uploaded Media/image-8f22d935-7752-4a49-a048-2a3b04ec69a7.png">
+      <file href="web_resources/Uploaded Media/image-8f22d935-7752-4a49-a048-2a3b04ec69a7.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ge520b4c748c947b222fa4fcd1c93743d" href="web_resources/Uploaded Media/image-fc861ab9-5912-4418-9662-bc7de60dc52d.png">
+      <file href="web_resources/Uploaded Media/image-fc861ab9-5912-4418-9662-bc7de60dc52d.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g2c730374375ec194966f0013d3a104da" href="web_resources/Uploaded Media/image-f7c32ed2-65a0-4476-ac1f-65edae1247f9.png">
+      <file href="web_resources/Uploaded Media/image-f7c32ed2-65a0-4476-ac1f-65edae1247f9.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g19d11b8b1f680771a38c022d47aea8f6" href="web_resources/Uploaded Media/image-f358cfdf-0aa1-42b0-95fc-feb65392d227.png">
+      <file href="web_resources/Uploaded Media/image-f358cfdf-0aa1-42b0-95fc-feb65392d227.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g77814b112cbe66597c5ba6788d21a652" href="web_resources/Uploaded Media/image-857d84a0-27ee-4b18-bc12-e269e0d5ade4.png">
+      <file href="web_resources/Uploaded Media/image-857d84a0-27ee-4b18-bc12-e269e0d5ade4.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g1614fef5059039e072367db9bd08aaee" href="web_resources/Uploaded Media/west world conversation-1.mp4">
+      <file href="web_resources/Uploaded Media/west world conversation-1.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g2ac7a58500e2d3717f2e0407d33fa8ec" href="web_resources/Uploaded Media/Storyboard template.png">
+      <file href="web_resources/Uploaded Media/Storyboard template.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g05c70a0057f2156b6d6ffab036716a54" href="web_resources/Uploaded Media/image-d004f085-dbd6-4f0d-9af9-1c74a8295461.png">
+      <file href="web_resources/Uploaded Media/image-d004f085-dbd6-4f0d-9af9-1c74a8295461.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g0dcbefe3029743e98ed7a375789a2f85" href="web_resources/Uploaded Media/image-43dcbba2-aadd-4f95-8efe-4afc684a3785.png">
+      <file href="web_resources/Uploaded Media/image-43dcbba2-aadd-4f95-8efe-4afc684a3785.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gdf08a897eab287ff1478cef6edc18f5a" href="web_resources/Uploaded Media/image-67775024-f3c8-4f2f-9edb-7144ccdb0982.png">
+      <file href="web_resources/Uploaded Media/image-67775024-f3c8-4f2f-9edb-7144ccdb0982.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gf42904f9697aacc731a5758ab6970a4b" href="web_resources/Uploaded Media/image-c61622e4-7d10-434f-8cea-44e7434e7d28.png">
+      <file href="web_resources/Uploaded Media/image-c61622e4-7d10-434f-8cea-44e7434e7d28.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g88065001e3d644ac2126f7d4fbe65dad" href="web_resources/Uploaded Media/AVC 240 Title Sequence Design Brief.zip">
+      <file href="web_resources/Uploaded Media/AVC 240 Title Sequence Design Brief.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g23dbe7827932ec4e926dff961cf1bc32" href="web_resources/unfiled/lynda.png">
+      <file href="web_resources/unfiled/lynda.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gecdb01eb43b327126a2433dea86c48e2" href="web_resources/unfiled/dropbox2.png">
+      <file href="web_resources/unfiled/dropbox2.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g7b495c70aa43209a734d3c4b3e5a8b0a" href="web_resources/unfiled/fruit_for_3drender.c4d">
+      <file href="web_resources/unfiled/fruit_for_3drender.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="g0cdb9d12f3f4eba282e69cbb4ec8e330" href="web_resources/unfiled/floating island4.c4d">
+      <file href="web_resources/unfiled/floating island4.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="g414e0e14f442907a4d84dfe22df6cfbb" href="web_resources/unfiled/Studio Light Template.c4d">
+      <file href="web_resources/unfiled/Studio Light Template.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="gc8192e1c9abb76beac7692faad7cbbb5" href="web_resources/unfiled/Studio Light Template with backdrop.c4d">
+      <file href="web_resources/unfiled/Studio Light Template with backdrop.c4d"/>
+    </resource>
+  </resources>
+</manifest>
