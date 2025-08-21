@@ -1,44 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<assignment identifier="g09b378da2a850f8a2460a930b70811eb" xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
-  <title>Week 12: Reverse Storyboard</title>
-  <time_zone_edited>Arizona</time_zone_edited>
-  <due_at>2024-11-13T03:00:00</due_at>
-  <lock_at/>
-  <unlock_at/>
-  <module_locked>false</module_locked>
-  <all_day_date>2024-11-12</all_day_date>
-  <assignment_group_identifierref>gf3f7c3bb7e95c6742afbc94adfb72bdb</assignment_group_identifierref>
-  <workflow_state>published</workflow_state>
-  <assignment_overrides>
-  </assignment_overrides>
-  <allowed_extensions></allowed_extensions>
-  <has_group_category>false</has_group_category>
-  <points_possible>100.0</points_possible>
-  <grading_type>points</grading_type>
-  <all_day>false</all_day>
-  <submission_types>online_url,online_upload</submission_types>
-  <position>15</position>
-  <turnitin_enabled>false</turnitin_enabled>
-  <vericite_enabled>false</vericite_enabled>
-  <peer_review_count>0</peer_review_count>
-  <peer_reviews>false</peer_reviews>
-  <automatic_peer_reviews>false</automatic_peer_reviews>
-  <anonymous_peer_reviews>false</anonymous_peer_reviews>
-  <grade_group_students_individually>false</grade_group_students_individually>
-  <freeze_on_copy>false</freeze_on_copy>
-  <omit_from_final_grade>false</omit_from_final_grade>
-  <hide_in_gradebook>false</hide_in_gradebook>
-  <intra_group_peer_reviews>false</intra_group_peer_reviews>
-  <only_visible_to_overrides>false</only_visible_to_overrides>
-  <post_to_sis>false</post_to_sis>
-  <moderated_grading>false</moderated_grading>
-  <grader_count>0</grader_count>
-  <grader_comments_visible_to_graders>true</grader_comments_visible_to_graders>
-  <anonymous_grading>false</anonymous_grading>
-  <graders_anonymous_to_graders>false</graders_anonymous_to_graders>
-  <grader_names_visible_to_final_grader>true</grader_names_visible_to_final_grader>
-  <anonymous_instructor_annotations>false</anonymous_instructor_annotations>
-  <post_policy>
-    <post_manually>false</post_manually>
-  </post_policy>
-</assignment>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:assignment xmlns:ns0="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="g09b378da2a850f8a2460a930b70811eb" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <ns0:title>Week 12: Reverse Storyboard</ns0:title>
+  <ns0:time_zone_edited>Arizona</ns0:time_zone_edited>
+  <ns0:due_at>2025-11-18T20:00:00</ns0:due_at>
+  <ns0:lock_at />
+  <ns0:unlock_at />
+  <ns0:module_locked>false</ns0:module_locked>
+  <ns0:all_day_date>2025-11-18</ns0:all_day_date>
+  <ns0:assignment_group_identifierref>gf3f7c3bb7e95c6742afbc94adfb72bdb</ns0:assignment_group_identifierref>
+  <ns0:workflow_state>published</ns0:workflow_state>
+  <ns0:assignment_overrides>
+  </ns0:assignment_overrides>
+  <ns0:allowed_extensions />
+  <ns0:has_group_category>false</ns0:has_group_category>
+  <ns0:points_possible>100.0</ns0:points_possible>
+  <ns0:grading_type>points</ns0:grading_type>
+  <ns0:all_day>false</ns0:all_day>
+  <ns0:submission_types>online_url,online_upload</ns0:submission_types>
+  <ns0:position>15</ns0:position>
+  <ns0:turnitin_enabled>false</ns0:turnitin_enabled>
+  <ns0:vericite_enabled>false</ns0:vericite_enabled>
+  <ns0:peer_review_count>0</ns0:peer_review_count>
+  <ns0:peer_reviews>false</ns0:peer_reviews>
+  <ns0:automatic_peer_reviews>false</ns0:automatic_peer_reviews>
+  <ns0:anonymous_peer_reviews>false</ns0:anonymous_peer_reviews>
+  <ns0:grade_group_students_individually>false</ns0:grade_group_students_individually>
+  <ns0:freeze_on_copy>false</ns0:freeze_on_copy>
+  <ns0:omit_from_final_grade>false</ns0:omit_from_final_grade>
+  <ns0:hide_in_gradebook>false</ns0:hide_in_gradebook>
+  <ns0:intra_group_peer_reviews>false</ns0:intra_group_peer_reviews>
+  <ns0:only_visible_to_overrides>false</ns0:only_visible_to_overrides>
+  <ns0:post_to_sis>false</ns0:post_to_sis>
+  <ns0:moderated_grading>false</ns0:moderated_grading>
+  <ns0:grader_count>0</ns0:grader_count>
+  <ns0:grader_comments_visible_to_graders>true</ns0:grader_comments_visible_to_graders>
+  <ns0:anonymous_grading>false</ns0:anonymous_grading>
+  <ns0:graders_anonymous_to_graders>false</ns0:graders_anonymous_to_graders>
+  <ns0:grader_names_visible_to_final_grader>true</ns0:grader_names_visible_to_final_grader>
+  <ns0:anonymous_instructor_annotations>false</ns0:anonymous_instructor_annotations>
+  <ns0:post_policy>
+    <ns0:post_manually>false</ns0:post_manually>
+  </ns0:post_policy>
+</ns0:assignment>
