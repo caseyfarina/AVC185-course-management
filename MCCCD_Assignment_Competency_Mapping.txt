@@ -1,0 +1,451 @@
+MCCCD ASSIGNMENT TO COURSE COMPETENCY MAPPING
+======================================================
+
+This document maps each assignment in the four AVC courses to their corresponding MCCCD Official Course Competencies. Students should understand how each project supports the institution's plan for their education.
+
+======================================================
+AVC185 - 3D MODELING AND ANIMATION I
+======================================================
+
+MCCCD Official Course Competencies:
+1. Apply basic geometry principles for construction of 3D models. (I)
+2. Build models using one or more shapes and apply Boolean operations. (I)
+3. Create 3D shapes using linear interpolation and polygonal construction. (II)
+4. Demonstrate ability to modify shape appearance through the use of lights and camera angles. (III)
+5. Execute finished models by employing materials, environmental effects, and rendering. (III)
+6. Apply basic animation principles to models. (IV)
+
+ASSIGNMENT COMPETENCY MAPPING:
+
+Week 1: Introduction to Blender
+- Competency 1: Apply basic geometry principles for construction of 3D models
+- Competency 2: Build models using one or more shapes and apply Boolean operations
+- Competency 6: Apply basic animation principles to models. 
+(Introduces fundamental 3D concepts, basic geometry, and interface navigation)
+
+Week 2: Bezier Curves Creating 3D Shapes
+- Competency 1: Apply basic geometry principles for construction of 3D models
+- Competency 3: Create 3D shapes using linear interpolation and polygonal construction
+- Competency 6: Apply basic animation principles to models. 
+(Focuses on curve-based modeling and shape creation techniques)
+
+Week 3: Modifiers and Rendering
+- Competency 2: Build models using one or more shapes and apply Boolean operations
+- Competency 4: Demonstrate ability to modify shape appearance through the use of lights and camera angles
+- Competency 5: Execute finished models by employing materials, environmental effects, and rendering
+- Competency 6: Apply basic animation principles to models. 
+(Introduces scene composition, lighting, and basic rendering workflow)
+
+Week 4: Rendering Compositing and Remesh
+- Competency 4: Demonstrate ability to modify shape appearance through the use of lights and camera angles
+- Competency 5: Execute finished models by employing materials, environmental effects, and rendering
+(Advanced rendering techniques and post-production workflows)
+
+Week 5: Materials Hard Surface vs Sculpting
+- Competency 1: Apply basic geometry principles for construction of 3D models
+- Competency 5: Execute finished models by employing materials, environmental effects, and rendering
+(Material creation and surface treatment techniques)
+
+Week 6: Introduction to Substance Painter
+- Competency 5: Execute finished models by employing materials, environmental effects, and rendering
+(Industry-standard texturing and material workflows)
+
+Week 7: Introduction to UV Unwrapping
+- Competency 1: Apply basic geometry principles for construction of 3D models
+- Competency 5: Execute finished models by employing materials, environmental effects, and rendering
+(Texture coordinate mapping essential for professional workflows)
+
+Week 8: Modeling Foliage and UV Details
+- Competency 1: Apply basic geometry principles for construction of 3D models
+- Competency 3: Create 3D shapes using linear interpolation and polygonal construction
+- Competency 5: Execute finished models by employing materials, environmental effects, and rendering
+(Organic modeling and detailed texture work)
+
+Week 9: Modeling to Scale and UV Packing
+- Competency 1: Apply basic geometry principles for construction of 3D models
+- Competency 3: Create 3D shapes using linear interpolation and polygonal construction
+(Precision modeling and efficient texture organization)
+
+Week 10: Substance Painter Techniques
+- Competency 5: Execute finished models by employing materials, environmental effects, and rendering
+(Advanced material creation and texturing workflows)
+
+Week 11: Lamp Revisions
+- Competency 1: Apply basic geometry principles for construction of 3D models
+- Competency 3: Create 3D shapes using linear interpolation and polygonal construction
+- Competency 5: Execute finished models by employing materials, environmental effects, and rendering
+(Iterative design process and refinement of 3D models)
+
+Week 12: Kitchen Table and Chairs
+- Competency 1: Apply basic geometry principles for construction of 3D models
+- Competency 2: Build models using one or more shapes and apply Boolean operations
+- Competency 3: Create 3D shapes using linear interpolation and polygonal construction
+(Complex multi-object modeling project)
+
+Week 13: Kitchen Silverware
+- Competency 1: Apply basic geometry principles for construction of 3D models
+- Competency 3: Create 3D shapes using linear interpolation and polygonal construction
+- Competency 5: Execute finished models by employing materials, environmental effects, and rendering
+(Detailed hard surface modeling with material application)
+
+Week 14: Kitchen Plates and Napkins
+- Competency 1: Apply basic geometry principles for construction of 3D models
+- Competency 3: Create 3D shapes using linear interpolation and polygonal construction
+- Competency 5: Execute finished models by employing materials, environmental effects, and rendering
+- Competency 6: Apply basic animation principles to models 
+
+(Complex surface modeling and material variation)
+
+Week 15: Final Portfolio
+- Competency 1: Apply basic geometry principles for construction of 3D models
+- Competency 2: Build models using one or more shapes and apply Boolean operations
+- Competency 3: Create 3D shapes using linear interpolation and polygonal construction
+- Competency 4: Demonstrate ability to modify shape appearance through the use of lights and camera angles
+- Competency 5: Execute finished models by employing materials, environmental effects, and rendering
+- Competency 6: Apply basic animation principles to models
+(Comprehensive demonstration of all course competencies)
+
+======================================================
+AVC240 - CINEMATOGRAPHY AND DIRECTING FOR 2D/3D ANIMATION
+======================================================
+
+MCCCD Official Course Competencies:
+1. Compare and contrast the visualization process in traditional arts vs. directing a shot in a digital environment. (I)
+2. Manipulate aperture, depth of field, lenses, and attributes needed to control a virtual camera in various environments. (I-II)
+3. Create conceptual sketches, plans and storyboards for a project. (III)
+4. Apply lighting and compositional concepts to create a mood in a digital environment. (IV)
+5. Determine appropriate camera attributes and shot flow using plans and storyboards. (IV-V)
+6. Apply shot flow and directing techniques to a project. (V)
+7. Stage a scene for a character and/or product shot. (VI)
+8. Apply the appropriate lines of action to virtual cameras in various environments. (VII)
+9. Select appropriate sound for the shot. (VIII)
+10. Render a project using appropriate project specifications and output methods. (IX-X)
+11. Use post-production techniques to edit in a nonlinear environment. (X)
+
+ASSIGNMENT COMPETENCY MAPPING:
+
+Week 1: Camera Theory: Focal Length and DOF
+- Competency 1: Compare and contrast the visualization process in traditional arts vs. directing a shot in a digital environment
+- Competency 2: Manipulate aperture, depth of field, lenses, and attributes needed to control a virtual camera in various environments
+(Foundation of camera theory and virtual cinematography)
+
+Week 2: Camera Theory: Pulling Focus, Rendering with Motion Blur
+- Competency 2: Manipulate aperture, depth of field, lenses, and attributes needed to control a virtual camera in various environments
+- Competency 10: Render a project using appropriate project specifications and output methods
+(Advanced camera techniques and motion effects)
+
+Week 3: Camera Theory: Shutter Speed and Motion Blur
+- Competency 2: Manipulate aperture, depth of field, lenses, and attributes needed to control a virtual camera in various environments
+- Competency 10: Render a project using appropriate project specifications and output methods
+(Technical camera control and rendering parameters)
+
+Week 4: Aspect Ratio and Framerate
+- Competency 1: Compare and contrast the visualization process in traditional arts vs. directing a shot in a digital environment
+- Competency 10: Render a project using appropriate project specifications and output methods
+(Digital format standards and output specifications)
+
+Week 5: Elements of Composition
+- Competency 4: Apply lighting and compositional concepts to create a mood in a digital environment
+- Competency 6: Apply shot flow and directing techniques to a project
+(Visual composition principles and aesthetic theory)
+
+Week 6: Elements of Composition II
+- Competency 4: Apply lighting and compositional concepts to create a mood in a digital environment
+- Competency 6: Apply shot flow and directing techniques to a project
+- Competency 8: Apply the appropriate lines of action to virtual cameras in various environments
+(Advanced composition and visual flow)
+
+Week 7: Shot Sizes, Introduction to Non Photorealistic Rendering Techniques
+- Competency 5: Determine appropriate camera attributes and shot flow using plans and storyboards
+- Competency 6: Apply shot flow and directing techniques to a project
+- Competency 8: Apply the appropriate lines of action to virtual cameras in various environments
+- Competency 10: Render a project using appropriate project specifications and output methods
+(Shot language and stylized rendering approaches)
+
+Week 8: Lighting Theory
+- Competency 4: Apply lighting and compositional concepts to create a mood in a digital environment
+- Competency 7: Stage a scene for a character and/or product shot
+(Fundamental lighting principles for mood and staging)
+
+Week 9: Camera Motion and Substance Painter
+- Competency 2: Manipulate aperture, depth of field, lenses, and attributes needed to control a virtual camera in various environments
+- Competency 6: Apply shot flow and directing techniques to a project
+- Competency 8: Apply the appropriate lines of action to virtual cameras in various environments
+(Dynamic camera movement and material integration)
+
+Week 10: Camera Motion and Mixing Motion Capture Animation
+- Competency 2: Manipulate aperture, depth of field, lenses, and attributes needed to control a virtual camera in various environments
+- Competency 5: Determine appropriate camera attributes and shot flow using plans and storyboards
+- Competency 6: Apply shot flow and directing techniques to a project
+- Competency 8: Apply the appropriate lines of action to virtual cameras in various environments
+(Advanced camera animation and motion integration)
+
+Week 11: Shot Sizes, the 180 degree rule
+- Competency 5: Determine appropriate camera attributes and shot flow using plans and storyboards
+- Competency 6: Apply shot flow and directing techniques to a project
+- Competency 8: Apply the appropriate lines of action to virtual cameras in various environments
+(Continuity rules and shot language mastery)
+
+Week 12: Reverse Storyboard
+- Competency 3: Create conceptual sketches, plans and storyboards for a project
+- Competency 5: Determine appropriate camera attributes and shot flow using plans and storyboards
+- Competency 6: Apply shot flow and directing techniques to a project
+(Analysis of existing cinematography and shot planning)
+
+Week 13: Realtime Product Cinematography
+- Competency 4: Apply lighting and compositional concepts to create a mood in a digital environment
+- Competency 7: Stage a scene for a character and/or product shot
+- Competency 10: Render a project using appropriate project specifications and output methods
+(Product visualization and commercial cinematography)
+
+Week 14: Animated Title Sequence: Design Brief
+- Competency 3: Create conceptual sketches, plans and storyboards for a project
+- Competency 5: Determine appropriate camera attributes and shot flow using plans and storyboards
+- Competency 9: Select appropriate sound for the shot
+- Competency 11: Use post-production techniques to edit in a nonlinear environment
+(Motion graphics design and pre-production planning)
+
+Week 15: Animated Title Sequence: Final Submission
+- Competency 3: Create conceptual sketches, plans and storyboards for a project
+- Competency 4: Apply lighting and compositional concepts to create a mood in a digital environment
+- Competency 5: Determine appropriate camera attributes and shot flow using plans and storyboards
+- Competency 6: Apply shot flow and directing techniques to a project
+- Competency 9: Select appropriate sound for the shot
+- Competency 10: Render a project using appropriate project specifications and output methods
+- Competency 11: Use post-production techniques to edit in a nonlinear environment
+(Comprehensive application of all cinematography competencies)
+
+======================================================
+AVC200 - ANIMATION AND INTERACTIVITY
+======================================================
+
+MCCCD Official Course Competencies:
+1. Navigate program interface and tools (I)
+2. Use animation techniques to create linear experiences (II)
+3. Create storyboards, develop concepts, visual style (III)
+4. Use principals of animation (IV)
+5. Create non-linear experiences (V)
+6. Create and use advanced buttons for user input (VI)
+7. Create movie clips, navigate timelines (VII)
+8. Manipulate text and related objects, variables and expressions (VIII)
+9. Use sound in production (IX)
+10. Optimize performance (X)
+11. Distribute various output formats (XI)
+
+ASSIGNMENT COMPETENCY MAPPING:
+
+Week 1: Introduction To Unity Animation Interactivity
+- Competency 1: Navigate program interface and tools
+- Competency 2: Use animation techniques to create linear experiences
+- Competency 5: Create non-linear experiences
+(Introduction to interactive media development environment)
+
+Week 2: Expanding Interactivity Prototyping A Rolling Ball Game
+- Competency 1: Navigate program interface and tools
+- Competency 4: Use principals of animation
+- Competency 5: Create non-linear experiences
+- Competency 6: Create and use advanced buttons for user input
+(Basic game mechanics and user input systems)
+
+Week 3: Game Assets Modeling In Blender Lighting Prefabs And Editing Substances
+- Competency 1: Navigate program interface and tools
+- Competency 3: Create storyboards, develop concepts, visual style
+- Competency 10: Optimize performance
+(Asset creation workflow and visual development)
+
+Week 4: Game Assets Substance Painter Substance Modeler Game Asset Workflows
+- Competency 1: Navigate program interface and tools
+- Competency 3: Create storyboards, develop concepts, visual style
+- Competency 10: Optimize performance
+(Professional asset creation and material workflows)
+
+Week 5: Sound Design Animation Primitives In Substance Modeler Compiling The Game And Vfx Shaders And Particles
+- Competency 1: Navigate program interface and tools
+- Competency 4: Use principals of animation
+- Competency 9: Use sound in production
+- Competency 10: Optimize performance
+- Competency 11: Distribute various output formats
+(Audio integration, effects creation, and build optimization)
+
+Week 6: Adding A Start Screen Using Llms For Unity Scripting
+- Competency 1: Navigate program interface and tools
+- Competency 5: Create non-linear experiences
+- Competency 6: Create and use advanced buttons for user input
+- Competency 8: Manipulate text and related objects, variables and expressions
+(User interface design and programming integration)
+
+Week 7: Adding A Collectable Or Key Mechanic To The Game
+- Competency 1: Navigate program interface and tools
+- Competency 5: Create non-linear experiences
+- Competency 6: Create and use advanced buttons for user input
+- Competency 8: Manipulate text and related objects, variables and expressions
+(Game mechanics programming and variable management)
+
+Week 8: Rolling Ball Game Final
+- Competency 5: Create non-linear experiences
+- Competency 9: Use sound in production
+- Competency 10: Optimize performance
+- Competency 11: Distribute various output formats
+(Project completion, optimization, and distribution)
+
+Week 9: Introduction To The Epic Eco System And Unreal Engine
+- Competency 1: Navigate program interface and tools
+- Competency 3: Create storyboards, develop concepts, visual style
+- Competency 11: Distribute various output formats
+(Advanced development environment and industry workflows)
+
+Week 10: First Person Collection In Unreal Engine
+- Competency 1: Navigate program interface and tools
+- Competency 5: Create non-linear experiences
+- Competency 6: Create and use advanced buttons for user input
+(Advanced interaction design in professional engine)
+
+Week 11: Authoring Assets For Unreal Engine Creating Animation In Shaders And Triggering Particle And Sound Fx
+- Competency 1: Navigate program interface and tools
+- Competency 2: Use animation techniques to create linear experiences
+- Competency 4: Use principals of animation
+- Competency 9: Use sound in production
+(Advanced asset creation and effects integration)
+
+Week 12: Programming The Collection Count In Blueprints Creating Doors In Blueprints
+- Competency 1: Navigate program interface and tools
+- Competency 5: Create non-linear experiences
+- Competency 8: Manipulate text and related objects, variables and expressions
+(Visual programming and game state management)
+
+Week 13: Building The Game In Unreal Recording Gameplay Adding Messages And Sound Fx
+- Competency 9: Use sound in production
+- Competency 10: Optimize performance
+- Competency 11: Distribute various output formats
+(Final integration, optimization, and documentation)
+
+Week 14: Final Portfolio Requirements Using Mixamo In Unreal Creating Environmental Sounds Rain In The Particle System
+- Competency 1: Navigate program interface and tools
+- Competency 2: Use animation techniques to create linear experiences
+- Competency 4: Use principals of animation
+- Competency 9: Use sound in production
+(Character animation integration and environmental design)
+
+Week 15: Final Portfolio Requirements 25 Of The Course Grade Final Submission
+- Competency 3: Create storyboards, develop concepts, visual style
+- Competency 5: Create non-linear experiences
+- Competency 10: Optimize performance
+- Competency 11: Distribute various output formats
+(Comprehensive project documentation and presentation)
+
+======================================================
+AVC285 - 3D MODELING AND ANIMATION II
+======================================================
+
+MCCCD Official Course Competencies:
+1. Select textures to be used on surfaces of backgrounds and 3D models. (I)
+2. Apply material to surfaces and 3D models using various painting and mapping techniques. (I)
+3. Determine illumination effects on a 3D model. (II)
+4. Apply various deformation principles for animation and special effects. (II)
+5. Produce a 3D character study. (III-V)
+6. Use forward and inverse kinematics to animate a character. (IV)
+7. Apply animation principles to objects and environments. (IV)
+8. Construct a character applying appropriate tools, materials and textures. (V)
+
+ASSIGNMENT COMPETENCY MAPPING:
+
+Week 1: Simulation Modeling: Rigid Bodies
+- Competency 4: Apply various deformation principles for animation and special effects
+- Competency 7: Apply animation principles to objects and environments
+(Physics-based animation and environmental dynamics)
+
+Week 2: Simulation Modeling: Fracture and Art Directing a Simulation
+- Competency 4: Apply various deformation principles for animation and special effects
+- Competency 7: Apply animation principles to objects and environments
+(Destruction effects and simulation art direction)
+
+Week 3: Simulation Modeling: Cloth and Spline
+- Competency 4: Apply various deformation principles for animation and special effects
+- Competency 7: Apply animation principles to objects and environments
+(Soft body dynamics and flexible object simulation)
+
+Week 4: Introduction to TwinMotion and Substance Painter: Transferring Assets
+- Competency 1: Select textures to be used on surfaces of backgrounds and 3D models
+- Competency 2: Apply material to surfaces and 3D models using various painting and mapping techniques
+- Competency 3: Determine illumination effects on a 3D model
+(Material workflow and lighting integration across platforms)
+
+Week 5: Simulation Modeling: Cloth: Pants and Shirts
+- Competency 4: Apply various deformation principles for animation and special effects
+- Competency 5: Produce a 3D character study
+- Competency 8: Construct a character applying appropriate tools, materials and textures
+(Character clothing simulation and material application)
+
+Week 6: Simulation Modeling: Soft Body Physics, Simulated Cloth workflow, Introduction to Unreal Engine
+- Competency 4: Apply various deformation principles for animation and special effects
+- Competency 7: Apply animation principles to objects and environments
+(Advanced physics simulation and real-time engine integration)
+
+Week 7: Substance Sampler: Creating your own Substances, Using them in Unreal Engine
+- Competency 1: Select textures to be used on surfaces of backgrounds and 3D models
+- Competency 2: Apply material to surfaces and 3D models using various painting and mapping techniques
+(Procedural material creation and implementation)
+
+Week 8: Photogrammetry: Scanning Reality, Sequences in Unreal Engine
+- Competency 1: Select textures to be used on surfaces of backgrounds and 3D models
+- Competency 2: Apply material to surfaces and 3D models using various painting and mapping techniques
+- Competency 3: Determine illumination effects on a 3D model
+(Real-world asset capture and material reconstruction)
+
+Week 9: Photogrammetry: Revisions
+- Competency 1: Select textures to be used on surfaces of backgrounds and 3D models
+- Competency 2: Apply material to surfaces and 3D models using various painting and mapping techniques
+(Refinement of captured assets and material optimization)
+
+Week 10: Substance Painter: Advanced Techniques
+- Competency 1: Select textures to be used on surfaces of backgrounds and 3D models
+- Competency 2: Apply material to surfaces and 3D models using various painting and mapping techniques
+- Competency 3: Determine illumination effects on a 3D model
+(Advanced material painting and surface treatment)
+
+Week 11: Substance Painter: Advanced brush generation techniques
+- Competency 1: Select textures to be used on surfaces of backgrounds and 3D models
+- Competency 2: Apply material to surfaces and 3D models using various painting and mapping techniques
+(Custom brush creation and procedural painting techniques)
+
+Week 12: Introduction to Sculpting in Blender
+- Competency 5: Produce a 3D character study
+- Competency 8: Construct a character applying appropriate tools, materials and textures
+(Digital sculpting fundamentals for character development)
+
+Week 13: Hard Surface Sculpting in Blender, Advanced Mask Techniques in Substance Painter
+- Competency 2: Apply material to surfaces and 3D models using various painting and mapping techniques
+- Competency 5: Produce a 3D character study
+- Competency 8: Construct a character applying appropriate tools, materials and textures
+(Hard surface character elements and advanced material masking)
+
+Week 14: Sculpting in Blender: Using VDM brushes
+- Competency 5: Produce a 3D character study
+- Competency 8: Construct a character applying appropriate tools, materials and textures
+(Advanced sculpting techniques for detailed character work)
+
+Week 15: Advanced VDM Techniques and Final Portfolio
+- Competency 1: Select textures to be used on surfaces of backgrounds and 3D models
+- Competency 2: Apply material to surfaces and 3D models using various painting and mapping techniques
+- Competency 3: Determine illumination effects on a 3D model
+- Competency 5: Produce a 3D character study
+- Competency 8: Construct a character applying appropriate tools, materials and textures
+(Comprehensive character development and portfolio presentation)
+
+======================================================
+NOTES FOR IMPLEMENTATION:
+======================================================
+
+1. Each assignment should include a "Course Competencies" section that lists the relevant competencies from this mapping.
+
+2. The competency numbers and descriptions should match exactly with the MCCCD Official Course Competencies as listed above.
+
+3. Students should understand that these competencies represent the institutional learning objectives that each assignment is designed to address.
+
+4. Faculty may emphasize different competencies based on pedagogical approach while maintaining alignment with these official standards.
+
+5. This mapping ensures that all assignments contribute meaningfully to the overall course objectives and student learning outcomes.
+
+======================================================
+END OF DOCUMENT
+======================================================

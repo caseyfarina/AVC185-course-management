@@ -1,0 +1,118 @@
+import json
+from pathlib import Path
+import re
+
+def fix_avc185_mapping():
+    """Create proper AVC185 assignment mapping"""
+    
+    extracted_path = Path('AVC185/extracted_course')
+    assignments_path = Path('AVC185/assignments')
+    
+    # Manual mapping based on titles
+    assignment_mapping = {
+        "technology_login_challenge_tlc": {
+            "original_folder": "gd948913ca32ac0d123c2119940756c91",
+            "original_html": "week-1-technology-login-challenge-3.html",
+            "title": "Technology Login Challenge (TLC)",
+            "assignments_file": "Technology Login Challenge TLC.html"
+        },
+        "week_1_introduction_to_blender": {
+            "original_folder": "g36450a0839599fd7909acf76c13b40b0",
+            "original_html": "week-1-introduction-to-blender.html",
+            "title": "Week 1: Introduction to Blender",
+            "assignments_file": "Week 1 - Introduction to Blender.html"
+        },
+        "week_2_bezier_curves_creating_3d_shapes": {
+            "original_folder": "g8220ab6adee6ec8f84bf9f6012f57f26",
+            "original_html": "week-2-bezier-curves-creating-3d-shapes-from-2d-curves.html",
+            "title": "Week 2: Bezier Curves: Creating 3D shapes from 2D Curves",
+            "assignments_file": "Week 2 - Bezier Curves Creating 3D Shapes.html"
+        },
+        "week_3_modifiers_and_rendering": {
+            "original_folder": "g6b72bfaf2319de56b62847c8baf810f2",
+            "original_html": "modifiers-and-rendering-constructing-a-scene-from-multipart-objects.html",
+            "title": "Week 3: Modifiers and Rendering: Constructing a scene from Multipart Objects",
+            "assignments_file": "Week 3 - Modifiers and Rendering.html"
+        },
+        "week_4_rendering_compositing_and_remesh": {
+            "original_folder": "g20f59e25f3fa3656d818e757af72613e",
+            "original_html": "rendering-compositing-and-basic-remesh-workflow.html",
+            "title": "Week 4: Rendering, Compositing and Basic Remesh Workflow",
+            "assignments_file": "Week 4 - Rendering Compositing and Remesh.html"
+        },
+        "week_5_materials_hard_surface_vs_sculpting": {
+            "original_folder": "ged670864b6f6dbe659f5d703882cb069",
+            "original_html": "materials-hard-surface-vs-sculpting-workflow.html",
+            "title": "Week 5: Materials, Hard Surface VS Sculpting workflow",
+            "assignments_file": "Week 5 - Materials Hard Surface vs Sculpting.html"
+        },
+        "week_6_introduction_to_substance_painter": {
+            "original_folder": "gf996147eab481787e5c4f5626a295d61",
+            "original_html": "introduction-to-substance-painter.html",
+            "title": "Week 6: Introduction to Substance Painter",
+            "assignments_file": "Week 6 - Introduction to Substance Painter.html"
+        },
+        "week_7_introduction_to_uv_unwrapping": {
+            "original_folder": "g17408bb11ac5ff71e18579d04bfb57d8",
+            "original_html": "introduction-to-uv-unwrapping.html",
+            "title": "Week 7: Introduction to UV Unwrapping",
+            "assignments_file": "Week 7 - Introduction to UV Unwrapping.html"
+        },
+        "week_8_modeling_foliage_and_uv_details": {
+            "original_folder": "g8407165939ff80ce73f7945689263009",
+            "original_html": "modeling-foliage-uv-details-playground-showcase-video.html",
+            "title": "Week 8: Modeling Foliage, UV details, Playground Showcase Video",
+            "assignments_file": "Week 8 - Modeling Foliage and UV Details.html"
+        },
+        "week_9_modeling_to_scale_and_uv_packing": {
+            "original_folder": "g189401cb9fa253cbe434a381802a6596",
+            "original_html": "modeling-to-scale-and-uv-packing.html",
+            "title": "Week 9: Modeling to Scale and UV Packing",
+            "assignments_file": "Week 9 - Modeling to Scale and UV Packing.html"
+        },
+        "week_10_substance_painter_techniques": {
+            "original_folder": "g410b9f6fbc39e616a90ed53576e640dd",
+            "original_html": "substance-painter-techniques.html",
+            "title": "Week 10: Substance Painter Techniques",
+            "assignments_file": "Week 10 - Substance Painter Techniques.html"
+        },
+        "week_11_lamp_revisions": {
+            "original_folder": "gdcd12c342fa682a3f61b3fe296bb137f",
+            "original_html": "lamp-revisions.html",
+            "title": "Week 11: Lamp Revisions",
+            "assignments_file": "Week 11 - Lamp Revisions.html"
+        },
+        "week_12_kitchen_table_and_chairs": {
+            "original_folder": "g515785273d32271ea7c08468191b15c6",
+            "original_html": "kitchen-modeling-kitchen-table-and-chairs.html",
+            "title": "Week 12: Kitchen Modeling: Kitchen Table and Chairs",
+            "assignments_file": "Week 12 - Kitchen Table and Chairs.html"
+        },
+        "week_13_kitchen_silverware": {
+            "original_folder": "gd9f812b003cb8f2a4c56a849d0a7f958",
+            "original_html": "kitchen-modeling-silverware-and-antique-silverware.html",
+            "title": "Week 13: Kitchen: Modeling Silverware, and Antique Silverware",
+            "assignments_file": "Week 13 - Kitchen Silverware.html"
+        },
+        "week_14_kitchen_plates_and_napkins": {
+            "original_folder": "gaae5c0e89b19779012112987a61f4773",
+            "original_html": "kitchen-plates-and-napkins.html",
+            "title": "Week 14: Kitchen: Plates and Napkins",
+            "assignments_file": "Week 14 - Kitchen Plates and Napkins.html"
+        },
+        "week_15_final_portfolio": {
+            "original_folder": "ga45c0a38ed19157066c2b34c30e682af",
+            "original_html": "final-portfolio-requirements-25-percent-of-the-course-grade.html",
+            "title": "Final Portfolio Requirements 25% of the course grade",
+            "assignments_file": "Week 15 - Final Portfolio.html"
+        }
+    }
+    
+    # Save mapping
+    with open('AVC185/assignment_mapping.json', 'w') as f:
+        json.dump(assignment_mapping, f, indent=2)
+    
+    print(f"Created proper mapping for {len(assignment_mapping)} AVC185 assignments")
+
+if __name__ == "__main__":
+    fix_avc185_mapping()

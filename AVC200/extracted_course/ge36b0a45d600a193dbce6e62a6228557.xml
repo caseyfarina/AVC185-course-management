@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1  http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imsdt_v1p1.xsd">
+  <title>Drawing Application 2: This time it's serious</title>
+  <text texttype="text/html">&lt;p class="p1"&gt;1. Three toggle buttons reflect state&lt;/p&gt;
+&lt;p class="p1"&gt;2. Must draw a line&lt;/p&gt;
+&lt;p class="p1"&gt;3. Toggle 1: change strokeWeight&lt;/p&gt;
+&lt;p class="p1"&gt;4. Toggle 2: change stroke Color&lt;/p&gt;
+&lt;p class="p1"&gt;5. Toggle 3: change background Color&lt;/p&gt;
+&lt;p class="p1"&gt;6. only draw when pressing mouse&lt;/p&gt;
+&lt;p class="p1"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="p2"&gt;&lt;strong&gt;REFERENCE&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p2"&gt;&lt;a href="http://coursescript.com/notes/interactivecomputing/interactivity/"&gt;http://coursescript.com/notes/interactivecomputing/interactivity/&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="p2"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="p1"&gt;steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: 0.8125rem;"&gt;make one toggle button&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: 0.8125rem;"&gt;make the other two toggles&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: 0.8125rem;"&gt;make mouse draw line, and off when not pressing, hint: use the &lt;em&gt;&lt;strong&gt;mousePressed&lt;/strong&gt;&lt;/em&gt; variable&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: 0.8125rem;"&gt;make variables for drawing&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: 0.8125rem;"&gt;connect button states to drawing variables&lt;/span&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;&lt;span style="font-size: 0.8125rem;"&gt;if(buttonState){&lt;br&gt; size++; // make circle bigger if on&lt;br&gt; }else if(buttonState == false){&lt;br&gt; size--; // make circle smaller if off &lt;br&gt; }&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;</text>
+</topic>

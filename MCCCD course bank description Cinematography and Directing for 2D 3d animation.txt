@@ -1,0 +1,62 @@
+Cinematography and Directing for 2D/3D Animation
+Course: AVC240
+
+First Term: 2023 Fall
+Final Term: Current
+Lec + Lab   3.0 Credit(s)   6.0 Period(s)   6.0 Load  
+Subject Type: Occupational
+Load Formula: T - Lab Load
+
+
+Description: Essential skills, concepts and the use of virtual cameras in 2D and 3D animation environments: planning, pre-production, storyboards and pre-visualization using real-world camera principles is combined with rendering, sound and post-production in a nonlinear environment.
+
+Requisites: Prerequisites: A grade of C or better in (ADA/AVC/MMT184, or AVC/MMT185, or FMP108) or permission of Instructor.
+
+
+MCCCD Official Course Competencies
+1. Compare and contrast the visualization process in traditional arts vs. directing a shot in a digital environment. (I)
+2. Manipulate aperture, depth of field, lenses, and attributes needed to control a virtual camera in various environments. (I-II)
+3. Create conceptual sketches, plans and storyboards for a project. (III)
+4. Apply lighting and compositional concepts to create a mood in a digital environment. (IV)
+5. Determine appropriate camera attributes and shot flow using plans and storyboards. (IV-V)
+6. Apply shot flow and directing techniques to a project. (V)
+7. Stage a scene for a character and/or product shot. (VI)
+8. Apply the appropriate lines of action to virtual cameras in various environments. (VII)
+9. Select appropriate sound for the shot. (VIII)
+10. Render a project using appropriate project specifications and output methods. (IX-X)
+11. Use post-production techniques to edit in a nonlinear environment. (X)
+MCCCD Official Course Competencies must be coordinated with the content outline so that each major point in the outline serves one or more competencies. MCCCD faculty retains authority in determining the pedagogical approach, methodology, content sequencing, and assessment metrics for student work. Please see individual course syllabi for additional information, including specific course requirements.
+ 
+MCCCD Official Course Outline
+I. Directing a shot in a 3D environment
+II. The digital camera
+   A. Aperture
+   B. Depth of field
+   C. Lenses and focal length
+   D. Aspect ratios
+III. Storyboards
+   A. Conceptual sketch
+   B. Planning
+   C. Storyboard process
+   D. Thinking like a filmmaker
+   E. Thinking like an editor
+IV. Lighting
+   A. General lighting concepts
+   B. Light as a subject
+   C. Computer-generated lighting
+   D. Light as a tool
+V. Digital directing
+   A. Shot flow
+   B. Composition
+   C. Types of shots
+VI. Staging
+   A. Character staging
+   B. Product staging
+VII. Lines of action and the camera
+   A. Camera angles
+   B. Framing
+   C. Continuity
+   D. Lines of composition
+VIII. Sound
+IX. Resolution, compression and rendering
+X. Editing and post-production

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1  http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imsdt_v1p1.xsd">
+  <title>Project: Digital Kandinsky</title>
+  <text texttype="text/html">&lt;h3&gt;&lt;strong&gt;Digital Kandinsky:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Make your own Kandinsky inspired art in p5js.&lt;/p&gt;
+&lt;p&gt;Canvas size should be 1280 x 720.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use at least one of the following&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/arc"&gt;http://p5js.org/reference/#/p5/arc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/ellipse"&gt;http://p5js.org/reference/#/p5/ellipse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/line"&gt;http://p5js.org/reference/#/p5/line&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/quad"&gt;http://p5js.org/reference/#/p5/quad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/rect"&gt;http://p5js.org/reference/#/p5/rect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/triangle"&gt;http://p5js.org/reference/#/p5/triangle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/rectMode"&gt;http://p5js.org/reference/#/p5/rectMode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/strokeCap"&gt;http://p5js.org/reference/#/p5/strokeCap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/strokeJoin"&gt;http://p5js.org/reference/#/p5/strokeJoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/strokeWeight"&gt;http://p5js.org/reference/#/p5/strokeWeight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/bezier"&gt;http://p5js.org/reference/#/p5/bezier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/beginShape"&gt;http://p5js.org/reference/#/p5/beginShape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/endShape"&gt;http://p5js.org/reference/#/p5/endShape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/vertex"&gt;http://p5js.org/reference/#/p5/vertex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/fill"&gt;http://p5js.org/reference/#/p5/fill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/stroke"&gt;http://p5js.org/reference/#/p5/stroke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/color"&gt;http://p5js.org/reference/#/p5/color&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/reference/#/p5/background"&gt;http://p5js.org/reference/#/p5/background&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;Post as screenshot of your Kandinsky AND zip up your project and upload it to your dropbox. Please provide a link to the zip file in your post. &lt;/li&gt;
+&lt;li&gt;Comment on at least &lt;strong&gt;two&lt;/strong&gt; of your fellow classmates posts!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Have fun!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Wassily Wassilyevich Kandinsky&lt;/strong&gt;&amp;nbsp;(&lt;span class="nowrap"&gt;&lt;span class="IPA nopopups"&gt;&lt;a title="Help:IPA for English" href="https://en.wikipedia.org/wiki/Help:IPA_for_English"&gt;/&lt;span title="'k' in 'kind'"&gt;k&lt;/span&gt;&lt;span title="/æ/ short 'a' in 'bad'"&gt;æ&lt;/span&gt;&lt;span title="'n' in 'no'"&gt;n&lt;/span&gt;&lt;span title="/ˈ/ primary stress follows"&gt;ˈ&lt;/span&gt;&lt;span title="'d' in 'dye'"&gt;d&lt;/span&gt;&lt;span title="/ɪ/ short 'i' in 'bid'"&gt;ɪ&lt;/span&gt;&lt;span title="'n' in 'no'"&gt;n&lt;/span&gt;&lt;span title="'s' in 'sigh'"&gt;s&lt;/span&gt;&lt;span title="'k' in 'kind'"&gt;k&lt;/span&gt;&lt;span title="/i/ 'y' in 'happy'"&gt;i&lt;/span&gt;/&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;;&amp;nbsp;&lt;a title="Russian language" href="https://en.wikipedia.org/wiki/Russian_language"&gt;Russian&lt;/a&gt;:&amp;nbsp;&lt;span lang="ru"&gt;Васи́лий Васи́льевич Канди́нский&lt;/span&gt;,&amp;nbsp;Vasiliy Vasil’yevich Kandinskiy,&amp;nbsp;&lt;small&gt;pronounced&amp;nbsp;&lt;/small&gt;&lt;span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"&gt;&lt;a title="Help:IPA for Russian" href="https://en.wikipedia.org/wiki/Help:IPA_for_Russian"&gt;[vaˈsʲilʲɪj kɐnˈdʲinskʲɪj]&lt;/a&gt;&lt;/span&gt;; 16 December&amp;nbsp;[&lt;a title="Old Style and New Style dates" href="https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates"&gt;O.S.&lt;/a&gt;&amp;nbsp;4 December]&amp;nbsp;1866&amp;nbsp;– 13 December 1944) was an influential Russian painter and art theorist. He is credited with painting one of the first purely&amp;nbsp;&lt;a title="Abstract art" href="https://en.wikipedia.org/wiki/Abstract_art"&gt;abstract&lt;/a&gt;&amp;nbsp;works. Born in Moscow, Kandinsky spent his childhood in&amp;nbsp;&lt;a title="Odessa" href="https://en.wikipedia.org/wiki/Odessa"&gt;Odessa&lt;/a&gt;, where he graduated at&amp;nbsp;&lt;a title="Grekov Odessa Art school" href="https://en.wikipedia.org/wiki/Grekov_Odessa_Art_school"&gt;Grekov Odessa Art school&lt;/a&gt;. He enrolled at the&amp;nbsp;&lt;a class="mw-redirect" title="University of Moscow" href="https://en.wikipedia.org/wiki/University_of_Moscow"&gt;University of Moscow&lt;/a&gt;, studying law and economics. Successful in his profession—he was offered a professorship (chair of&amp;nbsp;&lt;a class="mw-redirect" title="Roman Law" href="https://en.wikipedia.org/wiki/Roman_Law"&gt;Roman Law&lt;/a&gt;) at the&amp;nbsp;&lt;a title="University of Tartu" href="https://en.wikipedia.org/wiki/University_of_Tartu"&gt;University of Dorpat&lt;/a&gt;—Kandinsky began painting studies (life-drawing, sketching and anatomy) at the age of&amp;nbsp;30.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="$IMS-CC-FILEBASE$/maxresdefault.jpg" alt="maxresdefault.jpg" width="322" height="183" loading="lazy"&gt;&lt;img src="$IMS-CC-FILEBASE$/Unknown.jpeg" alt="Unknown.jpeg" loading="lazy"&gt;&lt;img src="$IMS-CC-FILEBASE$/Vassily_Kandinsky,_1926_-_Several_Circles,_Gugg_0910_25.jpg" alt="Vassily_Kandinsky,_1926_-_Several_Circles,_Gugg_0910_25.jpg" width="326" height="332" loading="lazy"&gt;&lt;img src="$IMS-CC-FILEBASE$/Vassily_Kandinsky,_1923_-_Circles_in_a_Circle.jpg" alt="Vassily_Kandinsky,_1923_-_Circles_in_a_Circle.jpg" width="314" height="322" loading="lazy"&gt;&lt;/p&gt;</text>
+</topic>

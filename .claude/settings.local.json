@@ -3,7 +3,11 @@
     "allow": [
       "Bash(mv:*)",
       "Bash(python:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(mkdir:*)",
+      "Bash(ls:*)",
+      "WebFetch(domain:support.yuja.com)",
+      "Bash(grep:*)"
     ],
     "deny": [],
     "ask": []

@@ -1,0 +1,126 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Assignment: Third Person 3D: Character Modeling, Rigging, and Animation</title>
+</head>
+<body>
+<p><strong>Reference:</strong></p>
+<ul>
+<li>Modeling and Rigging a character in Cinema 4D:
+<ul>
+<li><a href="https://youtube.com/live/MCw2RAwrCUg?feature=share" target="_blank">https://youtube.com/live/MCw2RAwrCUg?feature=share</a></li>
+</ul>
+</li>
+<li>Animating the Character in Cinema 4D:
+<ul>
+<li><a href="https://youtube.com/live/9PzFAfGxI4I?feature=share" target="_blank">https://youtube.com/live/9PzFAfGxI4I?feature=share</a></li>
+</ul>
+</li>
+<li>Using the Unity Animator to Animate a Character in Unity
+<ul>
+<li><a href="https://youtube.com/live/2Xir8DNrN2s?feature=share" target="_blank">https://youtube.com/live/2Xir8DNrN2s?feature=share</a></li>
+</ul>
+</li>
+<li>Creating moving platforms and adding a jump sound effect
+<ul>
+<li><a href="https://www.youtube.com/watch?v=aIWjMJNn1j8" target="_blank">https://www.youtube.com/watch?v=aIWjMJNn1j8</a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>Third Person 3D Game: Second Draft<br>Requirements:</p>
+<ul style="list-style-type: disc;">
+<li>Character:
+<ul style="list-style-type: disc;">
+<li>Be sure you have added the new rigidBody controller package.&nbsp;
+<ul style="list-style-type: disc;">
+<li>
+<a class="instructure_file_link inline_disabled" title="thirdPersonWithBounce.unitypackage" href="$IMS-CC-FILEBASE$/Uploaded%20Media/thirdPersonWithBounce.unitypackage?canvas_=1&amp;canvas_qs_wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1267261/files/94951223" data-api-returntype="File">thirdPersonWithBounce.unitypackage</a> -drag the package into your assets folder
+<ul style="list-style-type: disc;">
+<li>Please install the free version of DoTween, This packaged is reference by the scripts.&nbsp;</li>
+<li><a href="https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676" target="_blank">https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676</a></li>
+<li>It will appear in the "My Assets" section of the package manager</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Model a custom mesh for your main character, rig and animate it in Cinema 4D
+<ul style="list-style-type: disc;">
+<li>
+<a class="instructure_file_link instructure_scribd_file inline_disabled" title="thirdPersonAnimationController.cs" href="$IMS-CC-FILEBASE$/Uploaded%20Media/thirdPersonAnimationController.cs?canvas_=1&amp;canvas_qs_wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1267261/files/95437241" data-api-returntype="File">thirdPersonAnimationController.cs</a> Your character should have the following animations
+<ul style="list-style-type: disc;">
+<li>Run</li>
+<li>Idle</li>
+<li>Jump</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Obstacles
+<ul style="list-style-type: disc;">
+<li>
+<strong>8 different moving obstacles</strong>
+<ul style="list-style-type: disc;">
+<li>I would like to see some more of your own creativity. How could you expand the ideas we explored in class?</li>
+<li>Remember to place the <a class="instructure_file_link instructure_scribd_file inline_disabled" title="_bumpPlayer.cs" href="$IMS-CC-FILEBASE$/Uploaded%20Media/_bumpPlayer.cs?canvas_=1&amp;canvas_qs_wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1267261/files/94952982" data-api-returntype="File">_bumpPlayer.cs</a> script on the objects that should propel the player backwards. Take the time to tune the strength of this script appropriately for the game play</li>
+</ul>
+</li>
+<li>3 different moving platforms</li>
+</ul>
+</li>
+<li>Environment
+<ul style="list-style-type: disc;">
+<li>
+<strong>8 different environment objects</strong> that are repeated throughout the level that enrich the design of the world.</li>
+<li>
+<strong>4 different animated environment objects</strong> that are repeated throughout the level that enrich the design of the world. These objects could be animated in C4D or Unity.</li>
+<li>Consider taking advantage of scale in your design. How could large objects occupy the 3D space above and below the level?</li>
+<li>Are you still having trouble with your text? Please do not use the Bevel object on the text. Use the caps rounding and re-import into Unity.</li>
+<li>Include at least <strong>two moving platforms</strong>. <a class="instructure_file_link instructure_scribd_file inline_disabled" title="movingPlatform.cs" href="$IMS-CC-FILEBASE$/Uploaded%20Media/movingPlatform.cs?canvas_=1&amp;canvas_qs_wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1267261/files/95382695" data-api-returntype="File">movingPlatform.cs</a>&nbsp;</li>
+</ul>
+</li>
+<li>Particles
+<ul style="list-style-type: disc;">
+<li>1 environmental particle effect. Something like snow or sparkles that enhances a section of the level</li>
+<li>2 particle effects that are attached to game objects. Some Possibilities
+<ul style="list-style-type: disc;">
+<li>swinging fire balls</li>
+<li>energy trails on projectiles</li>
+<li>sparkles surrounding certain objects</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Music
+<ul style="list-style-type: disc;">
+<li>Music that fits the energy level and theme of the game.</li>
+<li>A sound effect for the character jump</li>
+<li>A sound effect for the character bump</li>
+</ul>
+</li>
+<li>Build
+<ul style="list-style-type: disc;">
+<li>Build the project for WebGL and upload to itch. If you're on windows then you can build a zip version of the game, that is not an option if you are on a Mac computer.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><strong>Deliverable:</strong></p>
+<ul>
+<li>A link to the game on itch.io</li>
+<li>post the link to slack&nbsp;</li>
+<li>play test all the other games posted to slack and provide the following feedback
+<ul>
+<li>how many times you played the game</li>
+<li>Is the game too hard or too easy? How should the difficulty be adjusted? What changes could be implemented.</li>
+<li>A strong component of the visual design</li>
+<li>A weak component of the visual design that could be improved.</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

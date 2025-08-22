@@ -1,0 +1,389 @@
+AVC185 ACCESSIBILITY AUDIT REPORT
+==================================================
+YuJa Panorama Issue Analysis
+Generated: F:\GCC canvas work\AVC185-course-management
+==================================================
+
+SUMMARY:
+Alt Text Issues: 4 files affected
+Heading Issues: 10 files affected
+Link Issues: 15 files affected
+
+==================================================
+1. IMAGE & ALT TEXT ISSUES
+==================================================
+
+FILE: FILE: Week 1 - Introduction to Blender.html
+Image: $IMS-CC-FILEBASE$/Uploaded%20Media/image-91b093ad-905c-438b-...
+Current Alt Text: 'Blender 3D software interface or tutorial screenshot'
+Issues Found: GENERIC ALT TEXT
+----------------------------------------
+
+FILE: FILE: Week 1 - Introduction to Blender.html
+Image: $IMS-CC-FILEBASE$/Uploaded%20Media/image-58c5db59-3358-458d-...
+Current Alt Text: 'Blender 3D software interface or tutorial screenshot'
+Issues Found: GENERIC ALT TEXT
+----------------------------------------
+
+FILE: FILE: Week 12 - Kitchen Table and Chairs.html
+Image: $IMS-CC-FILEBASE$/Uploaded%20Media/image-b1bab287-1e9d-4bd8-...
+Current Alt Text: 'Blender 3D software interface or tutorial screenshot'
+Issues Found: GENERIC ALT TEXT
+----------------------------------------
+
+FILE: FILE: Week 12 - Kitchen Table and Chairs.html
+Image: $IMS-CC-FILEBASE$/Uploaded%20Media/chair.jpg...
+Current Alt Text: 'Blender 3D software interface or tutorial screenshot'
+Issues Found: GENERIC ALT TEXT
+----------------------------------------
+
+==================================================
+2. HEADING STRUCTURE ISSUES
+==================================================
+
+FILE: FILE: Week 1 - Introduction to Blender.html
+Issues Found:
+  - First heading is H3, should start with H1 or H2
+Current Structure:
+  H3: ...
+  H2: Instruction:...
+  H3: Project Objectives...
+  H3: Project...
+  H3: Course Competencies...
+  H2: Deliverable:...
+----------------------------------------
+
+FILE: FILE: Week 10 - Substance Painter Techniques.html
+Issues Found:
+  - First heading is H3, should start with H1 or H2
+Current Structure:
+  H3: &nbsp;...
+  H2: Instruction:...
+  H3: Objective: Students will paint...
+  H2: Project:...
+  H2: Deliverable:...
+----------------------------------------
+
+FILE: FILE: Week 11 - Lamp Revisions.html
+Issues Found:
+  - First heading is H3, should start with H1 or H2
+Current Structure:
+  H3: ...
+  H2: Instruction:...
+  H3: Objective: Students will revis...
+  H2: Project:...
+  H2: Deliverable:...
+----------------------------------------
+
+FILE: FILE: Week 12 - Kitchen Table and Chairs.html
+Issues Found:
+  - First heading is H3, should start with H1 or H2
+Current Structure:
+  H3: &nbsp;...
+  H2: Instruction:...
+  H3: Project: Model and Paint a tab...
+  H2: Course Objectives...
+----------------------------------------
+
+FILE: FILE: Week 2 - Bezier Curves Creating 3D Shapes.html
+Issues Found:
+  - First heading is H3, should start with H1 or H2
+Current Structure:
+  H3: ...
+  H2: Instruction:...
+  H2: My recommended utilities for w...
+  H3: Objective: Students will gain ...
+  H2: Project:...
+  H2: Deliverable:...
+----------------------------------------
+
+FILE: FILE: Week 3 - Modifiers and Rendering.html
+Issues Found:
+  - First heading is H3, should start with H1 or H2
+Current Structure:
+  H3: &nbsp;...
+  H3: &nbsp;...
+  H2: Instruction:...
+  H3: Objective: Students model obje...
+  H2: Project:...
+  H2: Deliverable:...
+----------------------------------------
+
+FILE: FILE: Week 4 - Rendering Compositing and Remesh.html
+Issues Found:
+  - First heading is H3, should start with H1 or H2
+Current Structure:
+  H3: ...
+  H2: Instruction:...
+  H3: Objective: Students will creat...
+  H2: Project:...
+  H2: Deliverable:...
+----------------------------------------
+
+FILE: FILE: Week 7 - Introduction to UV Unwrapping.html
+Issues Found:
+  - First heading is H3, should start with H1 or H2
+Current Structure:
+  H3: ...
+  H2: Instruction:...
+  H3: Objective: Students will model...
+  H2: Project:...
+  H2: Deliverable:...
+----------------------------------------
+
+FILE: FILE: Week 8 - Modeling Foliage and UV Details.html
+Issues Found:
+  - First heading is H3, should start with H1 or H2
+Current Structure:
+  H3: ...
+  H2: Instruction:...
+  H3: Objective: Students will model...
+  H2: Project:...
+  H2: Deliverable:...
+----------------------------------------
+
+FILE: FILE: Week 9 - Modeling to Scale and UV Packing.html
+Issues Found:
+  - First heading is H3, should start with H1 or H2
+Current Structure:
+  H3: &nbsp;...
+  H2: Instruction:...
+  H3: Objective: Students will gain ...
+  H2: Project:...
+  H2: Deliverable:...
+----------------------------------------
+
+==================================================
+3. HYPERLINK ACCESSIBILITY ISSUES
+==================================================
+
+FILE: FILE: Week 1 - Introduction to Blender.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 10 - Substance Painter Techniques.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 11 - Lamp Revisions.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 12 - Kitchen Table and Chairs.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 13 - Kitchen Silverware.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 14 - Kitchen Plates and Napkins.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 15 - Final Portfolio.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://www.artstation.com/artwork/x3Kw1R...'
+URL: https://www.artstation.com/artwork/x3Kw1R...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 2 - Bezier Curves Creating 3D Shapes.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: '...'
+URL: https://www.imdb.com/title/tt1419113/...
+Issues: LINK TEXT TOO SHORT, EMPTY LINK TEXT
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://diskanalyzer.com/...'
+URL: https://diskanalyzer.com/...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://www.listary.com/...'
+URL: https://www.listary.com/...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://www.7-zip.org/...'
+URL: https://www.7-zip.org/...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://learn.microsoft.com/en-us/sysinternals/dow...'
+URL: https://learn.microsoft.com/en-us/sysinternals/dow...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 3 - Modifiers and Rendering.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 4 - Rendering Compositing and Remesh.html
+Link Text: 'PrimitivesLinks&nbsp;...'
+URL: https://vimeo.com/2168099...
+Issues: NON-DESCRIPTIVE LINK TEXT
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://www.blenderkit.com/...'
+URL: https://www.blenderkit.com/...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://github.com/jeinselen/Blender-RenderKit...'
+URL: https://github.com/jeinselen/Blender-RenderKit...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 5 - Materials Hard Surface vs Sculpting.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 6 - Introduction to Substance Painter.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 7 - Introduction to UV Unwrapping.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 8 - Modeling Foliage and UV Details.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+
+FILE: FILE: Week 9 - Modeling to Scale and UV Packing.html
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+Link Text: 'https://caseyfarina.github.io/lecture-redirects/?c...'
+URL: https://caseyfarina.github.io/lecture-redirects/?c...
+Issues: URL AS LINK TEXT (may need context)
+
+----------------------------------------
+ 
+==================================================
+FIXES: YUJA PANORAMA REMEDIATION RECOMMENDATIONS
+==================================================
+
+ALT TEXT FIXES:
+- Keep alt text between 10-125 characters
+- Use descriptive, context-aware language
+- Avoid generic terms like 'image' or 'picture'
+- Don't use filenames as alt text
+
+HEADING STRUCTURE FIXES:
+- Use sequential heading levels (H1→H2→H3, never skip)
+- Start with H1 or H2 for main content
+- Don't exceed H6
+- Every page should have at least one heading
+
+HYPERLINK FIXES:
+- Replace 'click here', 'read more' with descriptive text
+- Link text should describe destination/purpose
+- Minimum 4 characters for link text
+- Avoid URLs as link text unless in citations
+
+==================================================
+END OF REPORT
+==================================================

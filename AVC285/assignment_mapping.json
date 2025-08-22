@@ -1,0 +1,122 @@
+{
+  "week_1_simulation_modeling_rigid_bodies": {
+    "original_folder": "g4083a89420827c771d991647fd11793f",
+    "original_html": "simulation-modeling-rigid-bodies.html",
+    "title": "Week 1: Simulation Modeling: Rigid Bodies",
+    "original_title": "Simulation Modeling: Rigid Bodies",
+    "due_date": "2024-01-24T03:00:00",
+    "week_number": 1
+  },
+  "week_2_simulation_modeling_fracture_and_art_directing_a_simulation": {
+    "original_folder": "gbc960dd32c9dcd0b24640f7b197a6d57",
+    "original_html": "simulation-modeling-fracture-and-art-directing-a-simulation.html",
+    "title": "Week 2: Simulation Modeling: Fracture and Art Directing a Simulation",
+    "original_title": "Simulation Modeling: Fracture and Art Directing a Simulation",
+    "due_date": "2024-01-31T03:00:00",
+    "week_number": 2
+  },
+  "week_3_simulation_modeling_cloth_and_spline_": {
+    "original_folder": "gf85927e08b8b4b7d80af7ed991fdf1d2",
+    "original_html": "simulation-modeling-cloth-and-spline.html",
+    "title": "Week 3: Simulation Modeling: Cloth and Spline ",
+    "original_title": "Simulation Modeling: Cloth and Spline ",
+    "due_date": "2024-02-07T03:00:00",
+    "week_number": 3
+  },
+  "week_4_introduction_to_twinmotion_and_substance_painter_transferring_assets": {
+    "original_folder": "gc2fcb240e982d3a17b0aa147afc7ea59",
+    "original_html": "introduction-to-twinmotion-and-substance-painter-transferring-assets.html",
+    "title": "Week 4: Introduction to TwinMotion and Substance Painter: Transferring Assets",
+    "original_title": "Introduction to TwinMotion and Substance Painter: Transferring Assets",
+    "due_date": "2024-02-14T03:00:00",
+    "week_number": 4
+  },
+  "week_5_simulation_modeling_cloth_pants_and_shirts": {
+    "original_folder": "ge9c4386baf42c0c75fecf6a5feb099a1",
+    "original_html": "simulation-modeling-cloth-pants-and-shirts.html",
+    "title": "Week 5: Simulation Modeling: Cloth: Pants and Shirts",
+    "original_title": "Simulation Modeling: Cloth: Pants and Shirts",
+    "due_date": "2024-02-23T03:00:00",
+    "week_number": 5
+  },
+  "week_6_simulation_modeling_soft_body_physics_simulated_cloth_workflow_introduction_to_unreal_engine": {
+    "original_folder": "gdce0106305f38d2c9cce15397fb90ce1",
+    "original_html": "simulation-modeling-soft-body-physics-simulated-cloth-workflow-introduction-to-unreal-engine.html",
+    "title": "Week 6: Simulation Modeling: Soft Body Physics, Simulated Cloth workflow, Introduction to Unreal Engine",
+    "original_title": "Simulation Modeling: Soft Body Physics, Simulated Cloth workflow, Introduction to Unreal Engine",
+    "due_date": "2024-03-06T03:00:00",
+    "week_number": 6
+  },
+  "week_7_substance_sampler_creating_your_own_substances_using_them_in_unreal_engine": {
+    "original_folder": "g1ec3b8159b521791cd1d15a8d340cfbe",
+    "original_html": "substance-sampler-creating-your-own-substances-using-them-in-unreal-engine.html",
+    "title": "Week 7: Substance Sampler: Creating your own Substances, Using them in Unreal Engine",
+    "original_title": "Substance Sampler: Creating your own Substances, Using them in Unreal Engine",
+    "due_date": "2024-03-20T03:00:00",
+    "week_number": 7
+  },
+  "week_8_photogrammetry_scanning_reality_sequences_in_unreal_engine": {
+    "original_folder": "ga7f543d494b6a0543aadb085ad652bb5",
+    "original_html": "photogrammetry-scanning-reality-sequences-in-unreal-engine.html",
+    "title": "Week 8: Photogrammetry: Scanning Reality, Sequences in Unreal Engine",
+    "original_title": "Photogrammetry: Scanning Reality, Sequences in Unreal Engine",
+    "due_date": "2024-04-03T03:00:00",
+    "week_number": 8
+  },
+  "week_9_photogrammetry_revisions": {
+    "original_folder": "g29b35f43f119930ad36d9887ac03d989",
+    "original_html": "photogrammetry-revisions.html",
+    "title": "Week 9: Photogrammetry: Revisions",
+    "original_title": "Photogrammetry: Revisions",
+    "due_date": "2024-04-10T03:00:00",
+    "week_number": 9
+  },
+  "week_10_substance_painter_advanced_techniques": {
+    "original_folder": "g2c2e344adddef0ec633a3feae75b8f57",
+    "original_html": "substance-painter-advanced-techniques.html",
+    "title": "Week 10: Substance Painter: Advanced Techniques",
+    "original_title": "Substance Painter: Advanced Techniques",
+    "due_date": "2024-04-10T03:00:00",
+    "week_number": 10
+  },
+  "week_11_substance_painter_advanced_brush_generation_techniques": {
+    "original_folder": "g194311cfe26259d95b56c7e23dea548a",
+    "original_html": "substance-painter-advanced-brush-generation-techniques.html",
+    "title": "Week 11: Substance Painter: Advanced brush generation techniques",
+    "original_title": "Substance Painter: Advanced brush generation techniques",
+    "due_date": "2024-04-17T03:00:00",
+    "week_number": 11
+  },
+  "week_12_introduction_to_sculpting_in_blender": {
+    "original_folder": "g9369a10a4f2fb5aa50e742d8653a8157",
+    "original_html": "introduction-to-sculpting-in-blender.html",
+    "title": "Week 12: Introduction to Sculpting in Blender",
+    "original_title": "Introduction to Sculpting in Blender",
+    "due_date": "2024-04-24T03:00:00",
+    "week_number": 12
+  },
+  "week_13_hard_surface_sculpting_in_blender_advanced_mask_techniques_in_substance_painter": {
+    "original_folder": "g2e7b617dae84c28bc7bbd6db429db320",
+    "original_html": "hard-surface-sculpting-in-blender-advanced-mask-techniques-in-substance-painter.html",
+    "title": "Week 13: Hard Surface Sculpting in Blender,  Advanced Mask Techniques in Substance Painter",
+    "original_title": "Hard Surface Sculpting in Blender,  Advanced Mask Techniques in Substance Painter",
+    "due_date": "2024-05-01T03:00:00",
+    "week_number": 13
+  },
+  "week_14_sculpting_in_blender_using_vdm_brushes": {
+    "original_folder": "g4edc57bfd5414a49559de17fed397b7b",
+    "original_html": "sculpting-in-blender-using-vdm-brushes.html",
+    "title": "Week 14: Sculpting in Blender: Using VDM brushes",
+    "original_title": "Sculpting in Blender: Using VDM brushes",
+    "due_date": "2024-05-08T03:00:00",
+    "week_number": 14
+  },
+  "week_15_advanced_vdm_techniques_and_final_portfolio": {
+    "original_folder": "g4edc57bfd5414a49559de17fed397b7b",
+    "original_html": "sculpting-in-blender-using-vdm-brushes.html",
+    "title": "Week 15: Advanced VDM Techniques and Final Portfolio",
+    "original_title": "Advanced VDM Techniques and Final Portfolio",
+    "due_date": "2024-05-08T03:00:00",
+    "week_number": 15
+  }
+}

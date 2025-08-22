@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <module identifier="g298e9e4cfaba4dc7b53884e7ff151d0e">
+    <title>RESOURCES</title>
+    <workflow_state>active</workflow_state>
+    <position>1</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="gc54e185a4cc34bbb39529f32f2139d31">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Important Unity Scripts/Shaders Resource</title>
+        <identifierref>g92aac2d20a8dac3e2445f8410df6cec1</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="g71aaf2e470698b770bd82845dcb7d67f">
+    <title>Projects</title>
+    <workflow_state>active</workflow_state>
+    <position>2</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g93b3e4381d1daf2b147f95cd7c8816b0">
+        <content_type>WikiPage</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>GCC Animation Youtube Channel</title>
+        <identifierref>g4cf8beee27262043fb0d89ec98a1ee5a</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g66e47af6b1027e635c4cc24b08b8c09c">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Will my home computer work for this class?</title>
+        <identifierref>g3fd0481f66c90bd1ca2733cb767f78a3</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="geb268cbbc7d34da11f2d7ba50b50948c">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Syllabus Acknowledgement Quiz</title>
+        <identifierref>g66c839bda15532ae40150a33dd289339</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5f01f1560b0f166265d3a03b152bf99d">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Class Video Introduction </title>
+        <identifierref>g3dc1ff28efda422d2fd488a155872ff7</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g20a41c42d32be32dba0d96f792ed2599">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Technology Login Challenge (3⌛)</title>
+        <identifierref>gf49cf1c3e960ff4810ac87ddc2e246ce</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4df69c0a5655c6232b3e993f00b163bd">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Introduction to Unity: Animation &amp; Interactivity</title>
+        <identifierref>gaff82936e7790f1f243da9155d196893</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g1bb25b04f58970f48cbecbe50dc430ab">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Expanding Interactivity: Prototyping a rolling ball game</title>
+        <identifierref>gde93eaa0f88adbb4adbaeb54bfead744</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g51d800cacc718a3f828fbfce885e4d77">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Game Assets: Modeling in Blender, Lighting, Prefabs, and editing Substances</title>
+        <identifierref>gc85fe2f51eef1745c4ab4452a35608ce</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gf67549bb386c6d3596b33e0f0b440685">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Game Assets: Substance Painter, Substance Modeler, Game Asset Workflows</title>
+        <identifierref>ga7f8aaa68c13e836fae90ad0f4f01c78</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gcadcbbe1658f602b49ccf4770259f336">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Sound Design, Animation, Primitives in Substance Modeler, Compiling the Game, and VFX (shaders and particles)</title>
+        <identifierref>g97f2a9d2f1de13774abac249076197e2</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g39c9050445b9200f5ff7f3bb495f25fe">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Adding a start screen, Using LLM's for Unity Scripting</title>
+        <identifierref>g19e4116d4da049be53be0f0a94d66fae</identifierref>
+        <position>11</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd69bcf50ce11f46dcd5da9250314dc57">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Adding a Collectable or Key Mechanic to the Game</title>
+        <identifierref>g3e0241bcecb7f50a650686afde87fb25</identifierref>
+        <position>12</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g70c14c28ab81e62c765071f178268639">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Rolling Ball Game Final</title>
+        <identifierref>gf6cd91f50a2659e146651f2d067e4d5b</identifierref>
+        <position>13</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g9f1af4aff7e606e789809a6034c807bc">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Play Tester Feedback</title>
+        <identifierref>g7073c6d1c42a0d1ff965e9bedc795c3f</identifierref>
+        <position>14</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gee58cb1efc01ed4b469934f3d5e8e686">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Introduction to the Epic Eco-System and Unreal Engine</title>
+        <identifierref>gc8bb062581f74f462868604b730ca1ab</identifierref>
+        <position>15</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gf1587d0c7ac8baef6ef47a64f9300a41">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>First person collection in Unreal Engine</title>
+        <identifierref>g37d48e0693c01cc3291edb2fcd71ddf2</identifierref>
+        <position>16</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g1b70bce8f2ba4225370bddf1a789b667">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Authoring Assets for Unreal Engine, creating animation in Shaders, and triggering Particle and Sound FX</title>
+        <identifierref>g491d0f1dbbf1b473da8073ccb23c0db2</identifierref>
+        <position>17</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g9a2e4707938a95b9ce3b349bafb4e702">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Programming the Collection Count in Blueprints, Creating doors in Blueprints</title>
+        <identifierref>g0171038e7f340515ed6b90cee243d80c</identifierref>
+        <position>18</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc512bb1144adf198841c8e90a69be26d">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Building the game in Unreal, Recording gameplay, Adding Messages and Sound FX </title>
+        <identifierref>g82341ad50d7481122bb5f28bd0e7dc47</identifierref>
+        <position>19</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge147b091bde56d26df405635be8f5f09">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Final Portfolio Requirements: Using Mixamo in Unreal, Creating environmental sounds, Rain in the Particle System</title>
+        <identifierref>g616290050c0ca38c12501c64334cf3a5</identifierref>
+        <position>20</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gbb2b135315ff8b7c84fd9ed9df3c00c7">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Final Portfolio Requirements: 25% of the course grade</title>
+        <identifierref>gb596962b1e057c4065c56e01ab097c13</identifierref>
+        <position>21</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g33ad4ede6244ab0dbcbf12493a3cd261">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Play Tester Feedback Unreal</title>
+        <identifierref>g4dc25dd522973c12124a71a4a3d8c5c5</identifierref>
+        <position>22</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge328d2e6708f78ef0df4e62c51ef23b2">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Principles of Motion Graphics: Colliders, Triggers, Reveals, and adding a First Person Controller</title>
+        <identifierref>g0062e7e36639f026faf9780ea4bfc481</identifierref>
+        <position>23</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5c675a5c6a02de48269a22ffa618a347">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>3D modeling for Games: Blender, Interactivity, and modular design</title>
+        <identifierref>g493037ff8e6fcb96fa1a05ec85509869</identifierref>
+        <position>24</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gb44aa55b5c7a9490e91b4f7c7291f418">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>3D modeling for Games: Textures, Shaders, Materials and Substances</title>
+        <identifierref>gd5c3f9147d2de11d7171f5b717311521</identifierref>
+        <position>25</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gecf3520200b47fdcb3c883148a7b1291">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>3D modeling for Games: Triplanar Shading, Substance Sampler, Code Library</title>
+        <identifierref>g87858e5e2f3992fee445b0000b4d2b11</identifierref>
+        <position>26</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g6cf737959efdce010de10c7d610c8374">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>3D modeling for Games: Modeling workflow, Collectable mechanic</title>
+        <identifierref>g437784cc49c814c857d8fdf68d24bbff</identifierref>
+        <position>27</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4a9c8ea1e9e0be903399fcbdf6699537">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D : One Page Design Document</title>
+        <identifierref>g9e52f66a668bdccc31a63ea3d80c2b07</identifierref>
+        <position>28</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5b872e7b44b9861c25faaaaaba2ca95d">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D : Modeling a 3D Character</title>
+        <identifierref>gabbe41dceadbcf8729127fd0132906ef</identifierref>
+        <position>29</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g9390b6fe66c53ef7e13f4d3ab0db087a">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Introduction to Unity: Animation and Interactivity</title>
+        <identifierref>gcf7fdf19884e7d8a7adf7883ee74d806</identifierref>
+        <position>30</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge4883481232f67d8cf9e37a5708bfc36">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Animation &amp; Interactivity in 2D and 3D </title>
+        <identifierref>g98bf2f25c5e1e40d22aa82e80e406a16</identifierref>
+        <position>31</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga0ec02f119ffb4c117729772e735680b">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Physics Based Puzzle Game: Prototype</title>
+        <identifierref>ga06537b8df16ad772ff0d41f985073ca</identifierref>
+        <position>32</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5f1d9bf20916fe04097e401636e626bd">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Physics based Puzzle Game: Modeling &amp; World Building</title>
+        <identifierref>g9341cb803c8acb918393eef1995c1101</identifierref>
+        <position>33</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga00cbfd37189faedf545477f420be798">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Physics based Puzzle Game: Texturing and Introduction to Substance Painter</title>
+        <identifierref>gc8447eb0d3dcef6d126c19a68829bf74</identifierref>
+        <position>34</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g8d84b2c75f6e80b769cba14e82ed19b7">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: Character Rigging</title>
+        <identifierref>g5226658147f266a047505fb667276c04</identifierref>
+        <position>35</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g22c280c0eea52684c5ba560ad3855d7a">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: UV unwrapping and Texturing in Substance Painter</title>
+        <identifierref>g3538b14a3946d1b66cbcb2ca423f3e06</identifierref>
+        <position>36</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g45d0ddc551c76d73b484dcd843e22d58">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: Rigging, Animating, UV corrections</title>
+        <identifierref>g99fdcb59fe5e07e18f8480819cc8eb99</identifierref>
+        <position>37</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gbe2a603e8d3537da06543fe8f9844cbe">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: Animation: Run/Walk, Idle, Jump</title>
+        <identifierref>g0893414dafed7848739f306d9b736e72</identifierref>
+        <position>38</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g1956ab5ac742c0b299c760cf7a21106b">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: Putting the Character Together in Unity</title>
+        <identifierref>g1ccab5a114fd8a44f76121ff25f6d229</identifierref>
+        <position>39</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g8aa78db62183c13af7b7eedf847a20e0">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: Particle VFX Design</title>
+        <identifierref>g636cdf0ae0ce45f0410d265dd547ff9d</identifierref>
+        <position>40</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g8136b970ef5c5d3f109ac6740399f4ec">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Physics based Puzzle Game: Character Modeling, Painting, and Rigging Copy</title>
+        <identifierref>g7be00c79813c4295e9e109b803a74c28</identifierref>
+        <position>41</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g26df94d1df4ef191fa9a0bbb1fa11ebc">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Physics based Puzzle Game: Creating Character Animations</title>
+        <identifierref>g831a44adc063b9de388330cd3a97379b</identifierref>
+        <position>42</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g18b126c6f1725ae1ee36c507463012c2">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Physics based Puzzle Game: Importing your character and animations, complete game playthrough</title>
+        <identifierref>g41d9bdd0393f5aa030f1305da28ea124</identifierref>
+        <position>43</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5f3550bcd5925759c90f4482d49f688e">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Unreal Engine: animation, blueprints, triggers, refining the level design</title>
+        <identifierref>g07f38daa3fb58113b51ac239cba4b24e</identifierref>
+        <position>44</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge358328ed13420d08848c97004a58011">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Physics Based Puzzle Game: Environmental Sound</title>
+        <identifierref>gc41e4262f561007ba26548cc70dee70d</identifierref>
+        <position>45</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gf0522139a5f10d8bcac468b2deb9d137">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Substance Sampler: Designing you own substances and using them in Unreal</title>
+        <identifierref>gdfe9594b46a66f6612205ab715c2db9e</identifierref>
+        <position>46</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g1a2da638a1a49e94461dd5040e2a1749">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Unreal Engine: UI, Collectables, Sound, and Particles</title>
+        <identifierref>g7ab27703f4eaeb99957648eb00b45a76</identifierref>
+        <position>47</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g64e7349e1aee880cb2e40dad4c0f3911">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Animation &amp; Interactivity in 2D and 3D</title>
+        <identifierref>gd6f76df9b01389dab4052966e1ad98a1</identifierref>
+        <position>48</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g2ee399cefb508577dfdf9f9cb3847876">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Gravity Goal (PLINKO) Game in Unity</title>
+        <identifierref>gb626a5cff0a495ff790b84176407731d</identifierref>
+        <position>49</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc851c365f9768f38bbbee7b87cf1f063">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Gravity Goal (PLINKO): Music, Sound, Refined Animation and Game Design</title>
+        <identifierref>g7226e4f56bd23439de703757871dbd37</identifierref>
+        <position>50</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g31e3efa1927a4532cbd53a19f8d55a35">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Creating 3D assets for Game Development (3-4⏳)</title>
+        <identifierref>gf88b3e83466f27a93748fb912a6b3929</identifierref>
+        <position>51</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gca082ce4b7e1ea4f5f66a5ae1733bf40">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Gravity Goal (Plinko): Building the Game, Particles, Animation Triggering</title>
+        <identifierref>g628642daaecb4b694d77afe2e1feb044</identifierref>
+        <position>52</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g06ddb480eaebf638e7ac1ed25e37292f">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Gravity Game (Plinko): Play Testing</title>
+        <identifierref>gef898da1e9a2061c9988966f62374b2c</identifierref>
+        <position>53</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g7908e3738722e17878f380e12c9d2113">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: Materials and Obstacle Design</title>
+        <identifierref>g418f37d9ae7b09c76774cb1eff886d69</identifierref>
+        <position>54</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gbe54b327c43e98b9d02f8bcfaf86b71a">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: Level Design 2</title>
+        <identifierref>g89047396dd7bdf1e7b6ae0b635005262</identifierref>
+        <position>55</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="geb37d56a49f6bed7c5d6d85dcdb51fcc">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: Character Modeling</title>
+        <identifierref>g63042c6ee47db7cd086b9ad7a5d2552f</identifierref>
+        <position>56</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g42be699afbc87683c0bc5aa06eaf69e7">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: Rigging and Animating The Hero</title>
+        <identifierref>g04b6b47a9516cb236fdffb1c6e7b3983</identifierref>
+        <position>57</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g87715d4288c208610bde7ab1580fc41f">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: Bring an Animated Character into Unity</title>
+        <identifierref>gdbcdc4ad662937dd1333f2b13358caed</identifierref>
+        <position>58</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g7450f5d4e048fed17234da8aa7833732">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: Particles &amp; Shaders, Sound, Music, Character Revisions, First Build</title>
+        <identifierref>g4e907fc79fc555655668f6aac2a88f6f</identifierref>
+        <position>59</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g8c72682b6b6c5d2965e63223837d0113">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>3rd Person3D: Timer Functionality, Second Build</title>
+        <identifierref>g43223e2b256a4eec01638f743dc5bacc</identifierref>
+        <position>60</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd1c0fc331f5b1ff0f09a50f81a50b19f">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>GAME DOCUMENTATION FINAL : Due at 11:59 PM on Tuesday May 7th, NO WORK WILL BE ACCEPTED AFTER THIS TIME</title>
+        <identifierref>gee4b94c1c4403371965b35c7ac1f8bed</identifierref>
+        <position>61</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gfcf357d05155d9518655130edbf0120b">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>3rd Person3D: Timer Functionality, Second Build Copy</title>
+        <identifierref>geaded6c2abb61c440f90cad4454fd9e8</identifierref>
+        <position>62</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g844c4481ca0016f159cc3c635bad660f">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Animation and Interactivity Expanded</title>
+        <identifierref>ga63095237d6ca06f8fb2c7fab16d2db8</identifierref>
+        <position>63</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5828e787df8ed40b447dacf0e36b9e3e">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D:  Character Controller, Particles and Level Design</title>
+        <identifierref>g3fb2f98e4ba4eff61afae461e249cd2e</identifierref>
+        <position>64</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gea0f21427063c7ed0866f76834ae7a28">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3D: Character Modeling, Rigging, and Animation</title>
+        <identifierref>gdef6723081da06e4547dca59e7108d11</identifierref>
+        <position>65</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g0a1354a835ce128d3b325fd7072cd58d">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Third Person 3d: FINAL UNITY GAME SUBMISSION</title>
+        <identifierref>g148e47215c36bcdb9029abe3dded3182</identifierref>
+        <position>66</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gb502e46b257febcf2b7380a271a22ed9">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Unity: Animation and Interactivity in 2D and 3D (2-4 ⏳)</title>
+        <identifierref>geed81607e1b2bce3a8a46c623fd43315</identifierref>
+        <position>67</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd3f4f81db9ced0efac8581c781034f5b">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>PlayGround 3D: Modeling Details in Cinema 4D and creating interactivity in 3D in Unity</title>
+        <identifierref>gdfbcc6ed01926a8e9ff083a7de113407</identifierref>
+        <position>68</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gb41c8d276f0e7d546f988496d2176613">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>BreakOut: Game Design</title>
+        <identifierref>g4ca2d37eb00e9f928e9dcbd58c79036b</identifierref>
+        <position>69</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4387b0b0c77e842ead7be6c807ab7283">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Interactive Catalogue</title>
+        <identifierref>g9c96fc185b7b79276c372711262e6729</identifierref>
+        <position>70</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g1ba08dc7d2785c759edeb6ea50d004f3">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Asteroids 2D: Game Prototype</title>
+        <identifierref>gf9eb4c961544bc6584ac8cc020e4d146</identifierref>
+        <position>71</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ged4ab7a9e9176bff3936d33928f3d221">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Asteroids 2D: Particles, Level Design, User Interface</title>
+        <identifierref>g2fd56427f59538f655886423888d8019</identifierref>
+        <position>72</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g2b17a4f1ead4a07be156464ca5b3e4e9">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Creating modular floor assets using Cinema 4D and Substance Painter</title>
+        <identifierref>g848b0ae13ad49e7125f3eae9a5d85eaa</identifierref>
+        <position>73</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gda55704b1229fc7a099830b328afaaa4">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Animating in Unity: Forest Road</title>
+        <identifierref>gb68d6d8d942f58ab4b9f25c7ba14f42f</identifierref>
+        <position>74</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g8b40386be0a5fb4c885827ad3b2c9b06">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Design your own 2D Animated scene in Unity: Physics, Animation, and Scripts</title>
+        <identifierref>gae6b0f76d6dea56108f43cf056449b29</identifierref>
+        <position>75</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g3f66acf468f1a1f3812712a9aa9c5fca">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Cinema 4D to Unity: FBX file format, anchor points, materials, connect objects</title>
+        <identifierref>g3d89189799bc82b1139aee77843e5a06</identifierref>
+        <position>76</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g3caab839156c9077c4f38853d492b52c">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Exploring 3D</title>
+        <identifierref>g82eaf6e33880dba16815750e77787070</identifierref>
+        <position>77</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g3b8f71ec38ae176badf992e8734a49fc">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Exploring 3D: C4D -&gt; Unity workflow: Using textures in Unity </title>
+        <identifierref>g3fd11ff33a6a1e58f541d873c51d0dc4</identifierref>
+        <position>78</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g069eda886938edb70920266c0b5db0d6">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Exploring 3D: Environment Tools, Adding Sound, Designing UI</title>
+        <identifierref>g4274ca81a9b9f0609c900ecfc869220a</identifierref>
+        <position>79</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g12143f51f0c16be5bdbe1681be247e98">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Exploring 3D: C4D Volume modeling and Introduction to particles in Unity</title>
+        <identifierref>g432d03832d9305677f521957ec8ec0ec</identifierref>
+        <position>80</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g32fd4c625e75c12dec16f6b5ecfd6594">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Finishing Game Effects and Publishing the Games</title>
+        <identifierref>g574aaa161728acb659998d7ea494302e</identifierref>
+        <position>81</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g48b3d2748954119a686a4b6afa385faa">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Asteroids 2D: Playable Prototype</title>
+        <identifierref>g5415ad3d3b9f173557a5e50db4af1e47</identifierref>
+        <position>82</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g33deff9cec844e68560fbb7c848f85cf">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Creating modular game assets for the 3D game</title>
+        <identifierref>g1d0a19585c155b86c18cf6681eeab532</identifierref>
+        <position>83</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge9aca9d0ea4d4157c05f1e38f0b59a30">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>3D Game: Modeling your hero, adding the 3rd Person Controller, Music, FX </title>
+        <identifierref>g0e9ac7372a628e3a96b6a3e712bc8c93</identifierref>
+        <position>84</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g3d87f63f2561e1a881ecc4b009062137">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Converting the 2D scene to 3D Animation, Materials, and Lighting</title>
+        <identifierref>gf48303ef679f90c0cf84fbaa10974968</identifierref>
+        <position>85</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gf31000957cc730c16ad2d795bbe81239">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Mini-Project: Animating a Sprite-Based Hero</title>
+        <identifierref>g26b3d51c77aef99a663ae7f20c0248d4</identifierref>
+        <position>86</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gb7906bb729ab5eaa8b91f74bd33276b1">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Mini-Project: Convert the Mountain Road to Crossy Road</title>
+        <identifierref>gf6d61da623f4c265c75664edf1f41035</identifierref>
+        <position>87</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gbf949f94059e76ac9c263e75275b04e2">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Mini-Project: Road Crossing Game, Adding Details, Particles, Sound and publishing the game</title>
+        <identifierref>g9f3bd04c04add463a7c5784819159d60</identifierref>
+        <position>88</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g03a9a561bc0516ec36077e37a3900f82">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Completion Time: 1 - 2 hrs</title>
+        <position>89</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gf3fd8ee425eb528bc1c59b277cabfe2a">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Completion Time: 3 - 6 hrs</title>
+        <position>90</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g99bdc4450df26125cecea74315c5177a">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Completion Time: 3 - 6 hrs</title>
+        <position>91</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gb2462911970c4d4edc6a528457fdc79d">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Completion Time: 1 - 2 hrs</title>
+        <position>92</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4fa9777ae5b72541cea5e8a3de8f18e0">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Final Portfolio</title>
+        <identifierref>g90d6abee5dae350b3b3785718801e65d</identifierref>
+        <position>93</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga5a7b018affb12c14fdc68b2983565ad">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>OPTIONAL: Collecting Game - Materials, Final Game Play, Publishing the Game</title>
+        <identifierref>gbc06a204c4120625d5af62722f2c6511</identifierref>
+        <position>94</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g2ea74a858cf272075e5fdc02b319fc9b">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Student Class Evaluations</title>
+        <identifierref>gb80328a61dbead8e46b23ea4c4d38124</identifierref>
+        <position>95</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4fe5f878bace99d480d2987ae28eae1a">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Mini-Project: Submarine: Adding Materials and Lights in Unity</title>
+        <identifierref>g307e5e41b99f251cc3291314e946a8f9</identifierref>
+        <position>96</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g05921ba8f2fb865391facdbbf555a41f">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Mini-Project: Road Crossing Game, Adding Details, Particles, Sound and publishing the game</title>
+        <identifierref>g9f3bd04c04add463a7c5784819159d60</identifierref>
+        <position>97</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g03caf0ee48643d2989f65744d6edfe74">
+        <content_type>WikiPage</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Introduction to Unity: Animation and Interactivity</title>
+        <identifierref>g858dc56d6128952977470722fce617bf</identifierref>
+        <position>98</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gbf7f3b8ff94ebb6fc581c0b4b050b9a4">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Mini-Project: 3D Collectable Game Design Brief</title>
+        <identifierref>g4667e417d73956223165d4083f6198d4</identifierref>
+        <position>99</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="ge018537368d960c0a2b053ba88c0d539">
+    <title>Participation</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>3</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="gfc66998dd77b79a98fd54f576194c47b">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>gbe9aadbb173401b56091264da634a474</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gac30558c3142b39ce0c2ed6f8147ef56">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>g54acd821e830747d741f9700e97d0ad2</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g7dec53fb9e9b119778632224a03f8e51">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>g17309bf4c7deec92aa60b8dd4f368d3b</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g7d607b97874bfe23680d79f11821752a">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>g2089c4eb4abce38f306c10bcfeaffee4</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga3bd7fca9bc5f8560df646de0339d5e7">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>ga7521c2e37bcb84ec661359f9c0fdbcb</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g35b9ec96bd2de5febfe07c602eaa981a">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation Grade</title>
+        <identifierref>gd81e54ba9f0b0ac259d74b9d132c336c</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g26ffb589bd170ebe5e2baf407718d732">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>g015a2d327e4f36b14c5f01c4bd2c4fe1</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gb9ac5178e7e99ac7f17ae09802cfe200">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>gcb072aa0f14f66fa169c337da7004f56</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g07b1ceb930c7946f2f021c5a79b4ae40">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>gd3826958c28c787ae1c697c2471e995c</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gf392d463cc1d03399424a6e1ec9a6475">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>g3a64224633e3f180092bb05dc4be7ab6</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g6fbfe6feb6bd1719d799283ae8201765">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>g318e2e8a756647d2867b7946d0dc37eb</identifierref>
+        <position>11</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g061bf1ba9cde1935cefd2d39348aa2f1">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>gac2bfd158b44b818ca12f1fd7374a436</identifierref>
+        <position>12</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd3690a66d11db5fe1249d959f49d7d2f">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>g4049e30abe464d159b594a4613b28aaa</identifierref>
+        <position>13</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+</modules>

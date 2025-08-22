@@ -1,0 +1,132 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Assignment: Third Person 3D:  Character Controller, Particles and Level Design</title>
+</head>
+<body>
+<ul>
+<li>Installing the RigidBody Third Person Controller. Creating a Starting Line and Finish Line, Using the Race Timer Script
+<ul>
+<li><a href="https://www.youtube.com/watch?v=oCKs5PQerpU" target="_blank">https://www.youtube.com/watch?v=oCKs5PQerpU</a></li>
+</ul>
+</li>
+<li>Introduction to Particles, Initial Velocity 3D script
+<ul>
+<li><a class="inline_disabled" href="https://www.youtube.com/watch?v=nmfAThLPjKQ" target="_blank">https://www.youtube.com/watch?v=nmfAThLPjKQ</a></li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><a class="instructure_file_link inline_disabled" title="particleVFXPackage.unitypackage" href="$IMS-CC-FILEBASE$/Uploaded%20Media/particleVFXPackage.unitypackage?canvas_=1&amp;canvas_qs_wrap=1" target="_blank" data-canvas-previewable="false">particleVFXPackage.unitypackage</a></li>
+<li><a href="https://blog.unity.com/engine-platform/free-vfx-image-sequences-flipbooks" target="_blank">https://blog.unity.com/engine-platform/free-vfx-image-sequences-flipbooks</a></li>
+<li>
+</li>
+</ul>
+<p>&nbsp;</p>
+<hr>
+<ul style="list-style-type: disc;">
+<li>
+<strong>Resources</strong>
+<ul style="list-style-type: disc;">
+<li>
+<a class="instructure_file_link inline_disabled" title="thirdPersonWithBounce.unitypackage" href="$IMS-CC-FILEBASE$/Uploaded%20Media/thirdPersonWithBounce.unitypackage?canvas_=1&amp;canvas_qs_wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1288317/files/98783314" data-api-returntype="File">thirdPersonWithBounce.unitypackage</a> -drag the package into your assets folder
+<ul style="list-style-type: disc;">
+<li>Please install the free version of DoTween, This packaged is reference by the scripts.&nbsp;</li>
+<li><a href="https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676" target="_blank">https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676</a></li>
+<li>It will appear in the "My Assets" section of the package manager</li>
+</ul>
+</li>
+<li>
+<a class="instructure_file_link instructure_scribd_file inline_disabled" title="_onTriggerEnterEventTag3D.cs" href="$IMS-CC-FILEBASE$/Uploaded%20Media/_onTriggerEnterEventTag3D.cs?canvas_=1&amp;canvas_qs_wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1288317/files/98783318" data-api-returntype="File">_onTriggerEnterEventTag3D.cs</a>&nbsp;<br>
+<ul style="list-style-type: disc;">
+<li>Create a new blank gameObject.&nbsp;</li>
+<li>Add a collider</li>
+<li>Set to "is trigger"</li>
+<li>Correctly set the Tag that will trigger the event. <strong>"Player" </strong>in this case.</li>
+<li>Use the event to at least do the following
+<ul style="list-style-type: disc;">
+<li>Tell the player the race has started</li>
+<li>Start the timer</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a class="instructure_file_link instructure_scribd_file inline_disabled" title="_bumpPlayer.cs" href="$IMS-CC-FILEBASE$/Uploaded%20Media/_bumpPlayer.cs?canvas_=1&amp;canvas_qs_wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1288317/files/98783317" data-api-returntype="File">_bumpPlayer.cs</a>&nbsp;
+<ul style="list-style-type: disc;">
+<li>Add this script to any object that should bump the player</li>
+<li>The amount of force is adjustable. Use units of "10" to adjust the bump force</li>
+<li>The bumpEvent could be used to trigger sound or particle effects</li>
+</ul>
+</li>
+<li>
+<a class="instructure_file_link instructure_scribd_file inline_disabled" title="_raceTimer.cs" href="$IMS-CC-FILEBASE$/Uploaded%20Media/_raceTimer.cs?canvas_=1&amp;canvas_qs_wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1288317/files/98783315" data-api-returntype="File">_raceTimer.cs</a>&nbsp;
+<ul style="list-style-type: disc;">
+<li>use the race timer to track the player's time on the course.&nbsp;</li>
+<li>Add the race timer to a blank game object</li>
+<li>Add a UI TextMeshPro object to display the time</li>
+<li>The <strong>startTimer() </strong>and <strong>stopTimer() </strong>functions can be triggered from Unity Events</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><strong>Game Requirements</strong></p>
+<ul>
+<li>Functionality
+<ul>
+<li>A timer with display for time</li>
+<li>A user interface (consider the font design, do not use the default font)</li>
+<li>A properly tuned <strong>playerController</strong>
+<ul>
+<li>Consider the speed, jump height, etc. Change those values to work with your game design.</li>
+<li>Be sure to add all ground platforms to a layer named "ground"&nbsp;
+<ul>
+<li><img src="$IMS-CC-FILEBASE$/Uploaded%20Media/use%20ground%20layer%20.png" alt="use ground layer .png" width="478" height="256" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1288317/files/98783316" data-api-returntype="File" loading="lazy"></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Use the <a id="92753141" class="instructure_file_link inline_disabled" title="Link" href="$IMS-CC-FILEBASE$/Uploaded%20Media/restartScene.cs?canvas_=1&amp;canvas_qs_wrap=1" target="_blank" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1288317/files/98783278" data-api-returntype="File">restartScene.cs</a> script to allow the player to restart the scene after falling or being bumped off the platform. How will you notify the player to restart the scene? Consider the user interface.&nbsp;</li>
+<li>Add a win message and lose message. The lose message may need to be triggered by several different game conditions. Consider confetti particles at the finish line.</li>
+</ul>
+</li>
+<li>Visual Design
+<ul>
+<li>Color Palette</li>
+<li>Consider Material design</li>
+<li>Use lighting and the lighting settings to properly illuminate the scene</li>
+<li>Use decorative objects to fill out the 3D space and create a stronger sense of place</li>
+<li>Add some verticality to your level design. How can the verticality obscure or prepare the player for new sections of the course?</li>
+<li>Spawning Obstacles, the <a id="94954017" class="instructure_file_link instructure_scribd_file inline_disabled" title="Link" href="$IMS-CC-FILEBASE$/simpleSpawner.cs?canvas_=1&amp;canvas_qs_wrap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1288317/files/98783319" data-api-returntype="File">simpleSpawner.cs</a> has been updated. It will now turn on and off when the object is disabled and enabled. This allows for control of spawning using Unity Events. To update the script, remove the script from your game objects, delete the script from your assets, then import the new script, and reapply to the game objects.</li>
+</ul>
+</li>
+<li>Sound Design
+<ul>
+<li>Add background music to the level</li>
+<li>There is a "bumpEvent" in the bump script. This could be used to trigger sound effects when the Player is bumped.&nbsp;</li>
+<li>Consider victory music if the player makes it to the finish line</li>
+</ul>
+</li>
+<li>Publishing
+<ul>
+<li>Title the game. <strong>Do not call it "3rdPerson Game"&nbsp;</strong>
+</li>
+<li>Build the game using WebGL settings</li>
+<li>Publish the game on your Itch.IO channel</li>
+</ul>
+</li>
+</ul>
+<hr>
+<ul>
+<li>Deliverable
+<ul>
+<li>A link to the third person game on itch.io uploaded to Canvas</li>
+<li>Post the link on Slack and comment on three other students' games.&nbsp;</li>
+</ul>
+</li>
+</ul>
+</body>
+</html>

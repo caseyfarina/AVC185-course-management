@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fileMeta xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <folders>
+    <folder path="Uploaded Media">
+      <hidden>true</hidden>
+    </folder>
+  </folders>
+  <files>
+    <file identifier="g445df8d0c3a3cd963f927813b0509cd6">
+      <display_name>Screen Shot 2013-03-25 at 4.30.58 PM-1.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g14cf913e990200484da2e0c427886a9d">
+      <display_name>CLass example sliding spooky Stationary button GOOD-1.qtz</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gda1d14b9d747d0ab33b0b6c019ff0f31">
+      <display_name>audio example_dancing guy with better particles-1.qtz</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g36d7602f8b1e4651e39026d0ed293f7a">
+      <display_name>dropbox-logo-1.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf94bad67b9edfe0bb85d5796778e13ad">
+      <locked>true</locked>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gd8b461a2ef9af4d16176076eba814154">
+      <display_name>forest example-1.zip</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g2dc7d6cd5608b43de087a7e5d0c4238d">
+      <display_name>forest example-2.zip</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g148dc38b30e7e248f2bd8409c8accef3">
+      <display_name>game_vertical_beginning-1.zip</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0bcbd091545c0775d95d49c10da4b0ad">
+      <display_name>nations-1.json</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g594b35a86774409c19b7123315cef656">
+      <display_name>Archive-1.zip</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gdf42cb58d435dec923ad06f12a2b0e7d">
+      <display_name>side_scrolling_game_template-1.zip</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g1155de6da1d0ddbdd9f7bf97f102e781">
+      <display_name>p5play_examples 3-1.zip</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g701e39c88d8fdb3587fe7f457468a06d">
+      <display_name>p5play_examples 3-2.zip</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gec6ff76441ca1288c1b627b9f4c1be82">
+      <display_name>p5play_examples 3-3.zip</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf320decae1dba22c8f81e7f4e4aaade9">
+      <locked>true</locked>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g51deafef5fc630a6266855e177446795">
+      <display_name>enemyMover-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g8029bea443ab20df86418f387ab170b1">
+      <display_name>controler-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g18b00d3582410e4a96c3ebdbd529192b">
+      <locked>true</locked>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g652f2b540e0542707b8670e62d4f77a2">
+      <display_name>enemyMover-2.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g8e9da41f727403650fed900abd726672">
+      <display_name>playerControlerInterpolate-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g6a418e32956f6deddace4a5fe7905aad">
+      <display_name>playerControllerQuantizeTo3-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ga6eff3207c7fa807cc8cb42febffd73c">
+      <display_name>playerControllerQuantizeTo3-2.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g07e05f4485abe1b51ee6afc7e65b7a9c">
+      <display_name>playground unity capture-1.PNG</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ge93566302da8ab155f4e9ff632e33f4c">
+      <locked>true</locked>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ge077f6e0287fd720199e79892be71d82">
+      <display_name>animationController-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g58329ad9536c8fcdbe4cb1ed8cd8b856">
+      <display_name>animationController-2.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gcb8c32d3de7dcc1baafdc6a50d93106b">
+      <locked>true</locked>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc429fff1def9156fe16e37e01719014b">
+      <display_name>ART 200 fall 2019-1.pdf</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g40e824dce1b5a1624359aa5b22bf23b3">
+      <display_name>ART 200 fall 2019-2.pdf</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g1d9d8385e3fe9b95cb38e2a925b82658">
+      <display_name>ART 200 fall 2019-3.pdf</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gd7e6ef4c15fbf961545813c04bf1b746">
+      <display_name>PlayerController-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g5271914797d9d52a6ee592981b14ecc0">
+      <display_name>unity materials-1.jpg</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g12b1fa734fb986fa0dcde038b4064e63">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g35a88a0ef5cef91d4d4c2429c7655af7">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g20b2e863533cdf6d01f56c066913f781">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gbab7562d02b68c7d56d7cd346955bad9">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g19b7e1583bf51f20862db0eb73558c3b">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ga6530436d0c2d9d1da41e28925cc5d71">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gd398956055b247ee7a5be0371ccad6b5">
+      <hidden>true</hidden>
+      <display_name>chicken assignment movie-1.mp4</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g6b501982e15a63c3f93b10bd064ae46a">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g02c3077e04fa1fcc58300eadcdc136c4">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g80e582e27037412612812b4074fc51fe">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g333b990fc54a64cc38725ebc98732d57">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g85416e92bdc14b61c37f8761c9254859">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g4f252d2646e8ad9b9d95fc1141e43825">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g77a2415f9685cc794ce6b76acc83dec4">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g728f5c649002eca04b75100645f68445">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gfdf93ae6cbc20d7f6426e3030ce0c70c">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gb4d06a608a5bab42f8ce84ba9af32fbd">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g080fe63d12274ed106c15209aa48f296">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g5c81eaffc0c59d911b4f9c6c744f8736">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g1aa8e5125dec6690ad8c8dd5a4030258">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g87d6049ccac7c5d082ef350bdf92de1b">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g2aa42084432be48187561f19220acf5a">
+      <hidden>true</hidden>
+      <display_name>avoidanceGameManager-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0de9daa9ee4b43ccbfa6f5698d6b2e59">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g10d595a5520e592f71724b1343aeeb48">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf04a09d7c8889043c3f193a9d4954a35">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf316b013e18257486b551401947b6075">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0c79b8ae0884bf867c901f6a72146524">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gcee0d4acd1d58da2fcb410f117729798">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gbec1a1edf83ee7e53e5589471d75ef2c">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g5249b1a08ab0eed4785ca94abe2bace1">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf5f3a7bc9580c92b771809c7476b9643">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g68b61a1e249c1837794389feba9c0e56">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g439b339cc679f6b61894017c7873958f">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gb1fa9d88e9e9987a54830763c0eb2232">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g7b615168fbbb88d2c9c56a0fbff480d0">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g8d8709199e32ce8c9dda3251a249c6eb">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gd4597710243895992fb2794d1b9a6ab9">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf5728bcbe251d4ff04e54efdb47da4e2">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ge8e5be228eb2cdf1f527abc7e64a0592">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g9371c61ca0d3f4aa58b685b05894af93">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gfcfecaec3f15b5dd243ac3f3a4827dc3">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gcbdce33e1fb2c1aaa96460da190fe4fb">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0738518cb8c9d8e43e22738c8575b8dd">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc64826e89c5404d3488c7aa0a22dec0a">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g33f0f585193971a6588ef4fa3e803e8f">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g29263c16fffaefa5bbd571eeaef87dbb">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g2be4989f906a264a83e55d00463564db">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g19dde989892255fc32cdfac95d3c06b7">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g6b25a9a88a4bed0627b31a2042a6d2bf">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gbf142392f8065ee3d46525f92190b507">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g113d1ba04f29e0a1af0466de988337e0">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g540dc0030872513888008c8e2a5773b4">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g9491472ceca0863796fc0c7c9192f9de">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gd53bbdf6a029a2b494ccfe6759b7a530">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g48ddcefe4f76bd9f720add30d4de0e5c">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g8e11609793a459b1014882863be07dcc">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g017b6c57a6af846147333fff10cd47ea">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g7ddbec45d0f70c8d6e5a2cc02641c245">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g7e3de7b09f7a3b782a2cb8ab016cd6ff">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gdc264b762d9b5f8d8e29636f041d2bc5">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gb048f2ca389a2095646d66102a140e9d">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gcea8939cbc74deaee3d3ac83e28f22ff">
+      <hidden>true</hidden>
+      <display_name>shipHealthBar-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gb2f1e1c53bc2f098afe3fef708725069">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gdd59342aa1452b564f36515cfe1eb3ec">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gb20026cc455809787e8d44b3a487c396">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g2e3a4e79e6bcc2f737fa3841efc098c6">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gaf094b82a95eaa1382c122013a658524">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="geccea5916ed694bd98e27460cbd13e63">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0bc8b210d975154927ce11f8ef8f5542">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gfc3e77454cae484f07a585f640b46fc2">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g7519030775321cf7c506b25b5672617f">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g48b43b88fc4c245f29ed2a984946f01c">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g6b4767ecfed5ecfdc5ff94587a92dea3">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g963a005055bfc2b7dba267f7182e6cc4">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gb51ecfe78a169e4b3d3fc027533ccb03">
+      <hidden>true</hidden>
+      <display_name>interactive catalogue example_1_1-1.mp4</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g127defdb86e926a865409af32831b063">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g777b2dcc6f807eb51b576348f72df851">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc6388312ee58c539eec9f8cffbcbf295">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g509ea380e50004f033ee71714d67cf54">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ge73ba1539d50509ecd718a7d805e2cb3">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc9b30de6045f0f15dc7bb750cecb6f87">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g94021325920be0405c6f47facd92411b">
+      <hidden>true</hidden>
+      <display_name>_clickEventOnCollider-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gafce47b8e675012c2b541c9b2763c2da">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g42b1e156f202e18674c15ddaf806a832">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gb79138373f6d34badfe20b9f1e93bcf0">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g7eea2bd7b0f95efdf50ffe98f535d628">
+      <hidden>true</hidden>
+      <display_name>_spawnSingleObject-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g2e7e56f823039a2a12272f04d18ab0c0">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gd875ccd8dd18968256b82491e96e83e3">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0cacb1d9950959584f82abc35804b8ba">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gba72f5b03c9cf1da1f9f8b6c4b020cd2">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ge240345a421e440016b842439d071e2a">
+      <hidden>true</hidden>
+      <display_name>_destroyObject2DTrigger-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g5bff9c8b153d9e5aae520fb1dbd92160">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gbc11fcf03d4ec7ccfe5e71a13ca8a5dd">
+      <hidden>true</hidden>
+      <display_name>escapeToQuit-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g31b6a63c998e6004ba583518bfea080b">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g967b18a9093050493023c0b74b43230b">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g27b258667efab50d148b231dd0179882">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf3cc2791343bcbe1a7828f40a4c84539">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0c18ec0c7f3d11b8351c302f66416b8b">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g5527dec090bf379a0c73c0fe46f71e05">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g088d3640388227d81142689ec5832b0f">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g490680668b3250d7748ec40f306b8443">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g5a5b48fc13fa9b425c1a9a6919956291">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g77b2db0a5b319c0e2fd53cc4dd28c998">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gfdce92f915e001b5ebd4c863ffb20eca">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g1524d18e908799a5e9f00ab69dcc7a2c">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf1800bbb0ffb5273c6cd4f3afa2d285c">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g91f3d91a8b3beaae73c39ff7d6d74f32">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g93eaac5a947b13a461d5dc9bf61c5d2c">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g888bdcc7348b5aff7ddb1856d699fe4d">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g13ef8310634203021fd32fd33ab20a08">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g1daa0b2e4b61ff9d506db1bbb7527808">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf72647e2621002428ffb45f0c8f0dabf">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gbcb8b6dc376948c765c047d095ed0ec1">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gea614255579c63cec1525e1a484bf408">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g8b5d9988f018e7f2f84a5628cc98666f">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g097c75984f69c6a255d54972890d693c">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gea2b4e8dc52de93694eb1a6a5693ef7f">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g06bbe889817a5b384d88e1cd51dc9cff">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g146a66a7fb7f248c1846c04143f2746c">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc001e9a81ee3e3189f5658a8465071d2">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g14230e28db71bb1ac5b0e157f93b0a38">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ge994acb1e5dbfeb812deb1a1e02297e5">
+      <hidden>true</hidden>
+      <display_name>image-1.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g265e8ffeb9d126f374e0bcb0be09eaed">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g6c2a760c9254fb6ef00b5dd1dbd9bcf9">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g4aaa3b9d6dca67ae22a34300edebf0de">
+      <hidden>true</hidden>
+      <display_name>image-2.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gce0d0e1c2120963577ce1253b4367493">
+      <hidden>true</hidden>
+      <display_name>image-3.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gda1918bd3aacc6da2d53f6cb695797de">
+      <hidden>true</hidden>
+      <display_name>image-5.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gceafffca5d3c668da0ba910f0a23e743">
+      <hidden>true</hidden>
+      <display_name>image-6.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc5efc4eb36ce255a229f8facdc2b0019">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g3823d4e87fcc9f52a013fd671ea4173c">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g5e5cf18892d0d659fef5dcd92c4699a7">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g7d7217912a43dcecd1c43e0e12889886">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g3c364b6e628a229dab87a813c796f1a9">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ga08e3fb3726dc5c56f168ff49e22fa57">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0add499ed02c0b6720e4f8a9426172d7">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g868e69ebf2ca8d245c17e31c909514bc">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g459d8326bd7f13a75cf320c493afa25e">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g72cbad9ce600d1c2076b17f1ff6c9d02">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g4e059f92862668217966661a82616b89">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g8df2c68522cc3719e24b7ded72e30032">
+      <hidden>true</hidden>
+      <display_name>image-7.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gcc3fb137b89b1df566032008562b6600">
+      <hidden>true</hidden>
+      <display_name>image-39a1c1b6-f12d-4e00-a3bd-a5362f5614de.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g257da4ed5a670a1a2b5146839827d459">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc1e6f8fd5f3d750f7a83588d64c60df6">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gb51420783348c8f94fcda398387ae9a6">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gef82fe93a5acee3cbe6ec6626d7fae68">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gb3684253a4633797fd78491df98afa80">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g5d631e7131c31229bd122728b44931d3">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g23b4822aacc7b8200804192dde23f663">
+      <hidden>true</hidden>
+      <display_name>image-d7906257-9bd6-4dc8-ae07-d2ff4b3208af.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g3601958ec496b599e5b92f13bc44e50b">
+      <hidden>true</hidden>
+      <display_name>image-977f8909-719c-474b-aa65-db0db395e387.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gad7755c48eacdae06ecaa911589e9550">
+      <hidden>true</hidden>
+      <display_name>image-271996d6-97aa-4999-8a1d-d3cc58ec01c1.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g9ec6495f96fc267dc639b4ae6d8c0765">
+      <hidden>true</hidden>
+      <display_name>image-9c761dc8-e2f7-4f6c-b5f3-75cd9b6ea7ad.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g4871965c74446c2704c73c3966007b18">
+      <hidden>true</hidden>
+      <display_name>image-c39cdeea-92e4-4980-9259-03ac5ab6c87e.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf3d821744a405d5e0be515cc148f6bd4">
+      <hidden>true</hidden>
+      <display_name>image-47891a24-16c2-44a9-91d3-75237b63cd69.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g3415904f32ee7d5b7a429b7efa19e39d">
+      <hidden>true</hidden>
+      <display_name>image-4eca9d83-0982-4e68-8ebe-f212cba9f9af.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g323d6bd26998b8be396e4a7a8d378818">
+      <hidden>true</hidden>
+      <display_name>image-de247faa-340a-4e6f-81e7-88aaf0da0d38.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gd14d96157c68684b1fc01d61b774b11d">
+      <hidden>true</hidden>
+      <display_name>image-1a713f0a-3438-4aa8-97fe-eb7137311a7b.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g1c43b06f0167d48fc5f0de2627569b6a">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g1de2ff3c86e516748f67ddb7511e3c8f">
+      <hidden>true</hidden>
+      <display_name>image-d55c8c01-11de-4da7-b288-2a4e0cad2d0f.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0b87f72d8cfa809aa2ff863260e560f4">
+      <hidden>true</hidden>
+      <display_name>image-67fe2fd3-3bbe-4b70-9ad3-a28511227c58.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gada173ebda387cd345f2d81b9a076a9d">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gad5411f984bd9612fa72c2ecfacff003">
+      <hidden>true</hidden>
+      <display_name>image-7cdf49f5-076a-48a9-94c2-0c3427a8e478.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gfd9fc6ab4e8b37793feb078bcd5db9fa">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g68304826e0e57ef2486356b093c76331">
+      <hidden>true</hidden>
+      <display_name>image-d939010b-24cc-4575-b31f-903d28bd2e07.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g3053d76cb6dc5a652af0dc3c44668249">
+      <hidden>true</hidden>
+      <display_name>image-f6427129-0f3a-48ae-a162-72cb947ff734.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="geea2e50d3bc8e10880bd55deac4cc8dd">
+      <hidden>true</hidden>
+      <display_name>image-a868a123-7e34-4d0b-98e0-60d41545a40b.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gd0240f632e0c42fa3415be921d84055f">
+      <hidden>true</hidden>
+      <display_name>image-1e548e3b-8920-49a7-b9d3-243425c0d8ba.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc4a9b2ad5c6165e326b45536c215a071">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ge51bca5f8fc633447b7c1605e17f7c98">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g38ba0e3697e7b7f6afab8138bf37acb6">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ge8a24102d3752fd738c67c34f74b4187">
+      <hidden>true</hidden>
+      <display_name>AVC 200 Animation &amp; Interactivity 31060 31061 31062 Spring 2024 (1)-1.pdf</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g313953f0e6782a605fe78e9fde742706">
+      <hidden>true</hidden>
+      <display_name>image-276bddce-c0dc-460f-83ab-e81bba5a4b06.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g24b8cb97f56f7814770c8018d22f7bd9">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g3f344d7d221e97fa89e4afa2a83affbf">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g87eb8a75aa554e29b652e21d991f0a33">
+      <hidden>true</hidden>
+      <display_name>image-875b86ed-99c1-44f6-b08a-ed5dd1de9d99.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g56a45755492d6f5d3730df706c924df9">
+      <hidden>true</hidden>
+      <display_name>image-6e745429-c0f1-4a80-a9f9-61f0ab9906ed.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g5150162046e1e7e64b1e4a9645dd0692">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g9f5d965e2c6a4a56763277f2cadd6eef">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g175668bfd861319eac09a3a7cfdcc4f9">
+      <hidden>true</hidden>
+      <display_name>image-c46e1b1d-3dc5-43a0-a591-785fde14a6ed.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc3237edc67d9d03ea2db7a0bd5be7242">
+      <hidden>true</hidden>
+      <display_name>image-ac57fb50-1835-486c-bb0e-acfc061e76d3.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g96611247ec51c160fa45dc200cc0cd89">
+      <hidden>true</hidden>
+      <display_name>image-236c591b-f231-475a-8eaf-3f61baa63800.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g61e53976032df38e3342362fbd1daee7">
+      <hidden>true</hidden>
+      <display_name>image-422dc568-743b-4505-a1d1-9e2e8fa94ac7.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf975d2c20e5bd3691707695696ec03a6">
+      <hidden>true</hidden>
+      <display_name>image-03868378-536a-48b3-8464-66fecbd9346a.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf82e1d368a22de637e4a9a315a235b9e">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g9fd3238f30d43c917eb07b71db810498">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ga705a6459bec86fc963cd5850a6366e0">
+      <hidden>true</hidden>
+      <display_name>image-9b7baab8-627c-4640-a054-4370c93cd36b.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gfcd0d95b555b6df221a91adbd0f94aae">
+      <hidden>true</hidden>
+      <display_name>image-464aa532-1ed3-4c4a-9986-026047006cce.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g9951306a601ba3ff3a67716e5053a346">
+      <hidden>true</hidden>
+      <display_name>image-a7e4093c-7169-4a66-ab05-b5ee4dde35bd.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g4353382f0c4c008ac5300f3c04065aee">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g4816a0371778d1832cc4207c5c40ab3d">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g8ef022ff65c44bb83ff6890e4b334a9a">
+      <hidden>true</hidden>
+      <display_name>image-8036e066-7b28-42c8-a040-5d2bfc71b295.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g9d7e8c972f9aa3194f11711c1d6f0749">
+      <hidden>true</hidden>
+      <display_name>image-9e3807dc-89b0-46bf-a133-a9988eed8a7f.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g15a0a363e64b2d697940263763509203">
+      <hidden>true</hidden>
+      <display_name>image-1376b501-c3e8-4c4b-9f94-7c0c9c571e50.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gb00e8ef1d7e20463b29959042126aa2b">
+      <hidden>true</hidden>
+      <display_name>image-0bf77113-02b5-4449-a960-c25eff90382a.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc3414e189709c05f72b112816d407c7b">
+      <hidden>true</hidden>
+      <display_name>image-d215257e-5161-4c53-8f26-1312a052da83.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g06ff9671bc86b0c83ee5aaeeea38ab0a">
+      <hidden>true</hidden>
+      <display_name>image-acd89a76-4a6c-4100-a634-03a38e36b900.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g152c272b40b3cc6278504a4d442af5da">
+      <hidden>true</hidden>
+      <display_name>image-35d52ab9-427f-47ea-819d-f72b825c2192.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g813bbfa6da0d210dd4a7b64444817b16">
+      <hidden>true</hidden>
+      <display_name>image-36c23471-31e6-4754-a989-1fc4d9bc2e72.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ge6dffb34aac3d1baf26944d8496ea560">
+      <hidden>true</hidden>
+      <display_name>image-e4ffaaa7-bb85-47a0-afe1-ac2827979379.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g936aab55ebca4f9a9bd486a079ee3754">
+      <hidden>true</hidden>
+      <display_name>image-0229d1ec-eda3-428b-8522-9bee3e6d0543.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ga5858b495dd919948a99a50b892cdc7f">
+      <hidden>true</hidden>
+      <display_name>image-2fa0e85c-6ad1-4cff-8fa6-ecf9141dd6e2.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g9b6146cfbed840f35e4bc0a9da50cb12">
+      <hidden>true</hidden>
+      <display_name>image-813bf382-9bb0-47ef-9b71-22c5acac66ec.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g7bdf72874368859f4e169bf0ba52a4a0">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc2a404b9ba223d076b46774f44f7d2c8">
+      <hidden>true</hidden>
+      <display_name>image-bf0cefb9-29ad-4873-8263-442ae0981b17.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g23ef8251a77c76758616f2be03cac5ff">
+      <hidden>true</hidden>
+      <display_name>image-62b07e20-74f7-4f65-b86e-fd637281201f.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g2f99288342f20037de280aab280c1fff">
+      <hidden>true</hidden>
+      <display_name>image-de6703e8-d6da-46f9-9d7f-48c154639f9c.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g4bb8a031cf7e779f4c99806e9eaa0d51">
+      <hidden>true</hidden>
+      <display_name>image-ba12b522-ed55-4039-812e-a3e96183a385.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g15ad48803ef1afaddb5b1c8a812d6a4a">
+      <hidden>true</hidden>
+      <display_name>image-fe24c460-0659-4c95-b127-fb3b2b809039.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc0046e37a850620847c00e91db1d02b1">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g127038beb09fd3540743a4f6cd3a404d">
+      <hidden>true</hidden>
+      <display_name>image-3c79b16d-b272-4eb2-8563-0a5c91cd048c.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g4b19d966240f207cc441616d379cab5f">
+      <hidden>true</hidden>
+      <display_name>image-ec682c86-8148-40c3-9760-08ecdd38a0ba.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g095822145d991efe39a0242b1698d3d0">
+      <hidden>true</hidden>
+      <display_name>image-01286691-e07e-4a28-b334-d2d27c50dd53.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gd79c5c52d48dfc49e9b2dcde2621acea">
+      <hidden>true</hidden>
+      <display_name>image-915eee80-a77d-4947-9555-e94418a66a89.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g4a8bd9cbceb80d7d00a751e32c4b87dd">
+      <hidden>true</hidden>
+      <display_name>image-ef67ba3d-7369-4dbf-b74a-fb8c8726cfe7.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0947515ec4234380e22d191b08c6566e">
+      <hidden>true</hidden>
+      <display_name>image-f433b687-3ed7-4d1c-a649-da902ee64f3b.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g4a44b8e686d76a6af857ca978d4b170c">
+      <hidden>true</hidden>
+      <display_name>image-d038183e-7d45-4a60-9794-32b61f1aecd9.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g9ab653938cb77c256f013901adac56c2">
+      <hidden>true</hidden>
+      <display_name>image-ae9c7be5-8eb1-4958-ac5b-612472c50309.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g4986738c338b843d9d9077b19df83c4c">
+      <hidden>true</hidden>
+      <display_name>image-0d5f5723-0750-426c-bc2e-4cba2a0f1301.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g359e03db0887671b7f31b6c0194bcf2e">
+      <hidden>true</hidden>
+      <display_name>image-b2237cde-068b-4bb2-b8ff-b4b925ae4c58.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g69f0a8514d716e29bac3e4c082815d8f">
+      <hidden>true</hidden>
+      <display_name>image-7c299601-b13e-4859-bb45-8194221dee09.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gf931a2279a2d72179e8e5c4878ebb10c">
+      <hidden>true</hidden>
+      <display_name>image-440b5956-e1d7-43b8-a3fe-a58e8e1abd18.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0e7fa20290a4ab7364b7a1a9564dcf42">
+      <hidden>true</hidden>
+      <display_name>image-3eecaeed-0976-48bc-868c-414995b3f8e0.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0f06887f3ff3aff42862b4ee3edaddd1">
+      <hidden>true</hidden>
+      <display_name>image-75a263d7-1c6c-44ba-8ee1-5c45c88c0b22.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g61faaef4304d44e1863c520596f0aa22">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g8cf43b04b6d61399ab9134592f224bab">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g015c6a70420edd72c4fab20012f599d8">
+      <hidden>true</hidden>
+      <display_name>image-e2844e2d-e5fc-4bf3-8c27-c8be101cc635.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g008a2539fee43713c24ad894b840a163">
+      <hidden>true</hidden>
+      <display_name>image-96bebb58-943f-4edc-84d5-b3f9c6c4c7d9.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g725111add092da45ef13137956bda0a8">
+      <hidden>true</hidden>
+      <display_name>image-d14a3441-9060-41c2-b021-4bb087e6df35.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g66e73357506ab204cf579e0d90038a4d">
+      <hidden>true</hidden>
+      <display_name>image-e492cfb2-dd3a-4d84-b0ec-10e9490b6edd.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gfce11b388e7946c6c1458bbe699b3f35">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g28bcc6f1f5a2159361a041b522e77b34">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g800bf172e9130ccb4b8f043b5cc4d7e1">
+      <hidden>true</hidden>
+      <display_name>image-32bea754-1595-4823-9a90-24e4d50925c4.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gac928306856dd0d15b848b3c595401c7">
+      <hidden>true</hidden>
+      <display_name>image-6c065d90-0508-4d5c-b315-c849d1965c13.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ga9d9845489fe48f06d708c441ae804b7">
+      <hidden>true</hidden>
+      <display_name>image-21a2dc66-ed0b-4c64-a1f4-a3bc64704a28.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g1bd4c2b81d05ed13fdd097bc3309b672">
+      <hidden>true</hidden>
+      <display_name>image-dc898661-6582-434f-a5a2-d486a22cfbd0.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g4f9382793dacc7075e687df4e99d6f26">
+      <hidden>true</hidden>
+      <display_name>image-eed0749e-1f63-4d3e-9ab5-33a2e27b6dd8.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gcebb4ea8d8c010452605c169f872acaf">
+      <hidden>true</hidden>
+      <display_name>image-49f6d7c8-099e-43f3-b554-5b8377eeef21.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g95a1dc98e780a2352d92e24b2408a046">
+      <hidden>true</hidden>
+      <display_name>image-95d15097-fc62-4b21-8e53-cefaf3a36017.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g89ebe771340b6e7b865f3a64b43d46b7">
+      <hidden>true</hidden>
+      <display_name>image-223bb7f9-257a-4c4a-a880-2e648e7d537d.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g8c4ec3ca3073eb1f7dbed2b39c568862">
+      <hidden>true</hidden>
+      <display_name>image-1ddd2ba3-9240-40a6-af74-fc5489afaa06.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ge9d7990b11a462a704f91592c9f764c7">
+      <hidden>true</hidden>
+      <display_name>image-e4f7cb13-6336-45e8-97cf-2b59f1a32b9f.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g465cd6d3dfe60941c0aa1b2deb3987c0">
+      <hidden>true</hidden>
+      <display_name>image-1986b504-cf8a-46ef-af4e-801636a38ca7.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g392df7aa9f6752dd5912c56b3157b475">
+      <hidden>true</hidden>
+      <display_name>image-eb93d4b4-bdc5-469b-b523-6a2e8d820eaa.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gbb8a7d3a1639eb2c36b9aa759dac7c1a">
+      <hidden>true</hidden>
+      <display_name>The Animator's Survival Kit - Richard Williams-1.pdf</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g12ddb062e8917bb277ea2d94265511d8">
+      <hidden>true</hidden>
+      <display_name>image-e14d0e85-8b4f-4183-b5ac-4640a3d7a41a.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gfa4190a3bec057541571bbc3bb674a8f">
+      <hidden>true</hidden>
+      <display_name>image-da2bb2fd-93df-453e-b1bf-86e3372bb6fc.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gac881a2030d50e4900cb36e6077f574f">
+      <hidden>true</hidden>
+      <display_name>image-047e04d9-2b63-421c-adac-9993f916a77d.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g1685eb77e240fda535650e33ae41f283">
+      <hidden>true</hidden>
+      <display_name>image-5f8a510c-c947-4999-b657-01b60a513bc6.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc76748f7a519df470eb5247983824aa0">
+      <hidden>true</hidden>
+      <display_name>image-18ddeb22-e48b-446e-b2a0-ace4ecb4dd27.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g28a2ab071c571dcda7db5631a61fef45">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g8f6f1ea570b13950526ab408988c13e7">
+      <hidden>true</hidden>
+      <display_name>image-a519c60a-e693-4b2c-8f83-dd7512549627.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g18d895a59ca78faba9bc2bcb99632f76">
+      <hidden>true</hidden>
+      <display_name>image-6f404280-32ff-435f-b3b9-c4420c2003ed.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gdeaed3e791210d3e6f321189d38b0cfa">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gfe1a23a41b8b7190cff7837501b50ccf">
+      <hidden>true</hidden>
+      <display_name>image-96132566-3cf3-4af2-860a-897557823a5f.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g5474c1e0193f0f7d0ac9a5d2bb81cef7">
+      <hidden>true</hidden>
+      <display_name>image-05c6ad35-6ea5-47bb-a9cc-6259fc80e32e.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g645cbf914ccc522a0a7945c518595181">
+      <hidden>true</hidden>
+      <display_name>image-10e73344-0bab-4776-b1e3-623a4e2acffc.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0d09fb890b41e691310f2b20f0ca8660">
+      <hidden>true</hidden>
+      <display_name>image-22cf3d7b-bf32-4cca-b748-a2aeea08f045.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gead7499b3b3ff3f53d23d3a6e2249789">
+      <hidden>true</hidden>
+      <display_name>image-fe8b4a66-0d72-4249-bee2-5ae9cff1c8f0.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g55ec91d03b78c03669f968eaf6a547c6">
+      <hidden>true</hidden>
+      <display_name>image-a638246a-6af9-4423-b45e-0e5c65bfe2ce.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g065798f725f0c0d7b895b741b7d44463">
+      <hidden>true</hidden>
+      <display_name>image-0dc2d26f-a236-465e-8489-c8bd5d45cb68.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gb05e33633e205fd675e9269a6229a005">
+      <hidden>true</hidden>
+      <display_name>image-18a82a05-01ea-4c3e-8e31-e04eb1066604.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc6e631ba6a808bd9c13c1dd3c7736b82">
+      <hidden>true</hidden>
+      <display_name>image-2d304545-be9d-4b53-92cb-63f47c5f68cb.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g1937e2051c75d90f7c9d2a3a3e37fa5c">
+      <hidden>true</hidden>
+      <display_name>image-3d5df851-a782-4456-82fa-5bcd6484d562.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g2f83600129bcf43b1b86de4558ca68cb">
+      <hidden>true</hidden>
+      <display_name>image-9587d6cf-1a94-43ba-905e-d22c44416272.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g16b322329f452be1c3cda705b319451c">
+      <hidden>true</hidden>
+      <display_name>image-90d9b4f6-0355-445b-9459-9e2c265df176.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gafa038599d1caf5c0565e4f9e1acf76c">
+      <hidden>true</hidden>
+      <display_name>image-0386c3f9-537a-4c39-a082-665123d3f3a7.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc82c0c3e6e2ee092d4684665e7937373">
+      <hidden>true</hidden>
+      <display_name>image-bfe7602f-0824-4d23-8154-4da7b23283fb.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g37d13786193e66e2016672d6cdaf621d">
+      <hidden>true</hidden>
+      <display_name>image-38efeaeb-d6c3-4357-a26a-27baad5458ee.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0bbbe05dcc804d5a72c58edc032c8735">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g540a66d7ce5495deae7a1454992eea52">
+      <hidden>true</hidden>
+      <display_name>image-0e30ef66-91ae-4155-a162-ceb26138ae4a.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="geff504689b115e9604eab5b315ab7ffe">
+      <hidden>true</hidden>
+      <display_name>image-78f4f463-fb2a-4ee8-9d99-8a26323a6a98.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g596c636ad7360bf6d6ca8db09963190d">
+      <hidden>true</hidden>
+      <display_name>image-8e473a79-067c-4562-910c-48fda6733c16.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g9be2468e3339ae8d428161a9957b3da6">
+      <hidden>true</hidden>
+      <display_name>image-a17164af-5762-4ccc-8fbd-f1d958235dda.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g28c6737f0e2caae48610524cc57858f8">
+      <hidden>true</hidden>
+      <display_name>image-d52694ff-af71-4f5f-bb94-6a556f738c8c.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g1797a934abff2fa357f5aa86818ef2fd">
+      <hidden>true</hidden>
+      <display_name>image-e3c2f865-1153-40a9-b188-0c5010067d57.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g354e2dcd112cd24e1e9b6bf827847c5d">
+      <hidden>true</hidden>
+      <display_name>image-0a4409f4-17cf-41d7-879f-0f937a72589b.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g71e1c782937ce176bd5225512b9879be">
+      <hidden>true</hidden>
+      <display_name>image-12808876-de97-41ff-b8c2-cf40a2e4b51e.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc3427e2d0dbbb3b3fcb2d2ffe626c8c4">
+      <hidden>true</hidden>
+      <display_name>image-49d58102-4593-487a-b72c-76bdaa1904cb.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g455d49db14d5812fca7a1da8cb736ba9">
+      <hidden>true</hidden>
+      <display_name>image-6dcc6af7-2ce0-4fa3-b08d-24079c8b7aea.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g6fc16aa51a7c31228bead19e75b64df0">
+      <hidden>true</hidden>
+      <display_name>image-a6973955-3d75-44b1-a4c2-81f0929d7db3.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g7e663e9f53e2e107935d007e7e64d6aa">
+      <hidden>true</hidden>
+      <display_name>image-b0bbd4e3-fddb-4e55-87b2-2998fff4e760.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g26c6b7b2e5cb0ba5076581d6f31f895a">
+      <hidden>true</hidden>
+      <display_name>image-f3df8a74-ce0f-4ac6-9e0e-0e76ec45a3f0.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="geae6cc5f6771adeeb6348fd8e4af9fcc">
+      <hidden>true</hidden>
+      <display_name>image-57e2a422-edcd-43fc-b739-d93718dda8cb.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g94c625f698e88cf614d415e2e8248ca8">
+      <hidden>true</hidden>
+      <display_name>image-0b778b9e-9863-42af-a189-6088bf37db28.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="ge79221373028d503792684564a83ba40">
+      <hidden>true</hidden>
+      <display_name>image-4a4bb36e-cd29-4a90-97b3-5a6be0fc8156.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g776dc48bff8035f84afd123bb11050fb">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g2becba76437341197188ab18da5c619b">
+      <hidden>true</hidden>
+      <display_name>image-a414dca5-e289-4135-a4be-6cac0fad8d73.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g73ecbe23ef2c80753785170e76728f21">
+      <hidden>true</hidden>
+      <display_name>image-fb5541b4-8ced-4b97-810a-a79d54ce7ef6.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g6bdcaeaff563fc275a483eff453f2841">
+      <hidden>true</hidden>
+      <display_name>image-35086db6-7fed-4f3d-9102-51033844d91a.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g7ce1c526f2517b8758acb4a2abab2479">
+      <hidden>true</hidden>
+      <display_name>image-0ab3a1eb-e709-4185-8296-a2757b6557cf.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g55b7fd53804214027ed2c1b8b379f8af">
+      <hidden>true</hidden>
+      <display_name>image-fc9b1f89-fc90-4e89-a303-c3577ce72647.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g2e2f7db1b777bfc5cdc0e939c21f16a4">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g7606486448ad5b664be1936021856055">
+      <hidden>true</hidden>
+      <display_name>bumper-script-1.cs</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g5e83e3e87d111f161b9b1e9c50c47827">
+      <hidden>true</hidden>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g76f6ea5a08f8263535faebec53e211b7">
+      <hidden>true</hidden>
+      <display_name>image-8d2e7b9b-4f80-4ec3-a32a-3c820013b498.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gd75b9b252d5f28720531496a922ac982">
+      <hidden>true</hidden>
+      <display_name>image-9392f481-df2f-4e41-959a-08d52f80a263.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g60d71faa68832787d7cedb17016b4cb8">
+      <hidden>true</hidden>
+      <display_name>image-55ad46af-4978-4911-8db4-e8fecf2d682b.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gfc1120caede6ca6ba73e161acdbd46a3">
+      <hidden>true</hidden>
+      <display_name>image-53432c8a-549b-47fa-813c-737a9f1e0b7e.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0fef5af6820af318b4eff16aa716afd3">
+      <hidden>true</hidden>
+      <display_name>image-afe01602-c8c1-4693-a223-441c19ae1926.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g078385d59103710cc603a0bede6e8fbe">
+      <hidden>true</hidden>
+      <display_name>image-bd3ca9cf-128a-4e94-8eb7-951797ea5ba0.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g9485bae0e2730f52dc340dae76e63f91">
+      <hidden>true</hidden>
+      <display_name>image-2b5a50c9-d3cc-4eb5-a416-8088ced77154.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g7822b2f62acd3e2727cf399a4e493fa8">
+      <hidden>true</hidden>
+      <display_name>image-414877ec-9205-49a5-9c37-cb158e29fce9.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gbe605e9b068139eceb4dd006c27d73a8">
+      <hidden>true</hidden>
+      <display_name>image-11875674-42c3-4e6c-a8bd-7852c1548621.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g3511a745a601b93c7bb6b48009e66fc6">
+      <hidden>true</hidden>
+      <display_name>image-44e872a3-ae15-4465-b07b-bf88111615d9.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gced4c2d5c765b8010a2ffc661135f0f5">
+      <hidden>true</hidden>
+      <display_name>image-b3e65885-1678-41a7-872d-bc3126db445b.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g6c5798904e98d34fcb4f843eeee86b65">
+      <hidden>true</hidden>
+      <display_name>image-4ab2b6b9-7ab5-4881-90a0-91f40089b1b4.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g8a68a15ef0a5b57fe6e441d9fa36f284">
+      <hidden>true</hidden>
+      <display_name>image-b30c0407-e270-4963-979a-1863544d7bcb.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g9c8b8d491154429f67ada063635cfb2c">
+      <hidden>true</hidden>
+      <display_name>image-b4dde2f1-b2d7-44bb-b48d-d753c595f670.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g8e246ad8f8aec3711e5e599f19354fbf">
+      <hidden>true</hidden>
+      <display_name>image-84ba634a-666e-4c09-9686-a2b669aadd59.png</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="g0e1d8039839421999de70b61ea6ffe0e">
+      <display_name>grid button example-1.qtz</display_name>
+      <category>uncategorized</category>
+    </file>
+    <file identifier="gc579f708fa19266afbe86077a1aec973">
+      <display_name>grid button example-2.qtz</display_name>
+      <category>uncategorized</category>
+    </file>
+  </files>
+</fileMeta>

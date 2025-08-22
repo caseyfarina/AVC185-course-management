@@ -1,0 +1,54 @@
+3D Modeling and Animation I
+Course: AVC185
+
+First Term: 2023 Fall
+Final Term: Current
+Lec + Lab   3.0 Credit(s)   6.0 Period(s)   6.0 Load  
+Subject Type: Occupational
+Load Formula: T - Lab Load
+
+
+Description: Basic concepts of 3D modeling. Anatomy of computer geometry; basic elements that make computer models-curves, surfaces, non-uniform rational basis spline (NURBS), and polygons. 3D translation, shading, materials, and rendering.
+
+Requisites: A grade of C or better required in all Prerequisites. Prerequisites or Corequisites: AVC100 or permission of Instructor.
+
+Cross-References: MMT185
+
+MCCCD Official Course Competencies
+1. Apply basic geometry principles for construction of 3D models. (I)
+2. Build models using one or more shapes and apply Boolean operations. (I)
+3. Create 3D shapes using linear interpolation and polygonal construction. (II)
+4. Demonstrate ability to modify shape appearance through the use of lights and camera angles. (III)
+5. Execute finished models by employing materials, environmental effects, and rendering. (III)
+6. Apply basic animation principles to models. (IV)
+MCCCD Official Course Competencies must be coordinated with the content outline so that each major point in the outline serves one or more competencies. MCCCD faculty retains authority in determining the pedagogical approach, methodology, content sequencing, and assessment metrics for student work. Please see individual course syllabi for additional information, including specific course requirements.
+ 
+MCCCD Official Course Outline
+I. Object construction fundamentals
+   A. Basic geometry
+      1. Conventions for naming objects
+      2. Standard geometric primitives
+      3. Grids and Bezier surfaces
+   B. Compounding objects and Boolean operations
+      1. Union
+      2. Intersection
+      3. Subtraction
+II. Creating shapes
+   A. Line
+      1. Line with angular corners
+      2. Bezier line
+   B. Polygonal object construction
+   C. Creating lofted objects
+      1. Shapes
+      2. Paths
+      3. Linear interploration
+III. Geometry modification for 3D objects
+   A. Composition basics
+      1. Lights
+      2. Cameras
+   B. Materials
+   C. Rendering objects and scenes
+   D. Environmental effects
+IV. Animation principles
+
+

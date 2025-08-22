@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1  http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imsdt_v1p1.xsd">
+  <title>Space invaders 2.0</title>
+  <text texttype="text/html">&lt;p class="p1"&gt;Wednesday game requirements&lt;/p&gt;
+&lt;ul class="ul1"&gt;
+&lt;li class="li1"&gt;score on screen&lt;/li&gt;
+&lt;li class="li1"&gt;timer on screen&lt;/li&gt;
+&lt;li class="li1"&gt;score on game end&lt;/li&gt;
+&lt;li class="li1"&gt;design title screen&lt;/li&gt;
+&lt;ul class="ul2"&gt;
+&lt;li class="li1"&gt;unique title font&lt;/li&gt;
+&lt;li class="li1"&gt;instructions&lt;/li&gt;
+&lt;li class="li1"&gt;one animation&lt;/li&gt;
+&lt;li class="li1"&gt;background image&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li class="li1"&gt;design game end&lt;/li&gt;
+&lt;li class="li1"&gt;design winning screen&lt;/li&gt;
+&lt;li class="li1"&gt;winning timer&lt;/li&gt;
+&lt;ul class="ul2"&gt;
+&lt;li class="li1"&gt;timer on screen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li class="li1"&gt;in game background&lt;/li&gt;
+&lt;ul class="ul2"&gt;
+&lt;li class="li1"&gt;animated or image&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;</text>
+</topic>

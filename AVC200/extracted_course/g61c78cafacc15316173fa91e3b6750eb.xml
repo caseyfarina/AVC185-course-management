@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1  http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imsdt_v1p1.xsd">
+  <title>Space Invaders With Image Sequences</title>
+  <text texttype="text/html">&lt;p&gt;&lt;a id="" class=" instructure_file_link" title="game state.zip" href="$IMS-CC-FILEBASE$/game%20state.zip?canvas_download=1&amp;amp;canvas_qs_wrap=1"&gt;game state.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Your project due&amp;nbsp;&lt;strong&gt;Monday the 4th&lt;/strong&gt; of April is to re-skin and add two features to the Space Invaders style shooter we developed in class.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The hero must have and image sequence&lt;/li&gt;
+&lt;li&gt;The enemies must have an image sequence&lt;/li&gt;
+&lt;li&gt;The bullets need to have an image&lt;/li&gt;
+&lt;li&gt;You must add &lt;strong&gt;two NEW&lt;/strong&gt; features&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Possible Features&lt;/strong&gt;: these are suggestions, you can choose &lt;strong&gt;two&lt;/strong&gt; of the following or think of &lt;strong&gt;two&lt;/strong&gt; your own&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Give the hero a health bar so it can receive multiple hits before the game is over&lt;/li&gt;
+&lt;li&gt;Create a win state, after you reach a certain score you "win" the game and get a winning screen&lt;/li&gt;
+&lt;li&gt;Make a second type of enemy&lt;/li&gt;
+&lt;li&gt;Make an enemy with a different flight pattern&lt;/li&gt;
+&lt;li&gt;Make a second weapon with a different shot pattern, triggered with a different key&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Image Sequence Rules&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Use a png sequence and &lt;em&gt;&lt;strong&gt;do not use numbers in the name&amp;nbsp;&lt;/strong&gt;&lt;/em&gt;
+&lt;/li&gt;
+&lt;li&gt;Try to limit the length of the image sequence to 30-50 frames&lt;/li&gt;
+&lt;li&gt;Render the image sequence at the resolution you're actually going to use in the game&lt;/li&gt;
+&lt;li&gt;Make sure to render RGBA images, with an alpha channel&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</topic>

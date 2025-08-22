@@ -1,108 +1,28 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Assignment: Rendering, Compositing and Basic Remesh Workflow</title>
-</head>
-<body>
-<p><span style="font-size: 36pt; color: #e03e2d;"><strong>TAKE NOTES!</strong></span></p>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Assignment: Rendering, Compositing and Basic Remesh Workflow</title></head><body>
+<h1><strong>Week 4: Rendering Compositing and Remesh</strong></h1>
+
+<h2><strong>Instruction:</strong></h2>
+<ul><li><strong>Introduction to After Effects, Media Encoder, Blender Kit and Render Kit</strong><ul style="list-style-type: disc;"><li><a href="https://caseyfarina.github.io/lecture-redirects/?class=avc185&lecture=week4-lecture1" target="_blank">AVC185 Week 4 Lecture 1</a></li><li><a href="https://www.blenderkit.com/" target="_blank">https://www.blenderkit.com/</a></li><li><a href="https://github.com/jeinselen/Blender-RenderKit" target="_blank">https://github.com/jeinselen/Blender-RenderKit</a></li></ul>
+</ul>
+
+<h2><strong>Course Competencies:</strong></h2>
 <ul>
-<li><span style="font-size: 36pt;"><a class="external" href="https://vimeo.com/2168099" target="_blank">Primitives<span class="external_link_icon" role="presentation"><span class="screenreader-only">Links&nbsp;</span></span></a></span></li>
+<li>1. Apply basic geometry principles for construction of 3D models</li>
+<li>2. Build models using one or more shapes and apply Boolean operations</li>
+<li>6. Apply basic animation principles to models</li>
 </ul>
-<h3>
-<strong><img src="$IMS-CC-FILEBASE$/Uploaded%20Media/image-4abf996e-f68e-432a-8897-17bca5ed33ac.png" alt="image.png" width="345" height="191" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1362061/files/116807448" data-api-returntype="File" loading="lazy"> </strong><strong><img src="$IMS-CC-FILEBASE$/Uploaded%20Media/image-4d9b1170-d2b7-4351-b9c5-6e4854324343.png" alt="image.png" width="345" height="194" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1362061/files/116807449" data-api-returntype="File" loading="lazy"></strong>
-</h3>
-<p><strong>&nbsp;<img src="$IMS-CC-FILEBASE$/Uploaded%20Media/image-4fe545aa-997c-4645-afdf-4768e2a4ad24.png" alt="image.png" width="344" height="189" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1362061/files/116807453" data-api-returntype="File" loading="lazy">&nbsp; <img src="$IMS-CC-FILEBASE$/Uploaded%20Media/image-11a0b4a1-31b1-452d-af7e-97326efa566b.png" alt="image.png" width="343" height="193" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1362061/files/116807455" data-api-returntype="File" loading="lazy"></strong></p>
-<p><strong><img src="$IMS-CC-FILEBASE$/Uploaded%20Media/image-8a47d266-d00a-4e43-9bc0-1b15f07a5032.png" alt="image.png" width="703" height="399" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1362061/files/116807517" data-api-returntype="File" loading="lazy"></strong></p>
-<hr>
-<h3><strong>Instruction:</strong></h3>
-<ul>
-<li>
-<strong>Introduction to After Effects, Media Encoder, Blender Kit and Render Kit</strong>
-<ul style="list-style-type: disc;">
-<li><a href="https://caseyfarina.github.io/lecture-redirects/?class=avc185&lecture=week4-lecture1" target="_blank">https://caseyfarina.github.io/lecture-redirects/?class=avc185&lecture=week4-lecture1</a></li>
-<li><a href="https://www.blenderkit.com/" target="_blank">https://www.blenderkit.com/</a></li>
-<li><a href="https://github.com/jeinselen/Blender-RenderKit" target="_blank">https://github.com/jeinselen/Blender-RenderKit</a></li>
-</ul>
-</li>
-<li>Project Review/Feedback, Remesh Sculpting Workflow, Displacement for Materials and Animating a Camera&nbsp;
-<ul style="list-style-type: disc;">
-<li><a href="https://caseyfarina.github.io/lecture-redirects/?class=avc185&lecture=week4-lecture2" target="_blank">https://caseyfarina.github.io/lecture-redirects/?class=avc185&lecture=week4-lecture2</a></li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3>
-<strong>Objective:</strong> Students will create an animated showcase for a series of 3D models.</h3>
-<p><strong>Course Competencies;</strong></p>
-<ul style="list-style-type: disc;">
-<li><span class="textLayer--absolute" dir="ltr" role="presentation">Apply basic geometry principles for construction of 3-D models</span></li>
-<li><span class="textLayer--absolute" dir="ltr" role="presentation">Create 3-D shapes using linear interpolation and polygonal construction</span></li>
-<li><span class="textLayer--absolute" dir="ltr" role="presentation"><span>Demonstrate ability to modify shape appearance through the use of lights and camera angles. (III)</span></span></li>
-<li><span class="textLayer--absolute" dir="ltr" role="presentation"><span>Execute finished models by employing materials, environmental effects, and rendering. (III)</span></span></li>
-<li><span class="textLayer--absolute" dir="ltr" role="presentation"><span>Apply basic animation principles to models. (IV)</span></span></li>
-</ul>
-<hr>
-<h3><strong>Project:</strong></h3>
-<p>Model a "climbing animal" for your playground. Execute the changes and improvements detailed in the feedback. Render a showcase movie of your playground</p>
-<ol style="list-style-type: decimal;">
-<li>Model a climbing animal, creature or object for your playground using the Primitive Blockout, Join, Remesh, Sculpt Workflow&nbsp;
-<ul style="list-style-type: disc;">
-<li>&nbsp;Suggestions<img src="$IMS-CC-FILEBASE$/Uploaded%20Media/image-f965e489-9357-4e73-b023-826b67344a8b.png" alt="image.png" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1362061/files/116807509" data-api-returntype="File" loading="lazy">
-</li>
-<li><span style="color: #000000;"><img src="$IMS-CC-FILEBASE$/Uploaded%20Media/image-dd2ad3fa-e6a0-428c-bf8d-d12e11102b80.png" alt="image.png" width="449" height="254" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1362061/files/116807514" data-api-returntype="File" loading="lazy"></span></li>
-</ul>
-</li>
-<li><span style="color: #000000; background-color: #bfedd2;">Apply a sand material (from Blender kit) to the playground floor and create a "box" box around the playground. Use displacement and the Multiresolution Modifier to displace the sand.&nbsp;</span></li>
-<li><span style="background-color: #bfedd2; color: #843fa1;"><strong>Execute all changes and improvements detailed in the class discussion. I will ask you to continually improve the projects throughout the semester. Making changes is part of design work, be prepared to continuously work on several projects.</strong></span></li>
-<li>
-<span style="color: #000000; background-color: #bfedd2;">Render a showcase video from After Effects that contains the following&nbsp;</span>
-<ol style="list-style-type: decimal;">
-<li>
-<span style="color: #000000; background-color: #bfedd2;">At least 4 still renders from the playground</span>
-<ol style="list-style-type: decimal;">
-<li><span style="color: #000000; background-color: #bfedd2;">Slow zoom in</span></li>
-<li><span style="background-color: #bfedd2; color: #000000;">Slight Vignette using an Adjustment Layer</span></li>
-</ol>
-</li>
-<li><span style="color: #000000; background-color: #bfedd2;">Use a text layer to create a title that fades in and out at the beginning of the video</span></li>
-<li><span style="color: #000000; background-color: #bfedd2;">Render a three second animated camera shot of the playground using Render Kit</span></li>
-<li><span style="color: #000000; background-color: #bfedd2;">Render the showcase movie from Media Encoder using the 1080 Youtube preset</span></li>
-</ol>
-</li>
-</ol>
-<hr>
-<h3><strong>Deliverable:</strong></h3>
-<ul style="list-style-type: disc;">
-<li>
-<strong>Canvas</strong>:&nbsp;
-<ol style="list-style-type: decimal;">
-<li>Presentation video
-<ul style="list-style-type: disc;">
-<li>Use OBS to appear on camera and show your screen. Please be specific, use blender to show us what you are describing.&nbsp;</li>
-<li>Less than 3 minutes</li>
-<li><span style="color: #e03e2d;"><strong>Present the climbing creature/object in solid shading view AND WIREFRAME VIEW</strong></span></li>
-<li>What went well? What was difficult?</li>
-<li>How did you approach modeling the object you selected. Please show the reference image.&nbsp;</li>
-<li>Any questions?</li>
-</ul>
-</li>
-<li>Your showcase video</li>
-<li>Your Blender file
-<ol style="list-style-type: decimal;">
-<li><strong><span style="color: #e03e2d;">Please "External Data - Pack Resources" BEFORE saving the file and uploading to Canvas</span></strong></li>
-<li><img src="$IMS-CC-FILEBASE$/Uploaded%20Media/image-2a897018-ffc5-43e9-a67b-011c91ed1fba.png" alt="image.png" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1362061/files/116614858" data-api-returntype="File" loading="lazy"></li>
-</ol>
-</li>
-</ol>
-</li>
-<li>
-<strong>Discord</strong>
-<ul style="list-style-type: disc;">
-<li>Post your render of the climbing object as a jpg in Rendered and Wireframe view</li>
-<li>Comment on at least three other student posts</li>
-</ul>
-</li>
-</ul>
-<p>&nbsp;</p>
-</body>
-</html>
+
+<h2><strong>Project Objective:</strong></h2>
+<p>Create an abstract 3D scene using primitive objects to demonstrate fundamental Blender interface skills and basic modeling workflow.</p>
+
+<h2><strong>Project:</strong></h2>
+<p>Model a "climbing animal" for your playground. Execute the changes and improvements detailed in the feedback. Render a showcase movie of your playground</p><ol style="list-style-type: decimal;"><li>Model a climbing animal, creature or object for your playground using the Primitive Blockout, Join, Remesh, Sculpt Workflow&nbsp;
+<ul style="list-style-type: disc;"><li>&nbsp;Suggestions<img width="266" height="200" src="$IMS-CC-FILEBASE$/Uploaded%20Media/image-f965e489-9357-4e73-b023-826b67344a8b.jpg" alt="Blender rendering pipeline and compositing node setup" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1362061/files/116807509" data-api-returntype="File" loading="lazy"></li><li><span style="color: #000000;"><img src="$IMS-CC-FILEBASE$/Uploaded%20Media/image-dd2ad3fa-e6a0-428c-bf8d-d12e11102b80.jpg" alt="Blender rendering pipeline and compositing node setup" width="353" height="200" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1362061/files/116807514" data-api-returntype="File" loading="lazy"></span></li></ul><li><span style="color: #000000; background-color: #bfedd2;">Apply a sand material (from Blender kit) to the playground floor and create a "box" box around the playground. Use displacement and the Multiresolution Modifier to displace the sand.&nbsp;</span></li><li><span style="background-color: #bfedd2; color: #843fa1;"><strong>Execute all changes and improvements detailed in the class discussion. I will ask you to continually improve the projects throughout the semester. Making changes is part of design work, be prepared to continuously work on several projects.</strong></span></li><li><span style="color: #000000; background-color: #bfedd2;">Render a showcase video from After Effects that contains the following&nbsp;</span><ol style="list-style-type: decimal;"><li><span style="color: #000000; background-color: #bfedd2;">At least 4 still renders from the playground</span><ol style="list-style-type: decimal;"><li><span style="color: #000000; background-color: #bfedd2;">Slow zoom in</span></li><li><span style="background-color: #bfedd2; color: #000000;">Slight Vignette using an Adjustment Layer</span></li></ol></li><li><span style="color: #000000; background-color: #bfedd2;">Use a text layer to create a title that fades in and out at the beginning of the video</span></li><li><span style="color: #000000; background-color: #bfedd2;">Render a three second animated camera shot of the playground using Render Kit</span></li><li><span style="color: #000000; background-color: #bfedd2;">Render the showcase movie from Media Encoder using the 1080 Youtube preset</span></li></ol></li></ol>
+
+<h2><strong>Deliverable:</strong></h2>
+<ul style="list-style-type: disc;"><li><strong>Canvas</strong>:&nbsp;
+<ol style="list-style-type: decimal;"><li>Presentation video
+<ul style="list-style-type: disc;"><li>Use OBS to appear on camera and show your screen. Please be specific, use blender to show us what you are describing.&nbsp;</li><li>Less than 3 minutes</li><li><span style="color: #e03e2d;"><strong>Present the climbing creature/object in solid shading view AND WIREFRAME VIEW</strong></span></li><li>What went well? What was difficult?</li><li>How did you approach modeling the object you selected. Please show the reference image.&nbsp;</li><li>Any questions?</li></ul></li><li>Your showcase video</li><li>Your Blender file
+<ol style="list-style-type: decimal;"><li><strong><span style="color: #e03e2d;">Please "External Data - Pack Resources" BEFORE saving the file and uploading to Canvas</span></strong></li><li><img width="266" height="200" src="$IMS-CC-FILEBASE$/Uploaded%20Media/image-2a897018-ffc5-43e9-a67b-011c91ed1fba.jpg" alt="Blender rendering pipeline and compositing node setup" data-api-endpoint="https://learn.maricopa.edu/api/v1/courses/1362061/files/116614858" data-api-returntype="File" loading="lazy"></li></ol></li></ol></li><li><strong>Discord</strong><ul style="list-style-type: disc;"><li>Post your render of the climbing object as a jpg in Rendered and Wireframe view</li><li>Comment on at least three other student posts</li></ul></li></ul>
+
+</body></html>

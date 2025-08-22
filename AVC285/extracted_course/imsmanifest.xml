@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="g6203ff9b0dbcacd10271d0350819542f" xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource" xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imscp_v1p2_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lomresource_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lommanifest_v1p0.xsd">
+  <metadata>
+    <schema>IMS Common Cartridge</schema>
+    <schemaversion>1.1.0</schemaversion>
+    <lomimscc:lom>
+      <lomimscc:general>
+        <lomimscc:title>
+          <lomimscc:string>GC 2024 SPRING-AVC285 31065</lomimscc:string>
+        </lomimscc:title>
+      </lomimscc:general>
+      <lomimscc:lifeCycle>
+        <lomimscc:contribute>
+          <lomimscc:date>
+            <lomimscc:dateTime>2025-08-21</lomimscc:dateTime>
+          </lomimscc:date>
+        </lomimscc:contribute>
+      </lomimscc:lifeCycle>
+      <lomimscc:rights>
+        <lomimscc:copyrightAndOtherRestrictions>
+          <lomimscc:value>yes</lomimscc:value>
+        </lomimscc:copyrightAndOtherRestrictions>
+        <lomimscc:description>
+          <lomimscc:string>Private (Copyrighted) - http://en.wikipedia.org/wiki/Copyright</lomimscc:string>
+        </lomimscc:description>
+      </lomimscc:rights>
+    </lomimscc:lom>
+  </metadata>
+  <organizations>
+    <organization identifier="org_1" structure="rooted-hierarchy">
+      <item identifier="LearningModules">
+        <item identifier="ge4717e802a0542ee3bf5736f3ee78a19">
+          <title>Course Work</title>
+          <item identifier="gdb510fcea5f6f7d5ca5cc6e198182f8e" identifierref="gc83a088f3bbc2a97ceed6a8f2f138d9c">
+            <title>Syllabus Acknowledgement</title>
+          </item>
+          <item identifier="gc1ecbdd96969485663a5cd316c652552" identifierref="g8da1023160519a146c203ce5015a86af">
+            <title>Technology Login Challenge (1 hr)</title>
+          </item>
+          <item identifier="g6f4f750a9736cad1276044b62bb8e3f0" identifierref="g4083a89420827c771d991647fd11793f">
+            <title>Simulation Modeling: Rigid Bodies</title>
+          </item>
+          <item identifier="g11a653c42d1a4f40454c8a8761c18808" identifierref="ge048d8fbacd8279b9cf48c2d99e953d5">
+            <title>Simulation Modeling: Particles and Cloth</title>
+          </item>
+          <item identifier="g80e288bf17b88067470cfec837ab7018" identifierref="gbc960dd32c9dcd0b24640f7b197a6d57">
+            <title>Simulation Modeling: Fracture and Art Directing a Simulation</title>
+          </item>
+          <item identifier="gdd44c653b5adc5f639038bbe4f7a5b5b" identifierref="gf85927e08b8b4b7d80af7ed991fdf1d2">
+            <title>Simulation Modeling: Cloth and Spline </title>
+          </item>
+          <item identifier="g896af8b2111648095abf641f2b6a3b62" identifierref="gc2fcb240e982d3a17b0aa147afc7ea59">
+            <title>Introduction to TwinMotion and Substance Painter: Transferring Assets</title>
+          </item>
+          <item identifier="ge47ff01d662a437aaa108111117326a5" identifierref="gb8b2d2c9670bcd4b9a0176ebcf9b00f1">
+            <title>Simulation Modeling: Soft Body Simulations</title>
+          </item>
+          <item identifier="g642015ac6b35742e7bd8c1588479046d" identifierref="ge9c4386baf42c0c75fecf6a5feb099a1">
+            <title>Simulation Modeling: Cloth: Pants and Shirts</title>
+          </item>
+          <item identifier="g5e2d5a3da9d0c23f20dc05aa9bbe3f47" identifierref="g6fcf5a18ed7ab697673e5a5ff81ca410">
+            <title>Simulation Modeling: Soft Bodies, Splines, and Colliders</title>
+          </item>
+          <item identifier="g132ca47a52207a4e170d5db2c1f17b0a" identifierref="gdce0106305f38d2c9cce15397fb90ce1">
+            <title>Simulation Modeling: Soft Body Physics, Simulated Cloth workflow, Introduction to Unreal Engine</title>
+          </item>
+          <item identifier="gd5e487c6d9b0ba6b44df0019ee58e591" identifierref="g16c55047b2988974d0eea6f5016e9031">
+            <title>Simulation Reel: Rendered in Red Shift</title>
+          </item>
+          <item identifier="g73683c5f1cd301c9c801863172783f73" identifierref="gb8f04606e90fd3c93146d60e375e349c">
+            <title>Substance Sampler: Creating your own Substances</title>
+          </item>
+          <item identifier="gdb33928e81201244a607348d4be7a4a6" identifierref="g1ec3b8159b521791cd1d15a8d340cfbe">
+            <title>Substance Sampler: Creating your own Substances, Using them in Unreal Engine</title>
+          </item>
+          <item identifier="g05602161fe09b90f00b7c74662322450" identifierref="gc7b0463b86d08fbccd5fe52d5704f763">
+            <title>Substance Sampler: Atlas Creation </title>
+          </item>
+          <item identifier="g97f387a91d1e2abdfe8338b7480d6154" identifierref="gdd15fcd37e02f192576cd548540be044">
+            <title>Photogrammetry: Scanning Reality</title>
+          </item>
+          <item identifier="g5f38e629529fe9ebcae42894b2883132" identifierref="ga7f543d494b6a0543aadb085ad652bb5">
+            <title>Photogrammetry: Scanning Reality, Sequences in Unreal Engine</title>
+          </item>
+          <item identifier="g163bfe9efd2d63f1112386a20e30f834" identifierref="g29b35f43f119930ad36d9887ac03d989">
+            <title>Photogrammetry: Revisions</title>
+          </item>
+          <item identifier="g92e0e864a386c0640048e732282acad8" identifierref="g2c2e344adddef0ec633a3feae75b8f57">
+            <title>Substance Painter: Advanced Techniques</title>
+          </item>
+          <item identifier="gbddd4eae407ca4b9b75e6b9f1fc6eb4d" identifierref="g9369a10a4f2fb5aa50e742d8653a8157">
+            <title>Introduction to Sculpting in Blender</title>
+          </item>
+          <item identifier="g9ce0c228ddcf267afbf4c56c5f934b7b" identifierref="g194311cfe26259d95b56c7e23dea548a">
+            <title>Substance Painter: Advanced brush generation techniques</title>
+          </item>
+          <item identifier="gc568f2d75d6438d9b0b7585fe452f88e" identifierref="g2e7b617dae84c28bc7bbd6db429db320">
+            <title>Hard Surface Sculpting in Blender,  Advanced Mask Techniques in Substance Painter</title>
+          </item>
+          <item identifier="g976616bbbfc34e54c7c4458c1c09274d" identifierref="g4edc57bfd5414a49559de17fed397b7b">
+            <title>Sculpting in Blender: Using VDM brushes</title>
+          </item>
+          <item identifier="g6bd694ad76801cb23378ce8b9a0c068c" identifierref="g5d119f3cc0bd7950fcf254a799e9f867">
+            <title>Advance Hard Surface Modeling  to create a Future-Robotic Environment!!!!</title>
+          </item>
+          <item identifier="gd330169a868e87ef7e1434bacc795265" identifierref="g97080afb08a2a09fc07bf8bc9954f12a">
+            <title>Building and Wire/Cable Rig </title>
+          </item>
+          <item identifier="g7afb11b99503f00d84133e5422ff5c24" identifierref="gd786294e86ddcc1a70cd93e07b129563">
+            <title>Painting the Kitbash parts</title>
+          </item>
+          <item identifier="gc76318a078e1ceab66d33dc30a9f4bfd" identifierref="g43551bd59365227f6acb3256e4995579">
+            <title>Forest revisions and substance painter</title>
+          </item>
+          <item identifier="gda20468f8665f1c62531e3b3a0291815" identifierref="g595c1c6fac98690b9eeadfe1305d3c65">
+            <title>UV unwrap and paint the kit bash pieces</title>
+          </item>
+          <item identifier="g5a2d255b0859c4efe2c10c9af93eeac3" identifierref="gf62dafb723263d07744f2a840336bd53">
+            <title>Symmetry Improvements, Wire Rig with Dynamics, Introduction to sculpting</title>
+          </item>
+          <item identifier="g179f5c41c8d9f66d8d45c5efc1390282" identifierref="g0c990a9aa7ff1729035402abe145b280">
+            <title>Assembling kitbash parts into a scene</title>
+          </item>
+          <item identifier="g3520fa5cd5df4f94fd7cbe0aee2b7fd9" identifierref="ga236c6b0309cc4c02655b0fd6cf5b563">
+            <title>Final Portfolio</title>
+          </item>
+          <item identifier="gbfd91cda8b8b3f884204306228680a40" identifierref="g2d614e84e57b68f05f14c77a1ca278e9">
+            <title>Student Class Evaluations</title>
+          </item>
+          <item identifier="ga006ff73d9616ad5cfdbf77fab6c2291" identifierref="g521709172415c73121698fd367c66138">
+            <title>Concert Visuals: Philip Glass "Einstein on the Beach"</title>
+          </item>
+          <item identifier="g7dcfe69ef0387103e55b4904fb64cfe9" identifierref="g1b2f348710fc9d840b3c61d22a264576">
+            <title>Polygon Modeling: Dumbbell and Kettlebell</title>
+          </item>
+          <item identifier="g6d3b8d5c51343153770926e559a4b337" identifierref="gf076dcb879d481b008aeec0a6b2d7cee">
+            <title>Four buildings with extrude and inner extrude</title>
+          </item>
+          <item identifier="g7fef0c9c9babc47f4b2a6d97502c0b30" identifierref="gcc4966c1351f578dad82babe6ee3a8d7">
+            <title>A guide to deformers in Cinema 4D</title>
+          </item>
+          <item identifier="gb1290c248c9d71b46b48ac1668933a8f" identifierref="g4dd487b0b58c437e56217eedc42e8c99">
+            <title>Isometric Islands Models</title>
+          </item>
+          <item identifier="g1337c9e4853f10d2961a7c50d9a1877c" identifierref="geebf8173f7bb1cf89987d3d5b1e74eb3">
+            <title>Isometric Islands First Draft: Please post scenes as soon as then are ready for quick feedback!</title>
+          </item>
+          <item identifier="gbb77630a36b28b22e0b915dcc61d103b" identifierref="ge9227f0d7877461ec10b619905e81884">
+            <title>UV Unwrapping in C4D</title>
+          </item>
+          <item identifier="g3965a6a0a0697e1436e469630f9c1145" identifierref="g0de12d1e5245aa2fd62283dabd7e6ddf">
+            <title>Introduction to Substance Painter: Toy Block</title>
+          </item>
+          <item identifier="geaa4accab864265bed0c4cd7ec6b75ca" identifierref="g2d614e84e57b68f05f14c77a1ca278e9">
+            <title>Student Class Evaluations</title>
+          </item>
+          <item identifier="g341174189228358dce7f0bf99480a148" identifierref="g1dc91bb209e88392e888b332d11212f1">
+            <title>Final Kitbash showcase</title>
+          </item>
+        </item>
+        <item identifier="ge715c7798238a5913c1e8c710675f3b8">
+          <title>Isometric Island</title>
+          <item identifier="g9f535089831ad5fbac53533f5c490c80" identifierref="g92d2e2de572a503c8b37aa9974016282">
+            <title>Isometric Islands Models</title>
+          </item>
+          <item identifier="g825287262e863759ea2a0bd798eb4fca" identifierref="g62cbdcfb2cc9462418fc03aa52096638">
+            <title>Isometric Islands Final</title>
+          </item>
+          <item identifier="g8fd5bc7a5f46a189f7cf5ab33948ad5d" identifierref="g881469803650bb63a0a67f358a3cb3cb">
+            <title>Box Modeling: Subdivision Surface</title>
+          </item>
+        </item>
+        <item identifier="ga5e936b91d7ef389d22bdbc412f153f5">
+          <title>SpaceShip</title>
+          <item identifier="g368a789ab9698adaebb57361a30f469d" identifierref="g1f44f41c19846de5ec39db09e3c92d9f">
+            <title>Spaceship Design Brief </title>
+          </item>
+        </item>
+        <item identifier="g059e21a7e71c12d3cbda0f252f964de5">
+          <title>Interior Scene</title>
+          <item identifier="gc9f921e8eaf4a96213c64bed43d3b044" identifierref="g7dde830499d90f1e13587123e03c098c">
+            <title>Project: Interior modeling</title>
+          </item>
+        </item>
+        <item identifier="gd0e3daf496fbec2340776047823919d2">
+          <title>Vehicle Modeling</title>
+          <item identifier="g9b613287149e5eae82e8c8fdb759063a" identifierref="g1a474fcbb29d3c8d0bfa7d3695acd8c8">
+            <title>Vehicle Modeling Reference</title>
+          </item>
+        </item>
+        <item identifier="g2a2e10dbf6dbcb45c790cb7444b0e15b">
+          <title>Vehicle Modeling</title>
+        </item>
+        <item identifier="g8891a92881622f94e85a849bc7b35629">
+          <title>Participation/Community Questions</title>
+          <item identifier="gd312776442a6f3a74523c5354c0b01e0" identifierref="g5c15ccfe5c5c0d2e5dedb3603a2e7b71">
+            <title>Participation Grade</title>
+          </item>
+          <item identifier="g33524ab8aa91692fb885c7bb14317c98" identifierref="gf0d02b099856f697c9df71fdd611a2aa">
+            <title>Participation Grade</title>
+          </item>
+          <item identifier="g0b6c4af1b79d27fbcb0877feee5e6f86" identifierref="g808bfbab40bb0531222e33b417d61047">
+            <title>Participation Grade</title>
+          </item>
+          <item identifier="gd098f6661cc0cdc9ba268a2ee5c3fde9" identifierref="ga1b052cb9db60f7a53473a3a1d702d98">
+            <title>Participation Grade</title>
+          </item>
+          <item identifier="ga706777b2328753eb0a958a70141e1b9" identifierref="g436565218af50c93d00346285358c9c1">
+            <title>Participation Grade</title>
+          </item>
+          <item identifier="g68a7a46ae84bd8be5a2b017b84862a68" identifierref="ge5dc9565940cf9bb535450f986d9486e">
+            <title>Community Participation</title>
+          </item>
+          <item identifier="gff5bc77951df974371af098631d0c15e" identifierref="g0ae227a3142fec2b604093545c047974">
+            <title>Community Participation</title>
+          </item>
+          <item identifier="gc6a0f2c882968115b92af9ecc22ccf43" identifierref="g1cf452b95f725db59702fdf9b600927e">
+            <title>Participation Grade</title>
+          </item>
+          <item identifier="g2336e09ef3e9e73402a0f59c5870abd3" identifierref="g73b013cf4ae2b8d29f61ba75682a1977">
+            <title>Participation Grade</title>
+          </item>
+          <item identifier="g1fd3317c5f8e65a393a4869857a957fa" identifierref="gbf55cd19e0a13921657fed0ed6054f9f">
+            <title>Participation Grade</title>
+          </item>
+          <item identifier="g3a667beb89bf25e9c9fc086c6353eda7" identifierref="geb9c35e18f53350a1de38dc20062f925">
+            <title>Participation Grade</title>
+          </item>
+          <item identifier="gd6e11cf0a2eb733ab9a01b4d0dcdcc24" identifierref="gb67c47050c3de621d4a132ba2910f646">
+            <title>Participation Grade</title>
+          </item>
+          <item identifier="g0155d595d84d70dca27d09572ecd30e3" identifierref="ge4c796baacd25bb52d73f9989d118aca">
+            <title>Participation Grade</title>
+          </item>
+          <item identifier="gea6b06c9d19f4a7e9d0f84e4c5c6b1ee" identifierref="g0e8f1c6adcbd647f8d99738919180174">
+            <title>Participation Grade</title>
+          </item>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="g011afd246fcc9c1f68ad3dc49d282560_syllabus" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/syllabus.html" intendeduse="syllabus">
+      <file href="course_settings/syllabus.html"/>
+    </resource>
+    <resource identifier="g011afd246fcc9c1f68ad3dc49d282560" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/canvas_export.txt">
+      <file href="course_settings/course_settings.xml"/>
+      <file href="course_settings/module_meta.xml"/>
+      <file href="course_settings/assignment_groups.xml"/>
+      <file href="course_settings/files_meta.xml"/>
+      <file href="course_settings/late_policy.xml"/>
+      <file href="course_settings/context.xml"/>
+      <file href="course_settings/media_tracks.xml"/>
+      <file href="course_settings/canvas_export.txt"/>
+    </resource>
+    <resource identifier="g5016750f86937c851b00d43d5bc669e1" type="webcontent" href="wiki_content/test-video.html">
+      <file href="wiki_content/test-video.html"/>
+    </resource>
+    <resource identifier="ge9227f0d7877461ec10b619905e81884" type="webcontent" href="wiki_content/uv-unwrapping-in-c4d.html">
+      <file href="wiki_content/uv-unwrapping-in-c4d.html"/>
+    </resource>
+    <resource identifier="gfad53308af8b2ad224eefb4a0cd61f27" type="webcontent" href="wiki_content/welcome-to-art-185.html">
+      <file href="wiki_content/welcome-to-art-185.html"/>
+    </resource>
+    <resource identifier="g826c74e3494c9ee59eb02ba87d461a53" type="webcontent" href="wiki_content/welcome-to-art-285-3d-modeling-for-animation-ii.html">
+      <file href="wiki_content/welcome-to-art-285-3d-modeling-for-animation-ii.html"/>
+    </resource>
+    <resource identifier="gef0bc4e6984258e512ce3f73dc0e47cf" type="webcontent" href="wiki_content/taste-making.html">
+      <file href="wiki_content/taste-making.html"/>
+    </resource>
+    <resource identifier="gcc4966c1351f578dad82babe6ee3a8d7" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gcc4966c1351f578dad82babe6ee3a8d7/a-guide-to-deformers-in-cinema-4d.html">
+      <file href="gcc4966c1351f578dad82babe6ee3a8d7/a-guide-to-deformers-in-cinema-4d.html"/>
+      <file href="gcc4966c1351f578dad82babe6ee3a8d7/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g5d119f3cc0bd7950fcf254a799e9f867" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g5d119f3cc0bd7950fcf254a799e9f867/advance-hard-surface-modeling-to-create-a-future-robotic-environment.html">
+      <file href="g5d119f3cc0bd7950fcf254a799e9f867/advance-hard-surface-modeling-to-create-a-future-robotic-environment.html"/>
+      <file href="g5d119f3cc0bd7950fcf254a799e9f867/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g0c990a9aa7ff1729035402abe145b280" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g0c990a9aa7ff1729035402abe145b280/assembling-kitbash-parts-into-a-scene.html">
+      <file href="g0c990a9aa7ff1729035402abe145b280/assembling-kitbash-parts-into-a-scene.html"/>
+      <file href="g0c990a9aa7ff1729035402abe145b280/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g881469803650bb63a0a67f358a3cb3cb" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g881469803650bb63a0a67f358a3cb3cb/box-modeling-subdivision-surface.html">
+      <file href="g881469803650bb63a0a67f358a3cb3cb/box-modeling-subdivision-surface.html"/>
+      <file href="g881469803650bb63a0a67f358a3cb3cb/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g97080afb08a2a09fc07bf8bc9954f12a" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g97080afb08a2a09fc07bf8bc9954f12a/building-and-wire-slash-cable-rig.html">
+      <file href="g97080afb08a2a09fc07bf8bc9954f12a/building-and-wire-slash-cable-rig.html"/>
+      <file href="g97080afb08a2a09fc07bf8bc9954f12a/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gc6c2d72568e1d1a5bdbd225176c6deaa" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gc6c2d72568e1d1a5bdbd225176c6deaa/city-block-with-cloner-tools-and-materials.html">
+      <file href="gc6c2d72568e1d1a5bdbd225176c6deaa/city-block-with-cloner-tools-and-materials.html"/>
+      <file href="gc6c2d72568e1d1a5bdbd225176c6deaa/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="ge5dc9565940cf9bb535450f986d9486e" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ge5dc9565940cf9bb535450f986d9486e/community-participation.html">
+      <file href="ge5dc9565940cf9bb535450f986d9486e/community-participation.html"/>
+      <file href="ge5dc9565940cf9bb535450f986d9486e/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g0ae227a3142fec2b604093545c047974" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g0ae227a3142fec2b604093545c047974/community-participation.html">
+      <file href="g0ae227a3142fec2b604093545c047974/community-participation.html"/>
+      <file href="g0ae227a3142fec2b604093545c047974/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g521709172415c73121698fd367c66138" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g521709172415c73121698fd367c66138/concert-visuals-philip-glass-einstein-on-the-beach.html">
+      <file href="g521709172415c73121698fd367c66138/concert-visuals-philip-glass-einstein-on-the-beach.html"/>
+      <file href="g521709172415c73121698fd367c66138/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g8b586bc4bdbe36c53c859dbb8f4003c5" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g8b586bc4bdbe36c53c859dbb8f4003c5/final-vimeo-links.html">
+      <file href="g8b586bc4bdbe36c53c859dbb8f4003c5/final-vimeo-links.html"/>
+      <file href="g8b586bc4bdbe36c53c859dbb8f4003c5/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g1dc91bb209e88392e888b332d11212f1" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g1dc91bb209e88392e888b332d11212f1/final-kitbash-showcase.html">
+      <file href="g1dc91bb209e88392e888b332d11212f1/final-kitbash-showcase.html"/>
+      <file href="g1dc91bb209e88392e888b332d11212f1/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g2da556d3d589a77109a7f29e018df2e6" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g2da556d3d589a77109a7f29e018df2e6/final-portfolio.html">
+      <file href="g2da556d3d589a77109a7f29e018df2e6/final-portfolio.html"/>
+      <file href="g2da556d3d589a77109a7f29e018df2e6/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="ga236c6b0309cc4c02655b0fd6cf5b563" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ga236c6b0309cc4c02655b0fd6cf5b563/final-portfolio.html">
+      <file href="ga236c6b0309cc4c02655b0fd6cf5b563/final-portfolio.html"/>
+      <file href="ga236c6b0309cc4c02655b0fd6cf5b563/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g8301b55d0fef44d31007f0cced4edc3c" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g8301b55d0fef44d31007f0cced4edc3c/final-renders-and-videos.html">
+      <file href="g8301b55d0fef44d31007f0cced4edc3c/final-renders-and-videos.html"/>
+      <file href="g8301b55d0fef44d31007f0cced4edc3c/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g43551bd59365227f6acb3256e4995579" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g43551bd59365227f6acb3256e4995579/forest-revisions-and-substance-painter.html">
+      <file href="g43551bd59365227f6acb3256e4995579/forest-revisions-and-substance-painter.html"/>
+      <file href="g43551bd59365227f6acb3256e4995579/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gf076dcb879d481b008aeec0a6b2d7cee" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gf076dcb879d481b008aeec0a6b2d7cee/four-buildings-with-extrude-and-inner-extrude.html">
+      <file href="gf076dcb879d481b008aeec0a6b2d7cee/four-buildings-with-extrude-and-inner-extrude.html"/>
+      <file href="gf076dcb879d481b008aeec0a6b2d7cee/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gc0d5784c638ccae179897881dfedf197" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gc0d5784c638ccae179897881dfedf197/gpu-information.html">
+      <file href="gc0d5784c638ccae179897881dfedf197/gpu-information.html"/>
+      <file href="gc0d5784c638ccae179897881dfedf197/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g2e7b617dae84c28bc7bbd6db429db320" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g2e7b617dae84c28bc7bbd6db429db320/hard-surface-sculpting-in-blender-advanced-mask-techniques-in-substance-painter.html">
+      <file href="g2e7b617dae84c28bc7bbd6db429db320/hard-surface-sculpting-in-blender-advanced-mask-techniques-in-substance-painter.html"/>
+      <file href="g2e7b617dae84c28bc7bbd6db429db320/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g9369a10a4f2fb5aa50e742d8653a8157" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g9369a10a4f2fb5aa50e742d8653a8157/introduction-to-sculpting-in-blender.html">
+      <file href="g9369a10a4f2fb5aa50e742d8653a8157/introduction-to-sculpting-in-blender.html"/>
+      <file href="g9369a10a4f2fb5aa50e742d8653a8157/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g0de12d1e5245aa2fd62283dabd7e6ddf" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g0de12d1e5245aa2fd62283dabd7e6ddf/introduction-to-substance-painter-toy-block.html">
+      <file href="g0de12d1e5245aa2fd62283dabd7e6ddf/introduction-to-substance-painter-toy-block.html"/>
+      <file href="g0de12d1e5245aa2fd62283dabd7e6ddf/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gc2fcb240e982d3a17b0aa147afc7ea59" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gc2fcb240e982d3a17b0aa147afc7ea59/introduction-to-twinmotion-and-substance-painter-transferring-assets.html">
+      <file href="gc2fcb240e982d3a17b0aa147afc7ea59/introduction-to-twinmotion-and-substance-painter-transferring-assets.html"/>
+      <file href="gc2fcb240e982d3a17b0aa147afc7ea59/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g62cbdcfb2cc9462418fc03aa52096638" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g62cbdcfb2cc9462418fc03aa52096638/isometric-islands-final.html">
+      <file href="g62cbdcfb2cc9462418fc03aa52096638/isometric-islands-final.html"/>
+      <file href="g62cbdcfb2cc9462418fc03aa52096638/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g26955a68bb5b117684c38fb6a041f839" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g26955a68bb5b117684c38fb6a041f839/isometric-islands-first-draft.html">
+      <file href="g26955a68bb5b117684c38fb6a041f839/isometric-islands-first-draft.html"/>
+      <file href="g26955a68bb5b117684c38fb6a041f839/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g4dd487b0b58c437e56217eedc42e8c99" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g4dd487b0b58c437e56217eedc42e8c99/isometric-islands-models.html">
+      <file href="g4dd487b0b58c437e56217eedc42e8c99/isometric-islands-models.html"/>
+      <file href="g4dd487b0b58c437e56217eedc42e8c99/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g92d2e2de572a503c8b37aa9974016282" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g92d2e2de572a503c8b37aa9974016282/isometric-islands-models.html">
+      <file href="g92d2e2de572a503c8b37aa9974016282/isometric-islands-models.html"/>
+      <file href="g92d2e2de572a503c8b37aa9974016282/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gd786294e86ddcc1a70cd93e07b129563" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gd786294e86ddcc1a70cd93e07b129563/painting-the-kitbash-parts.html">
+      <file href="gd786294e86ddcc1a70cd93e07b129563/painting-the-kitbash-parts.html"/>
+      <file href="gd786294e86ddcc1a70cd93e07b129563/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g5c15ccfe5c5c0d2e5dedb3603a2e7b71" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g5c15ccfe5c5c0d2e5dedb3603a2e7b71/participation-grade.html">
+      <file href="g5c15ccfe5c5c0d2e5dedb3603a2e7b71/participation-grade.html"/>
+      <file href="g5c15ccfe5c5c0d2e5dedb3603a2e7b71/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gf0d02b099856f697c9df71fdd611a2aa" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gf0d02b099856f697c9df71fdd611a2aa/participation-grade.html">
+      <file href="gf0d02b099856f697c9df71fdd611a2aa/participation-grade.html"/>
+      <file href="gf0d02b099856f697c9df71fdd611a2aa/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="ga1b052cb9db60f7a53473a3a1d702d98" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ga1b052cb9db60f7a53473a3a1d702d98/participation-grade.html">
+      <file href="ga1b052cb9db60f7a53473a3a1d702d98/participation-grade.html"/>
+      <file href="ga1b052cb9db60f7a53473a3a1d702d98/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g1cf452b95f725db59702fdf9b600927e" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g1cf452b95f725db59702fdf9b600927e/participation-grade.html">
+      <file href="g1cf452b95f725db59702fdf9b600927e/participation-grade.html"/>
+      <file href="g1cf452b95f725db59702fdf9b600927e/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g808bfbab40bb0531222e33b417d61047" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g808bfbab40bb0531222e33b417d61047/participation-grade.html">
+      <file href="g808bfbab40bb0531222e33b417d61047/participation-grade.html"/>
+      <file href="g808bfbab40bb0531222e33b417d61047/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gbf55cd19e0a13921657fed0ed6054f9f" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gbf55cd19e0a13921657fed0ed6054f9f/participation-grade.html">
+      <file href="gbf55cd19e0a13921657fed0ed6054f9f/participation-grade.html"/>
+      <file href="gbf55cd19e0a13921657fed0ed6054f9f/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g0e8f1c6adcbd647f8d99738919180174" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g0e8f1c6adcbd647f8d99738919180174/participation-grade.html">
+      <file href="g0e8f1c6adcbd647f8d99738919180174/participation-grade.html"/>
+      <file href="g0e8f1c6adcbd647f8d99738919180174/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g436565218af50c93d00346285358c9c1" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g436565218af50c93d00346285358c9c1/participation-grade.html">
+      <file href="g436565218af50c93d00346285358c9c1/participation-grade.html"/>
+      <file href="g436565218af50c93d00346285358c9c1/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g73b013cf4ae2b8d29f61ba75682a1977" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g73b013cf4ae2b8d29f61ba75682a1977/participation-grade.html">
+      <file href="g73b013cf4ae2b8d29f61ba75682a1977/participation-grade.html"/>
+      <file href="g73b013cf4ae2b8d29f61ba75682a1977/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="geb9c35e18f53350a1de38dc20062f925" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="geb9c35e18f53350a1de38dc20062f925/participation-grade.html">
+      <file href="geb9c35e18f53350a1de38dc20062f925/participation-grade.html"/>
+      <file href="geb9c35e18f53350a1de38dc20062f925/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gb67c47050c3de621d4a132ba2910f646" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gb67c47050c3de621d4a132ba2910f646/participation-grade.html">
+      <file href="gb67c47050c3de621d4a132ba2910f646/participation-grade.html"/>
+      <file href="gb67c47050c3de621d4a132ba2910f646/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="ge4c796baacd25bb52d73f9989d118aca" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ge4c796baacd25bb52d73f9989d118aca/participation-grade.html">
+      <file href="ge4c796baacd25bb52d73f9989d118aca/participation-grade.html"/>
+      <file href="ge4c796baacd25bb52d73f9989d118aca/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g29b35f43f119930ad36d9887ac03d989" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g29b35f43f119930ad36d9887ac03d989/photogrammetry-revisions.html">
+      <file href="g29b35f43f119930ad36d9887ac03d989/photogrammetry-revisions.html"/>
+      <file href="g29b35f43f119930ad36d9887ac03d989/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gdd15fcd37e02f192576cd548540be044" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gdd15fcd37e02f192576cd548540be044/photogrammetry-scanning-reality.html">
+      <file href="gdd15fcd37e02f192576cd548540be044/photogrammetry-scanning-reality.html"/>
+      <file href="gdd15fcd37e02f192576cd548540be044/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="ga7f543d494b6a0543aadb085ad652bb5" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ga7f543d494b6a0543aadb085ad652bb5/photogrammetry-scanning-reality-sequences-in-unreal-engine.html">
+      <file href="ga7f543d494b6a0543aadb085ad652bb5/photogrammetry-scanning-reality-sequences-in-unreal-engine.html"/>
+      <file href="ga7f543d494b6a0543aadb085ad652bb5/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g1b2f348710fc9d840b3c61d22a264576" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g1b2f348710fc9d840b3c61d22a264576/polygon-modeling-dumbbell-and-kettlebell.html">
+      <file href="g1b2f348710fc9d840b3c61d22a264576/polygon-modeling-dumbbell-and-kettlebell.html"/>
+      <file href="g1b2f348710fc9d840b3c61d22a264576/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g7071ee9108cb11030858b5fcc7f9c271" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g7071ee9108cb11030858b5fcc7f9c271/project-interior-lighting-and-texturing.html">
+      <file href="g7071ee9108cb11030858b5fcc7f9c271/project-interior-lighting-and-texturing.html"/>
+      <file href="g7071ee9108cb11030858b5fcc7f9c271/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g7dde830499d90f1e13587123e03c098c" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g7dde830499d90f1e13587123e03c098c/project-interior-modeling.html">
+      <file href="g7dde830499d90f1e13587123e03c098c/project-interior-modeling.html"/>
+      <file href="g7dde830499d90f1e13587123e03c098c/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="ga857b26a138f1b15e1bae838546ccc80" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ga857b26a138f1b15e1bae838546ccc80/project-shark-rigging-and-texturing.html">
+      <file href="ga857b26a138f1b15e1bae838546ccc80/project-shark-rigging-and-texturing.html"/>
+      <file href="ga857b26a138f1b15e1bae838546ccc80/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g764a5eea13b563bf8db79187cf4e108e" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g764a5eea13b563bf8db79187cf4e108e/roll-call-attendance.html">
+      <file href="g764a5eea13b563bf8db79187cf4e108e/roll-call-attendance.html"/>
+      <file href="g764a5eea13b563bf8db79187cf4e108e/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g4edc57bfd5414a49559de17fed397b7b" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g4edc57bfd5414a49559de17fed397b7b/sculpting-in-blender-using-vdm-brushes.html">
+      <file href="g4edc57bfd5414a49559de17fed397b7b/sculpting-in-blender-using-vdm-brushes.html"/>
+      <file href="g4edc57bfd5414a49559de17fed397b7b/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="ge6325a6b2c0c7091135a3db941793d49" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ge6325a6b2c0c7091135a3db941793d49/shark-underwater-environment.html">
+      <file href="ge6325a6b2c0c7091135a3db941793d49/shark-underwater-environment.html"/>
+      <file href="ge6325a6b2c0c7091135a3db941793d49/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gf85927e08b8b4b7d80af7ed991fdf1d2" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gf85927e08b8b4b7d80af7ed991fdf1d2/simulation-modeling-cloth-and-spline.html">
+      <file href="gf85927e08b8b4b7d80af7ed991fdf1d2/simulation-modeling-cloth-and-spline.html"/>
+      <file href="gf85927e08b8b4b7d80af7ed991fdf1d2/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="ge9c4386baf42c0c75fecf6a5feb099a1" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ge9c4386baf42c0c75fecf6a5feb099a1/simulation-modeling-cloth-pants-and-shirts.html">
+      <file href="ge9c4386baf42c0c75fecf6a5feb099a1/simulation-modeling-cloth-pants-and-shirts.html"/>
+      <file href="ge9c4386baf42c0c75fecf6a5feb099a1/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gbc960dd32c9dcd0b24640f7b197a6d57" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gbc960dd32c9dcd0b24640f7b197a6d57/simulation-modeling-fracture-and-art-directing-a-simulation.html">
+      <file href="gbc960dd32c9dcd0b24640f7b197a6d57/simulation-modeling-fracture-and-art-directing-a-simulation.html"/>
+      <file href="gbc960dd32c9dcd0b24640f7b197a6d57/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="ge048d8fbacd8279b9cf48c2d99e953d5" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ge048d8fbacd8279b9cf48c2d99e953d5/simulation-modeling-particles-and-cloth.html">
+      <file href="ge048d8fbacd8279b9cf48c2d99e953d5/simulation-modeling-particles-and-cloth.html"/>
+      <file href="ge048d8fbacd8279b9cf48c2d99e953d5/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g4083a89420827c771d991647fd11793f" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g4083a89420827c771d991647fd11793f/simulation-modeling-rigid-bodies.html">
+      <file href="g4083a89420827c771d991647fd11793f/simulation-modeling-rigid-bodies.html"/>
+      <file href="g4083a89420827c771d991647fd11793f/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g6fcf5a18ed7ab697673e5a5ff81ca410" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g6fcf5a18ed7ab697673e5a5ff81ca410/simulation-modeling-soft-bodies-splines-and-colliders.html">
+      <file href="g6fcf5a18ed7ab697673e5a5ff81ca410/simulation-modeling-soft-bodies-splines-and-colliders.html"/>
+      <file href="g6fcf5a18ed7ab697673e5a5ff81ca410/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gdce0106305f38d2c9cce15397fb90ce1" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gdce0106305f38d2c9cce15397fb90ce1/simulation-modeling-soft-body-physics-simulated-cloth-workflow-introduction-to-unreal-engine.html">
+      <file href="gdce0106305f38d2c9cce15397fb90ce1/simulation-modeling-soft-body-physics-simulated-cloth-workflow-introduction-to-unreal-engine.html"/>
+      <file href="gdce0106305f38d2c9cce15397fb90ce1/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gb8b2d2c9670bcd4b9a0176ebcf9b00f1" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gb8b2d2c9670bcd4b9a0176ebcf9b00f1/simulation-modeling-soft-body-simulations.html">
+      <file href="gb8b2d2c9670bcd4b9a0176ebcf9b00f1/simulation-modeling-soft-body-simulations.html"/>
+      <file href="gb8b2d2c9670bcd4b9a0176ebcf9b00f1/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g16c55047b2988974d0eea6f5016e9031" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g16c55047b2988974d0eea6f5016e9031/simulation-reel-rendered-in-red-shift.html">
+      <file href="g16c55047b2988974d0eea6f5016e9031/simulation-reel-rendered-in-red-shift.html"/>
+      <file href="g16c55047b2988974d0eea6f5016e9031/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g1f44f41c19846de5ec39db09e3c92d9f" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g1f44f41c19846de5ec39db09e3c92d9f/spaceship-design-brief.html">
+      <file href="g1f44f41c19846de5ec39db09e3c92d9f/spaceship-design-brief.html"/>
+      <file href="g1f44f41c19846de5ec39db09e3c92d9f/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g2d614e84e57b68f05f14c77a1ca278e9" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g2d614e84e57b68f05f14c77a1ca278e9/student-class-evaluations.html">
+      <file href="g2d614e84e57b68f05f14c77a1ca278e9/student-class-evaluations.html"/>
+      <file href="g2d614e84e57b68f05f14c77a1ca278e9/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g2c2e344adddef0ec633a3feae75b8f57" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g2c2e344adddef0ec633a3feae75b8f57/substance-painter-advanced-techniques.html">
+      <file href="g2c2e344adddef0ec633a3feae75b8f57/substance-painter-advanced-techniques.html"/>
+      <file href="g2c2e344adddef0ec633a3feae75b8f57/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g194311cfe26259d95b56c7e23dea548a" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g194311cfe26259d95b56c7e23dea548a/substance-painter-advanced-brush-generation-techniques.html">
+      <file href="g194311cfe26259d95b56c7e23dea548a/substance-painter-advanced-brush-generation-techniques.html"/>
+      <file href="g194311cfe26259d95b56c7e23dea548a/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gc7b0463b86d08fbccd5fe52d5704f763" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gc7b0463b86d08fbccd5fe52d5704f763/substance-sampler-atlas-creation.html">
+      <file href="gc7b0463b86d08fbccd5fe52d5704f763/substance-sampler-atlas-creation.html"/>
+      <file href="gc7b0463b86d08fbccd5fe52d5704f763/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gb8f04606e90fd3c93146d60e375e349c" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gb8f04606e90fd3c93146d60e375e349c/substance-sampler-creating-your-own-substances.html">
+      <file href="gb8f04606e90fd3c93146d60e375e349c/substance-sampler-creating-your-own-substances.html"/>
+      <file href="gb8f04606e90fd3c93146d60e375e349c/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g1ec3b8159b521791cd1d15a8d340cfbe" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g1ec3b8159b521791cd1d15a8d340cfbe/substance-sampler-creating-your-own-substances-using-them-in-unreal-engine.html">
+      <file href="g1ec3b8159b521791cd1d15a8d340cfbe/substance-sampler-creating-your-own-substances-using-them-in-unreal-engine.html"/>
+      <file href="g1ec3b8159b521791cd1d15a8d340cfbe/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gf62dafb723263d07744f2a840336bd53" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gf62dafb723263d07744f2a840336bd53/symmetry-improvements-wire-rig-with-dynamics-introduction-to-sculpting.html">
+      <file href="gf62dafb723263d07744f2a840336bd53/symmetry-improvements-wire-rig-with-dynamics-introduction-to-sculpting.html"/>
+      <file href="gf62dafb723263d07744f2a840336bd53/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g8da1023160519a146c203ce5015a86af" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g8da1023160519a146c203ce5015a86af/technology-login-challenge-1-hr.html">
+      <file href="g8da1023160519a146c203ce5015a86af/technology-login-challenge-1-hr.html"/>
+      <file href="g8da1023160519a146c203ce5015a86af/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g595c1c6fac98690b9eeadfe1305d3c65" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g595c1c6fac98690b9eeadfe1305d3c65/uv-unwrap-and-paint-the-kit-bash-pieces.html">
+      <file href="g595c1c6fac98690b9eeadfe1305d3c65/uv-unwrap-and-paint-the-kit-bash-pieces.html"/>
+      <file href="g595c1c6fac98690b9eeadfe1305d3c65/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g1a474fcbb29d3c8d0bfa7d3695acd8c8" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g1a474fcbb29d3c8d0bfa7d3695acd8c8/vehicle-modeling-reference.html">
+      <file href="g1a474fcbb29d3c8d0bfa7d3695acd8c8/vehicle-modeling-reference.html"/>
+      <file href="g1a474fcbb29d3c8d0bfa7d3695acd8c8/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g4b3c7eb635b9a384c4b74589f2bd56d2" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g4b3c7eb635b9a384c4b74589f2bd56d2/shark-uv.html">
+      <file href="g4b3c7eb635b9a384c4b74589f2bd56d2/shark-uv.html"/>
+      <file href="g4b3c7eb635b9a384c4b74589f2bd56d2/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="geebf8173f7bb1cf89987d3d5b1e74eb3" type="imsdt_xmlv1p1">
+      <file href="geebf8173f7bb1cf89987d3d5b1e74eb3.xml"/>
+      <dependency identifierref="g731ce5f1d329d88df1e965eb31ff9098"/>
+    </resource>
+    <resource identifier="g731ce5f1d329d88df1e965eb31ff9098" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g731ce5f1d329d88df1e965eb31ff9098.xml">
+      <file href="g731ce5f1d329d88df1e965eb31ff9098.xml"/>
+    </resource>
+    <resource identifier="gc83a088f3bbc2a97ceed6a8f2f138d9c" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="gc83a088f3bbc2a97ceed6a8f2f138d9c/assessment_qti.xml"/>
+      <dependency identifierref="gb805775e86b5bbe3a317bbe5f743a722"/>
+    </resource>
+    <resource identifier="gb805775e86b5bbe3a317bbe5f743a722" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gc83a088f3bbc2a97ceed6a8f2f138d9c/assessment_meta.xml">
+      <file href="gc83a088f3bbc2a97ceed6a8f2f138d9c/assessment_meta.xml"/>
+      <file href="non_cc_assessments/gc83a088f3bbc2a97ceed6a8f2f138d9c.xml.qti"/>
+    </resource>
+    <resource identifier="gf0043df208a1468212008b037cb83f74" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/gf0043df208a1468212008b037cb83f74.xml.qti">
+      <file href="non_cc_assessments/gf0043df208a1468212008b037cb83f74.xml.qti"/>
+    </resource>
+    <resource type="webcontent" identifier="g0ef2f1a30013ed8ff10be2958c50ab15" href="web_resources/Screen Shot 2016-01-08 at 11.19.38 AM.png">
+      <file href="web_resources/Screen Shot 2016-01-08 at 11.19.38 AM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g63289eca438d2587e0d756d7f77a9b00" href="web_resources/object1.png">
+      <file href="web_resources/object1.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g4a46e11d47eda9ce804e0402350112d8" href="web_resources/object2.png">
+      <file href="web_resources/object2.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g57f61fef8d78fc0c35964c4f5c7ebc21" href="web_resources/object3.png">
+      <file href="web_resources/object3.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gc05c072172329d08d400215b27f1dfeb" href="web_resources/object4.png">
+      <file href="web_resources/object4.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ga4bc4d8d006e390d54838957a39eea5c" href="web_resources/object5.png">
+      <file href="web_resources/object5.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g278ecafb14393c775bc1d5f80d48a86a" href="web_resources/Screen Shot 2016-01-08 at 1.16.17 PM.png">
+      <file href="web_resources/Screen Shot 2016-01-08 at 1.16.17 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ge84a52dffb006c1595f0ff14e0e573ec" href="web_resources/Screen Shot 2016-01-08 at 1.19.02 PM.png">
+      <file href="web_resources/Screen Shot 2016-01-08 at 1.19.02 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g2f07f44f953814ffa957338f5f094c6a" href="web_resources/Screen Shot 2016-01-08 at 1.20.43 PM.png">
+      <file href="web_resources/Screen Shot 2016-01-08 at 1.20.43 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gee95cc3618b1a9d63f2257af6ec1bbef" href="web_resources/modeling format example.c4d">
+      <file href="web_resources/modeling format example.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="gedd6990cac25536f4c20157c06bd3e2f" href="web_resources/Chess_pawn1.jpg">
+      <file href="web_resources/Chess_pawn1.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gd23060fcd6f09165b29aec270361edde" href="web_resources/Screen Shot 2016-01-08 at 1.46.12 PM.png">
+      <file href="web_resources/Screen Shot 2016-01-08 at 1.46.12 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g067b97a6522cc2830408893aaf99f537" href="web_resources/chapters_3_4.pdf">
+      <file href="web_resources/chapters_3_4.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gd502105fa292d12b8c93700d342c56d5" href="web_resources/Screen Shot 2016-01-08 at 12.19.18 PM.png">
+      <file href="web_resources/Screen Shot 2016-01-08 at 12.19.18 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gfeeede4db81216b25929d5e934931bbb" href="web_resources/Screen Shot 2016-01-08 at 2.25.34 PM.png">
+      <file href="web_resources/Screen Shot 2016-01-08 at 2.25.34 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ga1fc6d7f0d8b92b6d74eba4ff4e3ff23" href="web_resources/Official-company-logo-for-lynda.com_400x400px.png">
+      <file href="web_resources/Official-company-logo-for-lynda.com_400x400px.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g40d4aa6e13260d8af9bb20940b6757fa" href="web_resources/dropbox.png">
+      <file href="web_resources/dropbox.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g7a6d7abb22ad7fad2a471130d98dcbf9" href="web_resources/96fcd8e0a0e1cfa5d8b6ec04c3e2958c.gif">
+      <file href="web_resources/96fcd8e0a0e1cfa5d8b6ec04c3e2958c.gif"/>
+    </resource>
+    <resource type="webcontent" identifier="g2addd0122013a13e1529d0b66230fc49" href="web_resources/shuttle_plans.jpg">
+      <file href="web_resources/shuttle_plans.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g1a4307c36be4a27c8b1147f77a0fdc45" href="web_resources/Screen Shot 2013-10-16 at 7.11.52 PM.png">
+      <file href="web_resources/Screen Shot 2013-10-16 at 7.11.52 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g7cba2133f49cd4ef31f2097e2b97caf4" href="web_resources/Screen Shot 2013-11-04 at 4.50.44 PM.png">
+      <file href="web_resources/Screen Shot 2013-11-04 at 4.50.44 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gbb34fda3748d2473073e9035c14b4138" href="web_resources/Screen Shot 2013-11-04 at 4.53.08 PM.png">
+      <file href="web_resources/Screen Shot 2013-11-04 at 4.53.08 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g20f4670798bf3045f79a320d675fef0f" href="web_resources/Screen Shot 2015-11-04 at 8.58.47 PM.png">
+      <file href="web_resources/Screen Shot 2015-11-04 at 8.58.47 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g0f5151df24a397018baa08f1a2282ab2" href="web_resources/Screen Shot 2015-11-04 at 8.58.37 PM.png">
+      <file href="web_resources/Screen Shot 2015-11-04 at 8.58.37 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g0c3c844ced38dfa85d53cacbe350ad36" href="web_resources/Screenshot 2016-01-08 23.40.07.png">
+      <file href="web_resources/Screenshot 2016-01-08 23.40.07.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g912a44b2e67c35a443c9a18c99272cd2" href="web_resources/art 185 spring 2016-4.pdf">
+      <file href="web_resources/art 185 spring 2016-4.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gead500befd2b83575c12093dc9006b66" href="web_resources/student_destroyer_001.zip">
+      <file href="web_resources/student_destroyer_001.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g9e89745db236a870edf8183f1aae5588" href="web_resources/warpship.zip">
+      <file href="web_resources/warpship.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g37d52d776f1b2e33eb027974116fac6d" href="web_resources/art 185 spring 2017.pdf">
+      <file href="web_resources/art 185 spring 2017.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g187a2b9d38a35616ed8931cbc10876ff" href="web_resources/black-chess-pieces-silhouette-hi.png">
+      <file href="web_resources/black-chess-pieces-silhouette-hi.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gd2ed012900fcf1cca8b2dd41ab27ce94" href="web_resources/art 185 spring 2018.pdf">
+      <file href="web_resources/art 185 spring 2018.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="ge552d6728c5e512d2b188500ada38ddc" href="web_resources/d9925b329bc24996ac3520a2cd12104c--design-portfolios.jpg">
+      <file href="web_resources/d9925b329bc24996ac3520a2cd12104c--design-portfolios.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gf1bbfbaa7dad7fe03c55d8c7b67ac3b4" href="web_resources/Citroen-ds-blueprints-cgfrog_com_9.png">
+      <file href="web_resources/Citroen-ds-blueprints-cgfrog_com_9.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g13394937d99786907e1f40394b6d7199" href="web_resources/Platonic-1.jpg">
+      <file href="web_resources/Platonic-1.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gdc2a42609b52a3369f4aa3fc47c0ccee" href="web_resources/Screen Shot 2018-03-27 at 12.12.47 PM.png">
+      <file href="web_resources/Screen Shot 2018-03-27 at 12.12.47 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g32afea53d80fbe7490cd5e1f4a734c15" href="web_resources/Screen Shot 2018-03-27 at 12.12.47 PM-1.png">
+      <file href="web_resources/Screen Shot 2018-03-27 at 12.12.47 PM-1.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ge1ba391dcd81d6753a28280ea1a19b44" href="web_resources/logo-rgb-gcc.eps">
+      <file href="web_resources/logo-rgb-gcc.eps"/>
+    </resource>
+    <resource type="webcontent" identifier="g5e0ae7696e3a26512a40b1fb859d34cf" href="web_resources/Award_Design_0005.c4d">
+      <file href="web_resources/Award_Design_0005.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="g833ab67031b21f13460364cef4883b62" href="web_resources/Award_Design_0005-1.c4d">
+      <file href="web_resources/Award_Design_0005-1.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="g9b36e11e7e1187d1c5f352f636d400ea" href="web_resources/ART 185 fall 2019.pdf">
+      <file href="web_resources/ART 185 fall 2019.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g4f7cf3035fbb784ee90d59c122543296" href="web_resources/forest.PNG">
+      <file href="web_resources/forest.PNG"/>
+    </resource>
+    <resource type="webcontent" identifier="g49220e4eddec22ecda01edc9c5f7e2d0" href="web_resources/forest starting_0001.c4d">
+      <file href="web_resources/forest starting_0001.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="g918c447439726c983814cf669c08f565" href="web_resources/forest starting_0002.c4d">
+      <file href="web_resources/forest starting_0002.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="gb2ca3f3eb1d476c6f42f585ce7475a0f" href="web_resources/rope lights_0001.c4d">
+      <file href="web_resources/rope lights_0001.c4d"/>
+    </resource>
+    <resource type="webcontent" identifier="g7957b57fd77dcb77a83dc80a26e44f43" href="web_resources/C4D material examples.zip">
+      <file href="web_resources/C4D material examples.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="gf549e450520248ee4453c7c05e58bed5" href="web_resources/(Disc 4) 03 - Einstein on the Beach_ Einstein on the Beach_ Act IV, Scene 3 - Spaceship.mp3">
+      <file href="web_resources/(Disc 4) 03 - Einstein on the Beach_ Einstein on the Beach_ Act IV, Scene 3 - Spaceship.mp3"/>
+    </resource>
+    <resource type="webcontent" identifier="g0cc061c1aa201b507b44e5f33e092a81" href="web_resources/(Disc 4) 02 - Einstein on the Beach_ Act IV, Scene 2 - Bed.mp3">
+      <file href="web_resources/(Disc 4) 02 - Einstein on the Beach_ Act IV, Scene 2 - Bed.mp3"/>
+    </resource>
+    <resource type="webcontent" identifier="gaa9481ebe050049a73e048aa66b434d4" href="web_resources/(Disc 3) 02 - Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Act III, Scene 2 - Dance 2 _Field with Spaceship_.mp3">
+      <file href="web_resources/(Disc 3) 02 - Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Act III, Scene 2 - Dance 2 _Field with Spaceship_.mp3"/>
+    </resource>
+    <resource type="webcontent" identifier="gb43effd5b4202e458887fb7f478ef413" href="web_resources/(Disc 3) 01 - Einstein on the Beach_ Act III, Scene 1 - Trail _ Prison.mp3">
+      <file href="web_resources/(Disc 3) 01 - Einstein on the Beach_ Act III, Scene 1 - Trail _ Prison.mp3"/>
+    </resource>
+    <resource type="webcontent" identifier="g37b11b03116401b8fb723bf77dba57d2" href="web_resources/(Disc 2) 03 - Einstein on the Beach_ Act II, Scene 2 - Night Train (3).mp3">
+      <file href="web_resources/(Disc 2) 03 - Einstein on the Beach_ Act II, Scene 2 - Night Train (3).mp3"/>
+    </resource>
+    <resource type="webcontent" identifier="g8db3aa99ea8858c0e1d80a078cec34f4" href="web_resources/02 - Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Act I, Scene 1 - Train (3).mp3">
+      <file href="web_resources/02 - Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Act I, Scene 1 - Train (3).mp3"/>
+    </resource>
+    <resource type="webcontent" identifier="g4e360a1527c2ad9345211a39da8114b4" href="web_resources/03 - Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Act I, Scene 2 - Trail (3).mp3">
+      <file href="web_resources/03 - Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Act I, Scene 2 - Trail (3).mp3"/>
+    </resource>
+    <resource type="webcontent" identifier="g999af786c587efa3be12d9d77c4b5299" href="web_resources/(Disc 2) 02 - Einstein on the Beach_ Act II, Scene 1 - Dance 1 _Field with Spaceship_ (2).mp3">
+      <file href="web_resources/(Disc 2) 02 - Einstein on the Beach_ Act II, Scene 1 - Dance 1 _Field with Spaceship_ (2).mp3"/>
+    </resource>
+    <resource type="webcontent" identifier="g78d09c52ff1e12cc3b8f8543097db018" href="web_resources/02 - Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Act I, Scene 1 - Train (2).mp3">
+      <file href="web_resources/02 - Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Act I, Scene 1 - Train (2).mp3"/>
+    </resource>
+    <resource type="webcontent" identifier="gedfc6f6b217eae6f5b657055cd81a9e1" href="web_resources/03 - Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Act I, Scene 2 - Trail (2).mp3">
+      <file href="web_resources/03 - Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Einstein on the Beach_ Act I, Scene 2 - Trail (2).mp3"/>
+    </resource>
+    <resource type="webcontent" identifier="g65b670cd731d3289420c02753d466373" href="web_resources/ForceRenderRate.cs">
+      <file href="web_resources/ForceRenderRate.cs"/>
+    </resource>
+    <resource type="webcontent" identifier="ge5d283b7c119feb7a69dbe9c393586eb" href="web_resources/AnimationSpeed.cs">
+      <file href="web_resources/AnimationSpeed.cs"/>
+    </resource>
+    <resource type="webcontent" identifier="g6e258dea6b28113dd60018c06aeea782" href="web_resources/cameraControls.cs">
+      <file href="web_resources/cameraControls.cs"/>
+    </resource>
+    <resource type="webcontent" identifier="ga74da0fff6db79bc301ebbfb081a45f1" href="web_resources/casey space.mp4">
+      <file href="web_resources/casey space.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="gdd0ac002c6b72eb3657e1d7c16312f61" href="web_resources/toggleState.cs">
+      <file href="web_resources/toggleState.cs"/>
+    </resource>
+    <resource type="webcontent" identifier="g9ecb72a8d4737931386e17454409e8df" href="web_resources/toggleRotation.cs">
+      <file href="web_resources/toggleRotation.cs"/>
+    </resource>
+    <resource type="webcontent" identifier="g64f14279328cfa2f6278a617b76d3f69" href="web_resources/toggleNoise.cs">
+      <file href="web_resources/toggleNoise.cs"/>
+    </resource>
+    <resource type="webcontent" identifier="g7312a126ef80d0af3aeb1e9b8f36ba8f" href="web_resources/Perlin.cs">
+      <file href="web_resources/Perlin.cs"/>
+    </resource>
+    <resource type="webcontent" identifier="gcb0f38fd2aa72d5925edbdb964627e39" href="web_resources/toggleOrbit.cs">
+      <file href="web_resources/toggleOrbit.cs"/>
+    </resource>
+    <resource type="webcontent" identifier="gab6a4ffd212a6478512529ae266bd6c2" href="web_resources/russian helicopters.jpg">
+      <file href="web_resources/russian helicopters.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g602d9e667e6cf7fdb8b12b979c0790c6" href="web_resources/FilterSwitch.zip">
+      <file href="web_resources/FilterSwitch.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g1679321457a62c0aa260bb36d34f9769" href="web_resources/bouncing ball final farina_1.gif">
+      <file href="web_resources/bouncing ball final farina_1.gif"/>
+    </resource>
+    <resource type="webcontent" identifier="g3857a0223de38ac7126c7094751c3e3a" href="web_resources/cupcake.gif">
+      <file href="web_resources/cupcake.gif"/>
+    </resource>
+    <resource type="webcontent" identifier="gc3b25b77e5bc7f646e1f001254bfab12" href="web_resources/slack.png">
+      <file href="web_resources/slack.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gcff7e705b48e31a31b6c5a0b85aaf3c7" href="web_resources/linkedin learning.jpg">
+      <file href="web_resources/linkedin learning.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gad39e475849b94bb195c19eaf638d4a3" href="web_resources/768px-Google_Hangouts_Meet_icon.png">
+      <file href="web_resources/768px-Google_Hangouts_Meet_icon.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g912e66cb6ea48045372d687b48f931e1" href="web_resources/linkeding learning login.jpg">
+      <file href="web_resources/linkeding learning login.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g1cdc0e73503da539634c0c556697699b" href="web_resources/adobe login.jpg">
+      <file href="web_resources/adobe login.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gea3106c88ea9b7a39985c26a8f073e66" href="web_resources/Student Adobe At Home Instructions.mp4">
+      <file href="web_resources/Student Adobe At Home Instructions.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g7ad112cab30db22fd88e420c982b1356" href="web_resources/vimeo sign up.jpg">
+      <file href="web_resources/vimeo sign up.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g2227a0da25c996212e5834364df5ea00" href="web_resources/gcc animation showcase.jpg">
+      <file href="web_resources/gcc animation showcase.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gddcc5434f4a8f6cccb0787b3de1afaae" href="web_resources/colorscope gcc az.jpg">
+      <file href="web_resources/colorscope gcc az.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gc165129b6c4aa60ca3227b8fa5a4ad4d" href="web_resources/unity hub screenshot.jpg">
+      <file href="web_resources/unity hub screenshot.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g5b323e7dcb7f7f8142ad21c617ac21d4" href="web_resources/ART 185 3D Modeling for Animation I 11026 Syllabus Fall 2020.pdf">
+      <file href="web_resources/ART 185 3D Modeling for Animation I 11026 Syllabus Fall 2020.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gddd1a5a6abb8c00331924f4223bd7096" href="web_resources/ART 285 3D Modeling for Animation II 39920 Syllabus Fall 2020.pdf">
+      <file href="web_resources/ART 285 3D Modeling for Animation II 39920 Syllabus Fall 2020.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g9d1a6d0fc92e0511eec352276e847d5f" href="web_resources/c4d review.jpg">
+      <file href="web_resources/c4d review.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g7774da31bbdda8dd6d0ed5859ea4f70d" href="web_resources/Uploaded Media/ART 285 3D Modeling and Animation II 35312 Syllabus Spring 2022.pdf">
+      <file href="web_resources/Uploaded Media/ART 285 3D Modeling and Animation II 35312 Syllabus Spring 2022.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g4996200f8166e8cd0f686a325cad79ff" href="web_resources/Uploaded Media/current state to object.jpg">
+      <file href="web_resources/Uploaded Media/current state to object.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gdce5d0c6d028a4bb735247990be5baa8" href="web_resources/Uploaded Media/Fall 2022 ART 285 3D Modeling and Animation II  13376 36232 36233 Syllabus .pdf">
+      <file href="web_resources/Uploaded Media/Fall 2022 ART 285 3D Modeling and Animation II  13376 36232 36233 Syllabus .pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gbdb02acd26f2d37d07785683290b68be" href="web_resources/Uploaded Media/Spring 2023 ART 285 3D Modeling and Animation II  34525 34536 34545 Syllabus .pdf">
+      <file href="web_resources/Uploaded Media/Spring 2023 ART 285 3D Modeling and Animation II  34525 34536 34545 Syllabus .pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gb9837ffd818a19bc7060df57b0ba1029" href="web_resources/Uploaded Media/Rigid Body Physics Examples.zip">
+      <file href="web_resources/Uploaded Media/Rigid Body Physics Examples.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g074949f6836f0eb4a2593c70b13c52db" href="web_resources/Uploaded Media/Rigid Body Physics Examples.mp4">
+      <file href="web_resources/Uploaded Media/Rigid Body Physics Examples.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="gc14cc9ac3e7dce9bdd0dce67d1ad40da" href="web_resources/Uploaded Media/kitbaash parts.jpg">
+      <file href="web_resources/Uploaded Media/kitbaash parts.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="ge5c154a58b7dabfca8fef5e9046a1dcf" href="web_resources/Uploaded Media/foam pit .jpg">
+      <file href="web_resources/Uploaded Media/foam pit .jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="ge97dde9b34dbe41bc5921ad68bd79eb0" href="web_resources/Uploaded Media/jena.jpg">
+      <file href="web_resources/Uploaded Media/jena.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g180be3313fae7d0ae3e37135b4327fd4" href="web_resources/Uploaded Media/2023-02-02 09_00_37-Cinema 4D 2023.1.3 (Student License - Non-Commercial License for Casey Farina) -.png">
+      <file href="web_resources/Uploaded Media/2023-02-02 09_00_37-Cinema 4D 2023.1.3 (Student License - Non-Commercial License for Casey Farina) -.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g811f2c71fe29c06745b6b9ab5152bf77" href="web_resources/Uploaded Media/tentacle project.zip">
+      <file href="web_resources/Uploaded Media/tentacle project.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="ge5988b9f95474e8ee93db8de2329db2e" href="web_resources/Uploaded Media/tentacle race_small.mp4">
+      <file href="web_resources/Uploaded Media/tentacle race_small.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g1289ce80a587399f0bac71223cbdfac4" href="web_resources/Uploaded Media/material photos.zip">
+      <file href="web_resources/Uploaded Media/material photos.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g849dd613d8d3fc18d7870b481d624b25" href="web_resources/Uploaded Media/farina stone path .png">
+      <file href="web_resources/Uploaded Media/farina stone path .png"/>
+    </resource>
+    <resource type="webcontent" identifier="g924cec45b5bb8f4fe1024e32c5dea593" href="web_resources/Uploaded Media/mat atlas.jpg">
+      <file href="web_resources/Uploaded Media/mat atlas.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g6e35353fabae11250e4b0fcd2a9cadcc" href="web_resources/Uploaded Media/bevelClean.zip">
+      <file href="web_resources/Uploaded Media/bevelClean.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="gc346ee578fdc3250ac7f69d0794d30d8" href="web_resources/Uploaded Media/bevelClean-1.zip">
+      <file href="web_resources/Uploaded Media/bevelClean-1.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="g47fb204683a0eb2f8d611316e8cc04a8" href="web_resources/Uploaded Media/circlePolygonExtruder (1).zip">
+      <file href="web_resources/Uploaded Media/circlePolygonExtruder (1).zip"/>
+    </resource>
+    <resource type="webcontent" identifier="ga236709ed71cb4d4e781c434a91b1af9" href="web_resources/Uploaded Media/image.png">
+      <file href="web_resources/Uploaded Media/image.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gb06f99487e6c581c5670f8e41871b2e6" href="web_resources/Uploaded Media/redshift template-20221110T224712Z-001.zip">
+      <file href="web_resources/Uploaded Media/redshift template-20221110T224712Z-001.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="gc0b5d5903b1ca3962b534c1284544d3c" href="web_resources/Uploaded Media/image-1.png">
+      <file href="web_resources/Uploaded Media/image-1.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gea9bc9d094b9e0fb12022ec1b7bc52ad" href="web_resources/Uploaded Media/image-2.png">
+      <file href="web_resources/Uploaded Media/image-2.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g9a2a26192e6cb55f225fa402d6306e04" href="web_resources/Uploaded Media/image-3.png">
+      <file href="web_resources/Uploaded Media/image-3.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g88fbc3e0d88585c6350db0150dd61c21" href="web_resources/Uploaded Media/image-4.png">
+      <file href="web_resources/Uploaded Media/image-4.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ga5531721c29d3dffec198572390d7b10" href="web_resources/Uploaded Media/image-5.png">
+      <file href="web_resources/Uploaded Media/image-5.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g906dbff0dd94f3a8365ef12078706ef2" href="web_resources/Uploaded Media/image-6.png">
+      <file href="web_resources/Uploaded Media/image-6.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g0ccb11de91673edd068b380c7f633a58" href="web_resources/Uploaded Media/image-7.png">
+      <file href="web_resources/Uploaded Media/image-7.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g77553db3b7ea2e2d6825e8f1279ea01c" href="web_resources/Uploaded Media/image-bafd179e-0069-4e93-9032-e1c85e71d4a4.png">
+      <file href="web_resources/Uploaded Media/image-bafd179e-0069-4e93-9032-e1c85e71d4a4.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gfceb360f48724171bdcde11c62078337" href="web_resources/Uploaded Media/image-7a5d30d4-8a42-483d-b515-85d9e3990084.png">
+      <file href="web_resources/Uploaded Media/image-7a5d30d4-8a42-483d-b515-85d9e3990084.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g38861445d646e4ebf0995af901d55cf6" href="web_resources/Uploaded Media/rock_wall_08_diff_2k.jpg">
+      <file href="web_resources/Uploaded Media/rock_wall_08_diff_2k.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gd1815b5476f76bf05b4c2d525f48ba34" href="web_resources/Uploaded Media/rock_wall_08_diff_2k-1.jpg">
+      <file href="web_resources/Uploaded Media/rock_wall_08_diff_2k-1.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g8fd91a6fec497d70a2bdcb45f89c4abb" href="web_resources/Uploaded Media/image-25d473a0-0532-44a8-9a66-8a28119fc4c2.png">
+      <file href="web_resources/Uploaded Media/image-25d473a0-0532-44a8-9a66-8a28119fc4c2.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gf58d9e7c4078f3418b2c8ed83121aecb" href="web_resources/Uploaded Media/image-bb92e916-d660-4582-bd2e-322ac5ddbd01.png">
+      <file href="web_resources/Uploaded Media/image-bb92e916-d660-4582-bd2e-322ac5ddbd01.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g3e0ce7e3f7ac91278da961b797063fed" href="web_resources/Uploaded Media/image-db1ea837-64a5-4cba-8907-b3bcb7ecb7db.png">
+      <file href="web_resources/Uploaded Media/image-db1ea837-64a5-4cba-8907-b3bcb7ecb7db.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g9e40d9c1b09006523a1d68ddaee23af4" href="web_resources/Uploaded Media/image-14bdf585-6649-4d3b-9e66-0ad1f130cfff.png">
+      <file href="web_resources/Uploaded Media/image-14bdf585-6649-4d3b-9e66-0ad1f130cfff.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g0524524fc58e93395a76bf8b22eecfb0" href="web_resources/Uploaded Media/image-977fdfe4-f35d-4ef7-9617-26ce4b4ddcfa.png">
+      <file href="web_resources/Uploaded Media/image-977fdfe4-f35d-4ef7-9617-26ce4b4ddcfa.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g9443ef1cfc7f6e2105774b197ac881a0" href="web_resources/Uploaded Media/image-6808d2e0-472b-438b-9316-d31f0d17ac44.png">
+      <file href="web_resources/Uploaded Media/image-6808d2e0-472b-438b-9316-d31f0d17ac44.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gca6b15b41fc97edf83c60f0c54e03925" href="web_resources/Uploaded Media/image-1fb97dc4-97c6-497c-98c1-a76d50e4c7f3.png">
+      <file href="web_resources/Uploaded Media/image-1fb97dc4-97c6-497c-98c1-a76d50e4c7f3.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g7b9f226f8e43a9008b30b33febbc2e11" href="web_resources/course_image/cinema 4d art 285.jpg">
+      <file href="web_resources/course_image/cinema 4d art 285.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gc3d6629e45b2b4d70b335a3ffc719159" href="web_resources/course_image/cactus photogrammetry.png">
+      <file href="web_resources/course_image/cactus photogrammetry.png"/>
+    </resource>
+  </resources>
+</manifest>

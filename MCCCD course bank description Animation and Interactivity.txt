@@ -1,0 +1,88 @@
+Animation and Interactivity
+Course: AVC200
+
+First Term: 2023 Fall
+Final Term: Current
+Lec + Lab   3.0 Credit(s)   6.0 Period(s)   6.0 Load  
+Subject Type: Occupational
+Load Formula: T - Lab Load
+
+
+Description: Animation and object-oriented programming concepts and techniques using industry standard authoring tools applied by the creative industry to animation productions, and interactive media. Introduction to animation and object- oriented programming concepts and techniques using industry standard authorizing tools. Includes tools used by the creative industry for animation productions and interactive media.
+
+Requisites: Prerequisites: A grade of C or better in AVC100 or permission of Instructor.
+
+
+MCCCD Official Course Competencies
+1. Navigate program interface and tools (I)
+2. Use animation techniques to create linear experiences (II)
+3. Create storyboards, develop concepts, visual style (III)
+4. Use principals of animation (IV)
+5. Create non-linear experiences (V)
+6. Create and use advanced buttons for user input (VI)
+7. Create movie clips, navigate timelines (VII)
+8. Manipulate text and related objects, variables and expressions (VIII)
+9. Use sound in production (IX)
+10. Optimize performance (X)
+11. Distribute various output formats (XI)
+MCCCD Official Course Competencies must be coordinated with the content outline so that each major point in the outline serves one or more competencies. MCCCD faculty retains authority in determining the pedagogical approach, methodology, content sequencing, and assessment metrics for student work. Please see individual course syllabi for additional information, including specific course requirements.
+ 
+MCCCD Official Course Outline
+I. Navigate Interface
+   A. Time based media concepts
+   B. Review of interface
+   C. Review of tools
+II. Linear Experience
+   A. Tweening strategies
+   B. Masking strategies
+   C. Production strategies
+   D. Managing resources
+III. Story Development
+   A. Initiate concepts
+   B. Develop concepts
+   C. Produce storyboards
+   D. Develop consistent visual style
+IV. Animation Principles
+   A. Stretch, squash, anticipation, follow through, overlapping action
+   B. Character development, hinging symbols
+   C. Symbol cycling
+   D. Special effects
+   E. Sound, synchronizing audio
+   F. Camera moves
+   G. Aspect Ratios and Resolution
+   H. Publish, composite, sequence, make movie
+V. Interactivity and Non-Linear experience
+   A. Object oriented programming
+   B. About methods and properties
+   C. Dot notation
+   D. Event, event handlers
+   E. Conditional statements
+VI. Advanced buttons
+   A. Invisible buttons
+   B. Tweening buttons
+   C. Animated buttons and the movie clip symbol
+   D. Button tracking options
+VII. Movie Clips
+   A. Creating and modifying movie clips
+   B. Nesting movie clips
+   C. Navigating timelines
+   D. Boundaries, collisions, detection
+   E. Loading movies, Movies as containers
+   F. Importing video
+VIII. Text
+   A. Static, dynamic, input
+   B. Variables and expressions
+   C. Text effects and animation
+IX. Sound
+   A. Importing sound
+   B. Attaching sound
+   C. Modifying sound
+   D. Managing sound as external files
+X. Optimizing Performance
+   A. Pre-loading
+   B. Organizing production
+   C. Optimizing and compression
+   D. Troubleshooting methods
+XI. Distribution
+   A. Deliverables
+   B. Publishing

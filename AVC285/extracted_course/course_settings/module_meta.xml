@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <module identifier="ge4717e802a0542ee3bf5736f3ee78a19">
+    <title>Course Work</title>
+    <workflow_state>active</workflow_state>
+    <position>1</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="gdb510fcea5f6f7d5ca5cc6e198182f8e">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Syllabus Acknowledgement</title>
+        <identifierref>gc83a088f3bbc2a97ceed6a8f2f138d9c</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc1ecbdd96969485663a5cd316c652552">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Technology Login Challenge (1 hr)</title>
+        <identifierref>g8da1023160519a146c203ce5015a86af</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g6f4f750a9736cad1276044b62bb8e3f0">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Simulation Modeling: Rigid Bodies</title>
+        <identifierref>g4083a89420827c771d991647fd11793f</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g11a653c42d1a4f40454c8a8761c18808">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Simulation Modeling: Particles and Cloth</title>
+        <identifierref>ge048d8fbacd8279b9cf48c2d99e953d5</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g80e288bf17b88067470cfec837ab7018">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Simulation Modeling: Fracture and Art Directing a Simulation</title>
+        <identifierref>gbc960dd32c9dcd0b24640f7b197a6d57</identifierref>
+        <position>5</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gdd44c653b5adc5f639038bbe4f7a5b5b">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Simulation Modeling: Cloth and Spline </title>
+        <identifierref>gf85927e08b8b4b7d80af7ed991fdf1d2</identifierref>
+        <position>6</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g896af8b2111648095abf641f2b6a3b62">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Introduction to TwinMotion and Substance Painter: Transferring Assets</title>
+        <identifierref>gc2fcb240e982d3a17b0aa147afc7ea59</identifierref>
+        <position>7</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge47ff01d662a437aaa108111117326a5">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Simulation Modeling: Soft Body Simulations</title>
+        <identifierref>gb8b2d2c9670bcd4b9a0176ebcf9b00f1</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g642015ac6b35742e7bd8c1588479046d">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Simulation Modeling: Cloth: Pants and Shirts</title>
+        <identifierref>ge9c4386baf42c0c75fecf6a5feb099a1</identifierref>
+        <position>9</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5e2d5a3da9d0c23f20dc05aa9bbe3f47">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Simulation Modeling: Soft Bodies, Splines, and Colliders</title>
+        <identifierref>g6fcf5a18ed7ab697673e5a5ff81ca410</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g132ca47a52207a4e170d5db2c1f17b0a">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Simulation Modeling: Soft Body Physics, Simulated Cloth workflow, Introduction to Unreal Engine</title>
+        <identifierref>gdce0106305f38d2c9cce15397fb90ce1</identifierref>
+        <position>11</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd5e487c6d9b0ba6b44df0019ee58e591">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Simulation Reel: Rendered in Red Shift</title>
+        <identifierref>g16c55047b2988974d0eea6f5016e9031</identifierref>
+        <position>12</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g73683c5f1cd301c9c801863172783f73">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Substance Sampler: Creating your own Substances</title>
+        <identifierref>gb8f04606e90fd3c93146d60e375e349c</identifierref>
+        <position>13</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gdb33928e81201244a607348d4be7a4a6">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Substance Sampler: Creating your own Substances, Using them in Unreal Engine</title>
+        <identifierref>g1ec3b8159b521791cd1d15a8d340cfbe</identifierref>
+        <position>14</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g05602161fe09b90f00b7c74662322450">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Substance Sampler: Atlas Creation </title>
+        <identifierref>gc7b0463b86d08fbccd5fe52d5704f763</identifierref>
+        <position>15</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g97f387a91d1e2abdfe8338b7480d6154">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Photogrammetry: Scanning Reality</title>
+        <identifierref>gdd15fcd37e02f192576cd548540be044</identifierref>
+        <position>16</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5f38e629529fe9ebcae42894b2883132">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Photogrammetry: Scanning Reality, Sequences in Unreal Engine</title>
+        <identifierref>ga7f543d494b6a0543aadb085ad652bb5</identifierref>
+        <position>17</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g163bfe9efd2d63f1112386a20e30f834">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Photogrammetry: Revisions</title>
+        <identifierref>g29b35f43f119930ad36d9887ac03d989</identifierref>
+        <position>18</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g92e0e864a386c0640048e732282acad8">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Substance Painter: Advanced Techniques</title>
+        <identifierref>g2c2e344adddef0ec633a3feae75b8f57</identifierref>
+        <position>19</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gbddd4eae407ca4b9b75e6b9f1fc6eb4d">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Introduction to Sculpting in Blender</title>
+        <identifierref>g9369a10a4f2fb5aa50e742d8653a8157</identifierref>
+        <position>20</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g9ce0c228ddcf267afbf4c56c5f934b7b">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Substance Painter: Advanced brush generation techniques</title>
+        <identifierref>g194311cfe26259d95b56c7e23dea548a</identifierref>
+        <position>21</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc568f2d75d6438d9b0b7585fe452f88e">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Hard Surface Sculpting in Blender,  Advanced Mask Techniques in Substance Painter</title>
+        <identifierref>g2e7b617dae84c28bc7bbd6db429db320</identifierref>
+        <position>22</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g976616bbbfc34e54c7c4458c1c09274d">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Sculpting in Blender: Using VDM brushes</title>
+        <identifierref>g4edc57bfd5414a49559de17fed397b7b</identifierref>
+        <position>23</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g6bd694ad76801cb23378ce8b9a0c068c">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Advance Hard Surface Modeling  to create a Future-Robotic Environment!!!!</title>
+        <identifierref>g5d119f3cc0bd7950fcf254a799e9f867</identifierref>
+        <position>24</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd330169a868e87ef7e1434bacc795265">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Building and Wire/Cable Rig </title>
+        <identifierref>g97080afb08a2a09fc07bf8bc9954f12a</identifierref>
+        <position>25</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g7afb11b99503f00d84133e5422ff5c24">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Painting the Kitbash parts</title>
+        <identifierref>gd786294e86ddcc1a70cd93e07b129563</identifierref>
+        <position>26</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc76318a078e1ceab66d33dc30a9f4bfd">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Forest revisions and substance painter</title>
+        <identifierref>g43551bd59365227f6acb3256e4995579</identifierref>
+        <position>27</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gda20468f8665f1c62531e3b3a0291815">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>UV unwrap and paint the kit bash pieces</title>
+        <identifierref>g595c1c6fac98690b9eeadfe1305d3c65</identifierref>
+        <position>28</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5a2d255b0859c4efe2c10c9af93eeac3">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Symmetry Improvements, Wire Rig with Dynamics, Introduction to sculpting</title>
+        <identifierref>gf62dafb723263d07744f2a840336bd53</identifierref>
+        <position>29</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g179f5c41c8d9f66d8d45c5efc1390282">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Assembling kitbash parts into a scene</title>
+        <identifierref>g0c990a9aa7ff1729035402abe145b280</identifierref>
+        <position>30</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g3520fa5cd5df4f94fd7cbe0aee2b7fd9">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Final Portfolio</title>
+        <identifierref>ga236c6b0309cc4c02655b0fd6cf5b563</identifierref>
+        <position>31</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gbfd91cda8b8b3f884204306228680a40">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Student Class Evaluations</title>
+        <identifierref>g2d614e84e57b68f05f14c77a1ca278e9</identifierref>
+        <position>32</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga006ff73d9616ad5cfdbf77fab6c2291">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Concert Visuals: Philip Glass "Einstein on the Beach"</title>
+        <identifierref>g521709172415c73121698fd367c66138</identifierref>
+        <position>33</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g7dcfe69ef0387103e55b4904fb64cfe9">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Polygon Modeling: Dumbbell and Kettlebell</title>
+        <identifierref>g1b2f348710fc9d840b3c61d22a264576</identifierref>
+        <position>34</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g6d3b8d5c51343153770926e559a4b337">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Four buildings with extrude and inner extrude</title>
+        <identifierref>gf076dcb879d481b008aeec0a6b2d7cee</identifierref>
+        <position>35</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g7fef0c9c9babc47f4b2a6d97502c0b30">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>A guide to deformers in Cinema 4D</title>
+        <identifierref>gcc4966c1351f578dad82babe6ee3a8d7</identifierref>
+        <position>36</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gb1290c248c9d71b46b48ac1668933a8f">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Isometric Islands Models</title>
+        <identifierref>g4dd487b0b58c437e56217eedc42e8c99</identifierref>
+        <position>37</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g1337c9e4853f10d2961a7c50d9a1877c">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Isometric Islands First Draft: Please post scenes as soon as then are ready for quick feedback!</title>
+        <identifierref>geebf8173f7bb1cf89987d3d5b1e74eb3</identifierref>
+        <position>38</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gbb77630a36b28b22e0b915dcc61d103b">
+        <content_type>WikiPage</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>UV Unwrapping in C4D</title>
+        <identifierref>ge9227f0d7877461ec10b619905e81884</identifierref>
+        <position>39</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g3965a6a0a0697e1436e469630f9c1145">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Introduction to Substance Painter: Toy Block</title>
+        <identifierref>g0de12d1e5245aa2fd62283dabd7e6ddf</identifierref>
+        <position>40</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="geaa4accab864265bed0c4cd7ec6b75ca">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Student Class Evaluations</title>
+        <identifierref>g2d614e84e57b68f05f14c77a1ca278e9</identifierref>
+        <position>41</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g341174189228358dce7f0bf99480a148">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Final Kitbash showcase</title>
+        <identifierref>g1dc91bb209e88392e888b332d11212f1</identifierref>
+        <position>42</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="ge715c7798238a5913c1e8c710675f3b8">
+    <title>Isometric Island</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>2</position>
+    <locked>false</locked>
+    <items>
+      <item identifier="g9f535089831ad5fbac53533f5c490c80">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Isometric Islands Models</title>
+        <identifierref>g92d2e2de572a503c8b37aa9974016282</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g825287262e863759ea2a0bd798eb4fca">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Isometric Islands Final</title>
+        <identifierref>g62cbdcfb2cc9462418fc03aa52096638</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g8fd5bc7a5f46a189f7cf5ab33948ad5d">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Box Modeling: Subdivision Surface</title>
+        <identifierref>g881469803650bb63a0a67f358a3cb3cb</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="ga5e936b91d7ef389d22bdbc412f153f5">
+    <title>SpaceShip</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>3</position>
+    <locked>false</locked>
+    <items>
+      <item identifier="g368a789ab9698adaebb57361a30f469d">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Spaceship Design Brief </title>
+        <identifierref>g1f44f41c19846de5ec39db09e3c92d9f</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="g059e21a7e71c12d3cbda0f252f964de5">
+    <title>Interior Scene</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>4</position>
+    <locked>false</locked>
+    <items>
+      <item identifier="gc9f921e8eaf4a96213c64bed43d3b044">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Project: Interior modeling</title>
+        <identifierref>g7dde830499d90f1e13587123e03c098c</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="gd0e3daf496fbec2340776047823919d2">
+    <title>Vehicle Modeling</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>5</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g9b613287149e5eae82e8c8fdb759063a">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Vehicle Modeling Reference</title>
+        <identifierref>g1a474fcbb29d3c8d0bfa7d3695acd8c8</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="g2a2e10dbf6dbcb45c790cb7444b0e15b">
+    <title>Vehicle Modeling</title>
+    <workflow_state>unpublished</workflow_state>
+    <position>6</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+    </items>
+  </module>
+  <module identifier="g8891a92881622f94e85a849bc7b35629">
+    <title>Participation/Community Questions</title>
+    <workflow_state>active</workflow_state>
+    <position>7</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="gd312776442a6f3a74523c5354c0b01e0">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Participation Grade</title>
+        <identifierref>g5c15ccfe5c5c0d2e5dedb3603a2e7b71</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g33524ab8aa91692fb885c7bb14317c98">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Participation Grade</title>
+        <identifierref>gf0d02b099856f697c9df71fdd611a2aa</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g0b6c4af1b79d27fbcb0877feee5e6f86">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Participation Grade</title>
+        <identifierref>g808bfbab40bb0531222e33b417d61047</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd098f6661cc0cdc9ba268a2ee5c3fde9">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Participation Grade</title>
+        <identifierref>ga1b052cb9db60f7a53473a3a1d702d98</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga706777b2328753eb0a958a70141e1b9">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Participation Grade</title>
+        <identifierref>g436565218af50c93d00346285358c9c1</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g68a7a46ae84bd8be5a2b017b84862a68">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>ge5dc9565940cf9bb535450f986d9486e</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gff5bc77951df974371af098631d0c15e">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Community Participation</title>
+        <identifierref>g0ae227a3142fec2b604093545c047974</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc6a0f2c882968115b92af9ecc22ccf43">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Participation Grade</title>
+        <identifierref>g1cf452b95f725db59702fdf9b600927e</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g2336e09ef3e9e73402a0f59c5870abd3">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Participation Grade</title>
+        <identifierref>g73b013cf4ae2b8d29f61ba75682a1977</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g1fd3317c5f8e65a393a4869857a957fa">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Participation Grade</title>
+        <identifierref>gbf55cd19e0a13921657fed0ed6054f9f</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g3a667beb89bf25e9c9fc086c6353eda7">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Participation Grade</title>
+        <identifierref>geb9c35e18f53350a1de38dc20062f925</identifierref>
+        <position>11</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd6e11cf0a2eb733ab9a01b4d0dcdcc24">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Participation Grade</title>
+        <identifierref>gb67c47050c3de621d4a132ba2910f646</identifierref>
+        <position>12</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g0155d595d84d70dca27d09572ecd30e3">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Participation Grade</title>
+        <identifierref>ge4c796baacd25bb52d73f9989d118aca</identifierref>
+        <position>13</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gea6b06c9d19f4a7e9d0f84e4c5c6b1ee">
+        <content_type>Assignment</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Participation Grade</title>
+        <identifierref>g0e8f1c6adcbd647f8d99738919180174</identifierref>
+        <position>14</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+</modules>

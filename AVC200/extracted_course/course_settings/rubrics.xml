@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rubrics xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <rubric identifier="g5605a77dff59aef9af2c8231aa820301">
+    <read_only>false</read_only>
+    <title>Closure Application Rubric (1)</title>
+    <reusable>false</reusable>
+    <public>false</public>
+    <points_possible>100.0</points_possible>
+    <hide_score_total>false</hide_score_total>
+    <free_form_criterion_comments>false</free_form_criterion_comments>
+    <criteria>
+      <criterion>
+        <criterion_id>184165_3061</criterion_id>
+        <points>10.0</points>
+        <description>Introductory Screen/Splash Screen</description>
+        <long_description>An introductory screen that explains the concept of closure as detailed by McCloud.</long_description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>10.0</points>
+            <criterion_id>184165_3061</criterion_id>
+            <id>blank</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>184165_3061</criterion_id>
+            <id>blank_2</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>184165_3784</criterion_id>
+        <points>50.0</points>
+        <description>Closure Examples</description>
+        <long_description>An example for each type of closure that you create. All of the examples should be related by a common theme. You can photograph, draw, or digital create the examples as you see fit. Is your theme a character, environment, location, or style? Or some combination of those elements? When designing your closure examples consider the animation requirement. How could movement enhance this experience? Are all of your example part of the same narrative? Could they all tell a story together?</long_description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>50.0</points>
+            <criterion_id>184165_3784</criterion_id>
+            <id>184165_9085</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>184165_3784</criterion_id>
+            <id>184165_2527</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>184165_2310</criterion_id>
+        <points>5.0</points>
+        <description>Interface Design relates to Content</description>
+        <long_description>The design and appearance of the interface should be related to your chosen theme.</long_description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>5.0</points>
+            <criterion_id>184165_2310</criterion_id>
+            <id>184165_9095</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>184165_2310</criterion_id>
+            <id>184165_1613</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>184165_9975</criterion_id>
+        <points>10.0</points>
+        <description>Color Palette</description>
+        <long_description>The color palette for this project should be completely greyscale plus ONE accent color. Everyone must use Helvetica. Use the font size and weight to communicate hierarchy in the text.</long_description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>10.0</points>
+            <criterion_id>184165_9975</criterion_id>
+            <id>184165_2498</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>184165_9975</criterion_id>
+            <id>184165_5649</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>184165_8262</criterion_id>
+        <points>20.0</points>
+        <description>Animation</description>
+        <long_description>At least three animated elements beyond the interface that enrich the experience. Use the interpolation, random, wave generator, or timeline objects to create some animation in AT LEAST three of the app sections. Please consider adding an animated element to each section. If you are designing your sections in Illustrator or Photoshop save the visual elements you want to move independently as a separate file. You can then modulate the position, color, or opacity of this separate file using the interpolation, random, wave generator, or timeline objects</long_description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>20.0</points>
+            <criterion_id>184165_8262</criterion_id>
+            <id>184165_3198</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>184165_8262</criterion_id>
+            <id>184165_3559</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>184165_9884</criterion_id>
+        <points>5.0</points>
+        <description>Size and Formatting</description>
+        <long_description>Set Quartz Composer to the HD 720 size for this project. Be sure that your slides and scenes occupy the entire frame.</long_description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>5.0</points>
+            <criterion_id>184165_9884</criterion_id>
+            <id>184165_2507</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>184165_9884</criterion_id>
+            <id>184165_6655</id>
+          </rating>
+        </ratings>
+      </criterion>
+    </criteria>
+  </rubric>
+  <rubric identifier="g57241e6462c294695160c60b0382160f">
+    <read_only>false</read_only>
+    <title>Picture Plane Application</title>
+    <reusable>false</reusable>
+    <public>false</public>
+    <points_possible>100.0</points_possible>
+    <hide_score_total>false</hide_score_total>
+    <free_form_criterion_comments>false</free_form_criterion_comments>
+    <criteria>
+      <criterion>
+        <criterion_id>314226_5622</criterion_id>
+        <points>30.0</points>
+        <description>Art</description>
+        <ratings>
+          <rating>
+            <description>All three images properly represent each corner of the picture plane.</description>
+            <points>30.0</points>
+            <criterion_id>314226_5622</criterion_id>
+            <id>blank</id>
+          </rating>
+          <rating>
+            <description>Two images properly represent</description>
+            <points>15.0</points>
+            <criterion_id>314226_5622</criterion_id>
+            <id>314226_1198</id>
+          </rating>
+          <rating>
+            <description>One image properly represents</description>
+            <points>5.0</points>
+            <criterion_id>314226_5622</criterion_id>
+            <id>blank_2</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>314226_1655</criterion_id>
+        <points>30.0</points>
+        <description>Code</description>
+        <ratings>
+          <rating>
+            <description>All buttons properly control all content areas</description>
+            <points>30.0</points>
+            <criterion_id>314226_1655</criterion_id>
+            <id>314226_8467</id>
+          </rating>
+          <rating>
+            <description>Some buttons do not function properly</description>
+            <points>15.0</points>
+            <criterion_id>314226_1655</criterion_id>
+            <id>314226_5303</id>
+          </rating>
+          <rating>
+            <description>The buttons do not control the content areas</description>
+            <points>0.0</points>
+            <criterion_id>314226_1655</criterion_id>
+            <id>314226_7108</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>314226_8313</criterion_id>
+        <points>20.0</points>
+        <description>Button Animation</description>
+        <ratings>
+          <rating>
+            <description>All buttons are animated four-state buttons.</description>
+            <points>20.0</points>
+            <criterion_id>314226_8313</criterion_id>
+            <id>314226_9867</id>
+          </rating>
+          <rating>
+            <description>The buttons are four-state but not animated.</description>
+            <points>10.0</points>
+            <criterion_id>314226_8313</criterion_id>
+            <id>314226_8449</id>
+          </rating>
+          <rating>
+            <description>The buttons do not have four states</description>
+            <points>0.0</points>
+            <criterion_id>314226_8313</criterion_id>
+            <id>314226_5537</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>314226_2764</criterion_id>
+        <points>10.0</points>
+        <description>Animation</description>
+        <ratings>
+          <rating>
+            <description>Each content area animated smoothly onto the screen in a manner that fits the subject.</description>
+            <points>10.0</points>
+            <criterion_id>314226_2764</criterion_id>
+            <id>314226_4626</id>
+          </rating>
+          <rating>
+            <description>The animation is inconsistent and does not exhibit an attention to detail.</description>
+            <points>5.0</points>
+            <criterion_id>314226_2764</criterion_id>
+            <id>314226_9589</id>
+          </rating>
+          <rating>
+            <description>The animation is inconsistent and does not support the content of the application.</description>
+            <points>0.0</points>
+            <criterion_id>314226_2764</criterion_id>
+            <id>314226_6502</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>314226_8809</criterion_id>
+        <points>10.0</points>
+        <description>Designs</description>
+        <ratings>
+          <rating>
+            <description>The application uses a grid and color palette.</description>
+            <points>10.0</points>
+            <criterion_id>314226_8809</criterion_id>
+            <id>314226_268</id>
+          </rating>
+          <rating>
+            <description>The application is missing a grid based layout or color palette</description>
+            <points>5.0</points>
+            <criterion_id>314226_8809</criterion_id>
+            <id>314226_794</id>
+          </rating>
+          <rating>
+            <description>The application uses no design principles</description>
+            <points>0.0</points>
+            <criterion_id>314226_8809</criterion_id>
+            <id>314226_6632</id>
+          </rating>
+        </ratings>
+      </criterion>
+    </criteria>
+  </rubric>
+  <rubric identifier="g415db5f760ec7bf6308b68732af849a8">
+    <read_only>false</read_only>
+    <title>Closure Application Rubric</title>
+    <reusable>false</reusable>
+    <public>false</public>
+    <points_possible>100.0</points_possible>
+    <hide_score_total>false</hide_score_total>
+    <free_form_criterion_comments>false</free_form_criterion_comments>
+    <criteria>
+      <criterion>
+        <criterion_id>184165_3061</criterion_id>
+        <points>10.0</points>
+        <description>Introductory Screen/Splash Screen</description>
+        <long_description>An introductory screen that explains the concept of closure as detailed by McCloud.</long_description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>10.0</points>
+            <criterion_id>184165_3061</criterion_id>
+            <id>blank</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>184165_3061</criterion_id>
+            <id>blank_2</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>184165_3784</criterion_id>
+        <points>50.0</points>
+        <description>Closure Examples</description>
+        <long_description>An example for each type of closure that you create. All of the examples should be related by a common theme. You can photograph, draw, or digital create the examples as you see fit. Is your theme a character, environment, location, or style? Or some combination of those elements? When designing your closure examples consider the animation requirement. How could movement enhance this experience? Are all of your example part of the same narrative? Could they all tell a story together?</long_description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>50.0</points>
+            <criterion_id>184165_3784</criterion_id>
+            <id>184165_9085</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>184165_3784</criterion_id>
+            <id>184165_2527</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>184165_2310</criterion_id>
+        <points>5.0</points>
+        <description>Interface Design relates to Content</description>
+        <long_description>The design and appearance of the interface should be related to your chosen theme.</long_description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>5.0</points>
+            <criterion_id>184165_2310</criterion_id>
+            <id>184165_9095</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>184165_2310</criterion_id>
+            <id>184165_1613</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>184165_9975</criterion_id>
+        <points>10.0</points>
+        <description>Color Palette</description>
+        <long_description>The color palette for this project should be completely greyscale plus ONE accent color. Everyone must use Helvetica. Use the font size and weight to communicate hierarchy in the text.</long_description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>10.0</points>
+            <criterion_id>184165_9975</criterion_id>
+            <id>184165_2498</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>184165_9975</criterion_id>
+            <id>184165_5649</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>184165_8262</criterion_id>
+        <points>20.0</points>
+        <description>Animation</description>
+        <long_description>At least three animated elements beyond the interface that enrich the experience. Use the interpolation, random, wave generator, or timeline objects to create some animation in AT LEAST three of the app sections. Please consider adding an animated element to each section. If you are designing your sections in Illustrator or Photoshop save the visual elements you want to move independently as a separate file. You can then modulate the position, color, or opacity of this separate file using the interpolation, random, wave generator, or timeline objects</long_description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>20.0</points>
+            <criterion_id>184165_8262</criterion_id>
+            <id>184165_3198</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>184165_8262</criterion_id>
+            <id>184165_3559</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>184165_9884</criterion_id>
+        <points>5.0</points>
+        <description>Size and Formatting</description>
+        <long_description>Set Quartz Composer to the HD 720 size for this project. Be sure that your slides and scenes occupy the entire frame.</long_description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>5.0</points>
+            <criterion_id>184165_9884</criterion_id>
+            <id>184165_2507</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>184165_9884</criterion_id>
+            <id>184165_6655</id>
+          </rating>
+        </ratings>
+      </criterion>
+    </criteria>
+  </rubric>
+  <rubric identifier="gcabdd793e642627ad47af79e4b7ab826">
+    <read_only>false</read_only>
+    <title>Picture Plane Application (1)</title>
+    <reusable>false</reusable>
+    <public>false</public>
+    <points_possible>100.0</points_possible>
+    <hide_score_total>false</hide_score_total>
+    <free_form_criterion_comments>false</free_form_criterion_comments>
+    <criteria>
+      <criterion>
+        <criterion_id>314226_5622</criterion_id>
+        <points>30.0</points>
+        <description>Art</description>
+        <ratings>
+          <rating>
+            <description>All three images properly represent each corner of the picture plane.</description>
+            <points>30.0</points>
+            <criterion_id>314226_5622</criterion_id>
+            <id>blank</id>
+          </rating>
+          <rating>
+            <description>Two images properly represent</description>
+            <points>15.0</points>
+            <criterion_id>314226_5622</criterion_id>
+            <id>314226_1198</id>
+          </rating>
+          <rating>
+            <description>One image properly represents</description>
+            <points>5.0</points>
+            <criterion_id>314226_5622</criterion_id>
+            <id>blank_2</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>314226_1655</criterion_id>
+        <points>30.0</points>
+        <description>Code</description>
+        <ratings>
+          <rating>
+            <description>All buttons properly control all content areas</description>
+            <points>30.0</points>
+            <criterion_id>314226_1655</criterion_id>
+            <id>314226_8467</id>
+          </rating>
+          <rating>
+            <description>Some buttons do not function properly</description>
+            <points>15.0</points>
+            <criterion_id>314226_1655</criterion_id>
+            <id>314226_5303</id>
+          </rating>
+          <rating>
+            <description>The buttons do not control the content areas</description>
+            <points>0.0</points>
+            <criterion_id>314226_1655</criterion_id>
+            <id>314226_7108</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>314226_8313</criterion_id>
+        <points>20.0</points>
+        <description>Button Animation</description>
+        <ratings>
+          <rating>
+            <description>All buttons are animated four-state buttons.</description>
+            <points>20.0</points>
+            <criterion_id>314226_8313</criterion_id>
+            <id>314226_9867</id>
+          </rating>
+          <rating>
+            <description>The buttons are four-state but not animated.</description>
+            <points>10.0</points>
+            <criterion_id>314226_8313</criterion_id>
+            <id>314226_8449</id>
+          </rating>
+          <rating>
+            <description>The buttons do not have four states</description>
+            <points>0.0</points>
+            <criterion_id>314226_8313</criterion_id>
+            <id>314226_5537</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>314226_2764</criterion_id>
+        <points>10.0</points>
+        <description>Animation</description>
+        <ratings>
+          <rating>
+            <description>Each content area animated smoothly onto the screen in a manner that fits the subject.</description>
+            <points>10.0</points>
+            <criterion_id>314226_2764</criterion_id>
+            <id>314226_4626</id>
+          </rating>
+          <rating>
+            <description>The animation is inconsistent and does not exhibit an attention to detail.</description>
+            <points>5.0</points>
+            <criterion_id>314226_2764</criterion_id>
+            <id>314226_9589</id>
+          </rating>
+          <rating>
+            <description>The animation is inconsistent and does not support the content of the application.</description>
+            <points>0.0</points>
+            <criterion_id>314226_2764</criterion_id>
+            <id>314226_6502</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>314226_8809</criterion_id>
+        <points>10.0</points>
+        <description>Designs</description>
+        <ratings>
+          <rating>
+            <description>The application uses a grid and color palette.</description>
+            <points>10.0</points>
+            <criterion_id>314226_8809</criterion_id>
+            <id>314226_268</id>
+          </rating>
+          <rating>
+            <description>The application is missing a grid based layout or color palette</description>
+            <points>5.0</points>
+            <criterion_id>314226_8809</criterion_id>
+            <id>314226_794</id>
+          </rating>
+          <rating>
+            <description>The application uses no design principles</description>
+            <points>0.0</points>
+            <criterion_id>314226_8809</criterion_id>
+            <id>314226_6632</id>
+          </rating>
+        </ratings>
+      </criterion>
+    </criteria>
+  </rubric>
+</rubrics>
